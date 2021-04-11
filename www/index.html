@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NCSSM Course Catalog</title>
+  <link rel="stylesheet" href="main.css" />
+</head>
+
+<body>
+  <header>
+    <h1>(Unofficial) NCSSM Course Catalog</h1>
+  </header>
+
+  <nav>
+    <h2>Search</h2>
+    <label for="school">Program</label>
+    <select id="school">
+      <option value="All" selected>All</option>
+      <option value="NCSSM Online">Online</option>
+      <option value="NCSSM Residential (Durham)">Residential</option>
+    </select>
+    <label for="dept">Department</label>
+    <select id="dept">
+      <option value="All" selected>All</option>
+      <option value="Engineering and Computer Science">
+        Engineering and Computer Science
+      </option>
+      <option value="Humanities">Humanities</option>
+      <option value="Science">Science</option>
+      <option value="Mathematics">Mathematics</option>
+      <option value="Interdisciplinary Electives">
+        Interdisciplinary Electives
+      </option>
+      <option value="Physical Activity & Wellness" class="school-residential">
+        Physical Activity &amp; Wellness
+      </option>
+      <option value="Student Life" class="school-residential">Student Life</option>
+    </select>
+    <label for="subject">Subject</label>
+    <select id="subject" class="dept-all">
+      <option value="All" class="dept-all" selected>All</option>
+      <option value="Art" class="school-residential dept-hum dept-all">Art</option>
+      <option value="Biology" class="dept-sci dept-all">Biology</option>
+      <option value="Chemistry" class="dept-sci dept-all">Chemistry</option>
+      <option value="Computer Science" class="dept-ecs dept-all">Computer Science</option>
+      <option value="Drama" class="school-residential dept-hum dept-all">Drama</option>
+      <option value="Engineering" class="dept-ecs dept-all">Engineering</option>
+      <option value="English" class="dept-hum dept-all">English</option>
+      <option value="History & Social Sciences" class="dept-hum dept-all">
+        History &amp; Social Sciences
+      </option>
+      <option value="Humanities Electives" class="school-residential dept-hum dept-all">Humanities Electives</option>
+      <option value="Interdisciplinary Electives" class="dept-inter dept-all">
+        Interdisciplinary Electives
+      </option>
+      <option value="Mathematics" class="dept-math dept-all">Mathematics</option>
+      <option value="Music" class="school-residential dept-hum dept-all">Music</option>
+      <option value="Physical Activity & Wellness" class="school-residential dept-paw dept-all">
+        Physical Activity &amp; Wellness
+      </option>
+      <option value="Physics" class="dept-sci dept-all">Physics</option>
+      <option value="Student Life" class="school-residential dept-life dept-all">Student Life</option>
+      <option value="World Languages" class="school-residential dept-hum dept-all">World Languages</option>
+    </select>
+    <label for="keyword">Keywords</label>
+    <input type="text" id="keyword" />
+
+    <button id="search">Search</button>
+    <button id="reset">Reset</button>
+  </nav>
+
+  <main>
+    <h2>Search Results</h2>
+    <ul id="results"></ul>
+  </main>
+
+  <footer>
+    Copyright 2021 Timothy Laskoski. Source available <a
+      href="https://github.com/tslnc04/smath-classes">@tslnc04/smath-classes</a> on GitHub.
+  </footer>
+
+  <script src="main.js"></script>
+</body>
+
+</html>
