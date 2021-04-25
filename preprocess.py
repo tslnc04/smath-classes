@@ -45,6 +45,11 @@ for listing in courses_list:
     course['description'] = ps[3].string.strip() if ps[3].string else ''
     course['meetings'] = list(ps[4].stripped_strings)[1] if len(ps) >= 5 else ''
 
+    # When the department and subject are the same, the catalog doesn't
+    # actually show the subject, so add that back in.
+    if 'subject' not in course:
+        course['subject'] = course['dept']
+
     courses[course['course_id']] = course
 
 with open(catalog_output, 'w') as f:

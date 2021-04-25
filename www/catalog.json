@@ -668,7 +668,8 @@
         "prerequisites": "Students apply in the Fall of their Junior year for entry in the Spring Semester.",
         "title": "CH4910 Research Computational Sci I",
         "description": "This is an advanced course for students with the maturity, independence, and motivation necessary to conduct their own research project. Students learn computational methodology and design while conducting a variety of computational projects on a small scale. Students then write their own research proposals on a problem of interest to them. Throughout the semester, students read from the primary scienti\ufb01c literature and participate in discussion groups on current issues in computational science research. Based on the outcomes of the semester\u2019's work, students may be given an opportunity to participate in summer research programs on campus or in the Triangle area. Students with a \ufb01nal grade of B or higher are encouraged to continue in CM444 Research in Computational Science II.",
-        "meetings": "Seven periods per week including three labs."
+        "meetings": "Seven periods per week including three labs.",
+        "subject": "Interdisciplinary Electives"
     },
     {
         "course_id": "CH4911",
@@ -678,7 +679,8 @@
         "prerequisites": "Final grade of B or higher in  Research in Computational Science I or permission of the Dean of Science.",
         "title": "CH4911 Research Computational Sci II",
         "description": "In this course, students continue to conduct computational research based on their previous semester and summer work. Time is devoted to the completion of the research project and a written paper. Students are required to present their results at the NCSSM Research Symposium and are encouraged to present their research at the North Carolina Student Academy of Science competition and at other state and national competitions.  Students will also work on a computationally-relevant project as a group, such as developing curricular materials for external distribution.",
-        "meetings": "Three periods per week including labs (G block)."
+        "meetings": "Three periods per week including labs (G block).",
+        "subject": "Interdisciplinary Electives"
     },
     {
         "course_id": "CH4920",
@@ -924,7 +926,7 @@
         "dept": "Engineering and Computer Science",
         "subject": "Computer Science",
         "credits": "This course counts towards your required 5 enrollments per semester.  This course meets the following graduation requirements: Engineering and Computer Science Requirement.",
-        "prerequisites": "CS4020, CS4040, CS4060, CS4070/AR4070, CS4200/MA4200, EE4100, PH4130, MA4110 or by placement test.",
+        "prerequisites": "One of CS4020, CS4040, CS4060, CS4070/AR4070, CS4200/MA4200, EE4100, PH4130, MA4110 or by placement test.",
         "title": "CS4240 Procedural and Object-Oriented Programming",
         "description": "This is a second course in programming which achieves two major goals:  one is building skill in writing short, correct procedures that implement algorithms or perform other computational tasks; the second is gaining insight into using classes to build custom objects that encapsulate state and behavior.  Advanced topics such as recursion and regular expressions will be covered.   This course will be bilingual, beginning with the Python language and, as we develop classes and objects, the Java language.    This class will closely study the object model in both languages, including interfaces, polymorphism, and inheritance.  There will be several major programming projects, some individual and some group projects in addition to smaller in-class studies of programming constructs.",
         "meetings": "Four periods per week including lab."
@@ -954,13 +956,15 @@
     },
     {
         "course_id": "CS4300",
-        "school": "NCSSM Online",
+        "school": "NCSSM Residential (Durham)",
         "dept": "Engineering and Computer Science",
         "subject": "Computer Science",
-        "terms_currently_offered": "Semester2",
-        "title": "CS4300 CS4300 Honors Topics in Computer Science: Human and Computer Interaction",
-        "description": "Placeholder",
-        "meetings": "Spring Semester: Wednesday, 7:30pm"
+        "terms_currently_offered": "Semester1",
+        "credits": "This course counts towards your required 5 enrollments per semester.  This course meets the following graduation requirements: Engineering and Computer Science Requirement.",
+        "prerequisites": "One of CS4020, CS4040, CS4060, CS4070/AR4070, CS4200/MA4200, EE4100, PH4130, MA4110 or by placement test.",
+        "title": "CS4300 Honors Topics in Computer Science: Human and Computer Interaction",
+        "description": "Whether you are designing a website, a phone app, or a software system, the more you know about humans, the more likely it is that you will create a usable product.  This course is designed to introduce students to a user-centered approach to the design of software artifacts. We will cover conceptual, cognitive, social, and emotional aspects of computer use, interface design, and evaluation methods. For Fall 2021 this course will meet in a Durham classroom and be taught remotely by an instructor from NCSSM's Morganton Campus.",
+        "meetings": "Four periods per week including lab."
     },
     {
         "course_id": "CS4320",
@@ -1121,13 +1125,16 @@
     },
     {
         "course_id": "EE4080",
-        "school": "NCSSM Residential (Durham)",
+        "video": "https://www.youtube.com/embed/U7qFQ8GZDqo",
+        "school": "NCSSM Online",
         "dept": "Engineering and Computer Science",
         "subject": "Engineering",
-        "credits": "This course counts towards your required 5 enrollments per semester.  This course meets the following graduation requirements: Engineering and Computer Science Requirement.",
-        "title": "EE4080 Biomedical Engineering",
-        "description": "This course introduces students to the different sub-specialties of biomedical engineering including biomaterials, biomechanics, bioelectricity, biomedical devices, and measurements, as well as design.  Through hands-on labs, activities, and collaborative design projects students kinesthetically explore and experience biomedical engineering principles, the engineering design process, and problem solving and troubleshooting.",
-        "meetings": "Four periods per week including lab."
+        "terms_currently_offered": "Semester1, Semester2",
+        "credits": "Online students have registration priority. For residential students, this course counts towards your required 5 enrollments per semester and satisfies your Engineering and Computer Science Requirement.",
+        "prerequisites": "B or better in Math II Honors, or an A in Math II.",
+        "title": "EE4080 EE4080 Honors Biomedical Engineering",
+        "description": "How are electrical signals from the heart measured outside the body? Is there a way to design high-heel shoes that don't hurt women's feet? How do engineers design heart valves that only allow blood to flow one way? This course introduces students to the different sub-specialties of biomedical engineering including bioelectronics and instrumentation, biomaterials, biomechanics, and biochemical. Through homework sets, hands-on lab activities, research article review, and design projects the students explore and experience biomedical engineering principles, the engineering design process, and problem solving and troubleshooting.",
+        "meetings": "Fall Semester: Wednesday 8:00pm"
     },
     {
         "course_id": "EE4100",
@@ -1154,25 +1161,25 @@
     },
     {
         "course_id": "EE4160",
-        "school": "NCSSM Online",
-        "dept": "Engineering and Computer Science",
-        "subject": "Engineering",
-        "terms_currently_offered": "Semester2",
-        "credits": "Online students have registration priority. For residential students, this course counts towards your required 5 enrollments per semester and satisfies your Engineering and Computer Science Requirement.",
-        "prerequisites": "Completion of Math III or Integrated Math III with a B or higher",
-        "title": "EE4160 EE4160 Honors Civil Engineering",
-        "description": "This course introduces students to the study and practice of civil engineering and to math and science concepts needed to solve problems related to this and other engineering disciplines. Topics include the engineering design process, engineering mathematics, applied and reactive forces and moments, static equilibrium, distributed loadings, strength of materials, and stress and buckling analyses for structures in tension, compression, and bending. Activities include small-scale laboratory explorations, design projects inspired by the profession, data acquisition and computational modeling.",
-        "meetings": "Spring Semester: Tuesday 7:00pm"
-    },
-    {
-        "course_id": "EE4180",
         "school": "NCSSM Residential (Durham)",
         "dept": "Engineering and Computer Science",
         "subject": "Engineering",
         "credits": "This course counts towards your required 5 enrollments per semester.  This course meets the following graduation requirements: Engineering and Computer Science Requirement.",
-        "title": "EE4180 Environmental Engineering",
-        "description": "This course introduces students to the study and practice of environmental engineering and to math and science concepts needed to solve problems related to these and other engineering disciplines. Topics include engineering design, hydrology and water resources, stormwater modeling and management, drinking and wastewater treatment, pollutant fate and transport, health effects of environmental pollutants, and mitigation and remediation strategies.  Activities include small-scale laboratory explorations, design projects inspired by the profession, field measurement, online data acquisition and computational modeling.",
+        "title": "EE4160 Civil Engineering",
+        "description": "This course introduces students to the study and practice of civil engineering and to math and science concepts needed to solve problems related to this and other engineering disciplines. Topics include the engineering design process, engineering mathematics, applied and reactive forces and moments, static equilibrium, distributed loadings, strength of materials, and stress and buckling analyses for structures in tension, compression, and bending. Activities include small-scale laboratory explorations, design projects inspired by the profession, data acquisition and computational modeling.",
         "meetings": "Four periods per week including lab."
+    },
+    {
+        "course_id": "EE4180",
+        "school": "NCSSM Online",
+        "dept": "Engineering and Computer Science",
+        "subject": "Engineering",
+        "terms_currently_offered": "Semester1",
+        "credits": "Online students have registration priority. For residential students, this course counts towards your required 5 enrollments per semester and satisfies your Engineering and Computer Science Requirement.",
+        "prerequisites": "Completion of Math III or Integrated Math III with a B or higher",
+        "title": "EE4180 EE4180 Environmental Engineering",
+        "description": "This course introduces students to the study and practice of environmental engineering and to math and science concepts needed to solve problems related to these and other engineering disciplines. Topics include engineering design, hydrology and water resources, stormwater modeling and management, drinking and wastewater treatment, pollutant fate and transport, health effects of environmental pollutants, and mitigation and remediation strategies.  Activities include small-scale laboratory explorations, design projects inspired by the profession, field measurement, online data acquisition and computational modeling.",
+        "meetings": "Fall Semester: Tuesday 7:00pm"
     },
     {
         "course_id": "EE4420",
@@ -1235,12 +1242,14 @@
     },
     {
         "course_id": "EN4000",
-        "school": "NCSSM Online",
+        "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "English",
-        "title": "EN4000 EN4000 Honors Creative Writing",
-        "description": "This is a course for students who get excited about language, who feel compelled to copy down poems and song lyrics in the pages of their journal, who find language the most natural form of expression. In this introduction to the composition and reading of creative writing\u2014poetry, fiction, drama, and creative non-fiction\u2014students can build a solid foundation for the craft of creative writing. Participants will stretch themselves creatively through experimenting with form and modeling the work of great writers across genres, times, and traditions. The guiding principle of the course is that creative writing is a means of engaging with the world, whether that means writing a personal essay, a food memoir, or a sonnet. In addition to one synchronous class each week, students will work individually on asynchronous assignments and collaborate with peers in workshops where burgeoning writers encounter an affirming and constructive audience for their work. Assignments focus on developing the tools for writing in many genres and styles, along with developing the habits to enable the generation of ideas, the creation of voice, the construction of narrative and image, and the process of revision. Throughout the term, students accumulate a group of works written in and out of class for inclusion in a portfolio that is the foundation of students\u2019 assessment in the course. By the end of this course, students will have both a polished portfolio of their best work and the skills to deeply engage in a creative process that results in powerful writing.",
-        "meetings": "Spring Semester, 2022: Tuesdays, 6:30 PM. Online Weekend: February 26, 2022/Optional."
+        "credits": "This course counts towards students' required 5 enrollments per semester. Students earn general elective credit.",
+        "prerequisites": "None",
+        "title": "EN4000 From Figment to Final Draft",
+        "description": "This is a course for students who get excited about language, who feel compelled to copy down poems and song lyrics in the pages of their journal, who find language the most natural form of expression. In this introduction to the composition and reading of creative writing\u2014poetry, fiction, drama, and creative non-fiction\u2014students can build a solid foundation for the craft of creative writing. Participants will stretch themselves creatively through experimenting with form and modeling the work of great writers across genres, times, and traditions. The guiding principle of the course is that creative writing is a means of engaging with the world, whether that means writing a personal essay, a food memoir, or a sonnet. Students will work individually on assignments and collaborate with peers in workshops where burgeoning writers encounter an affirming and constructive audience for their work. Assignments focus on developing the tools for writing in many genres and styles, along with developing the habits to enable the generation of ideas, the creation of voice, the construction of narrative and image, and the process of revision. Throughout the term, students accumulate a group of works written in and out of class for inclusion in a portfolio that is the foundation of students\u2019 assessment in the course. By the end of this course, students will have both a polished portfolio of their best work and the skills to deeply engage in a creative process that results in powerful writing.",
+        "meetings": "Three periods per week including lab, or two 100-minute evening class meetings."
     },
     {
         "course_id": "EN4010",
@@ -1778,13 +1787,14 @@
     },
     {
         "course_id": "HU4450",
-        "school": "NCSSM Online",
+        "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
-        "subject": "History & Social Sciences",
-        "terms_currently_offered": "Semester2",
-        "title": "HU4450 Honors Race, Leadership, and Ethics",
-        "description": "Students will study profiles of leadership in relationship to issues of race and ethics. Additionally, students will understand the ways that race influences ethical decision-making. They will acquire an in-depth knowledge of ethics and apply that knowledge to historical and contemporary issues involving racial identity and racial justice in the United States. Topics addressed in the course include tools for ethical decision-making, moral theories and ethical frameworks, race and education, the criminal justice system, cultural appropriation, race-based medicine, eugenics, racial profiling, and racial privilege. Course materials and activities include readings, discussions, videos, essays, and tests.",
-        "meetings": "This course will not be offered in 2021-2022."
+        "subject": "Humanities Electives",
+        "credits": "This course counts towards students' required 5 enrollments per semester. It meets the interdisciplinary humanities elective graduation requirement.",
+        "prerequisites": "Completion of AS4051/AS4052 American Studies I/II or AS4051W/AS4052W Writing and American Studies I/II OR completion of AS4051 or AS4051W and approval of the Registrar during Spring Administrative Adjustment. Juniors may not request this course until Spring Administrative Adjustment.",
+        "title": "HU4450 Race, Leadership, and Ethics",
+        "description": "Students study profiles of leadership in relationship to issues of racial justice and equality. They acquire an in-depth knowledge of ethics and apply that knowledge to historical and contemporary issues involving racial identity and racial justice in the American cultural landscape. Topics addressed in the course include tools for ethical decision-making, race and education, the criminal justice system and the death penalty, race-based medicine, eugenics, racial profiling, racial privilege, and appreciation vs. appropriation of culture. Course materials and activities include readings, discussions, tests and essays, films, and guest speakers.",
+        "meetings": "Three periods per week including lab, or two 100-minute evening class meetings."
     },
     {
         "course_id": "HU4460",
@@ -1850,7 +1860,8 @@
         "prerequisites": "None",
         "title": "IE3400 IE3400 Honors Computational Science",
         "description": "This is an honors level introductory course in the technologies, techniques, and tools of computational science. Computational science, not to be confused with \u201ccomputer science,\u201d looks to answer this question: \u201cHow can computers and mathematics be used to study interesting problems in science and social science?\u201d Computational science is sometimes known as \u201cmodeling and simulation,\u201d or \u201cscientific computing,\u201d and looks to create and use mathematical models to study complicated and complex problems in all areas of study. Recommended for fall, junior year.",
-        "meetings": "Fall Semester: Tuesday 8:30pm"
+        "meetings": "Fall Semester: Tuesday 8:30pm",
+        "subject": "Interdisciplinary Electives"
     },
     {
         "course_id": "IE3620",
@@ -1859,7 +1870,8 @@
         "terms_currently_offered": "Semester1",
         "title": "IE3620 IE3620 Honors Data Science for Scientists",
         "description": "Data Science is the study of the generalizable extraction of knowledge from data. Being a data scientist requires an integrated skill set spanning mathematics, statistics, machine learning, databases and other branches of computer science along with a good understanding of the craft of problem\r\nformulation to engineer effective solutions. This course will introduce students to this rapidly growing field and equip them with some of its basic principles and tools as well as its general mindset. Students will learn concepts, techniques and tools they need to deal with various facets of data science practice, including data collection and integration, exploratory data analysis, predictive\r\nmodeling, descriptive modeling, data product creation, evaluation, and effective communication. The focus in the treatment of these topics will be on breadth, rather than depth, and emphasis will be placed on integration and synthesis of concepts and their application to solving problems. To make the learning contextual, real datasets from a variety of scientific disciplines will be used.",
-        "meetings": "Fall Semester: Wednesday 8:30pm"
+        "meetings": "Fall Semester: Wednesday 8:30pm",
+        "subject": "Interdisciplinary Electives"
     },
     {
         "course_id": "IE3800",
@@ -1869,7 +1881,8 @@
         "terms_currently_offered": "Semester2",
         "title": "IE3800 IE3800 Honors Bioinformatics: Computational Biology",
         "description": "Computational biology \u2013 known also as \u201cbioinformatics\u201d \u2013 is a hybrid, interdisciplinary course, and is one of the most important new fields of study in science. Computational biology isn't a biology course per se \u2013 it's the application of computing and mathematics (primarily statistics) to biological data. What biological data? Mostly genetics and genomics data, such as studies of DNA extracted from mice breeding experiments to predict the genetic basis of diseases such as cancer, high blood pressure, and obesity! Do well in this class, and there will be a multitude of opportunities open as an undergraduate researcher and beyond! Recommended for spring, junior year.",
-        "meetings": "Spring Semester: Wednesday 8:30pm"
+        "meetings": "Spring Semester: Wednesday 8:30pm",
+        "subject": "Interdisciplinary Electives"
     },
     {
         "course_id": "IE3900",
@@ -1879,7 +1892,8 @@
         "prerequisites": "Completion of one or more computational science courses in the NCSSM Online catalog OR evidence of computational experience/permission of the Dean.",
         "title": "IE3900 IE3900 Honors Research Experience in Computational Science",
         "description": "Research Experience courses provide research skills development and the opportunity to\r\ncomplete a research project in the subject areas indicated. There are no prerequisites and these\r\nsingle-semester courses are available to juniors or seniors. Some students, upon completion of\r\nthe course, may elect to be considered for other research opportunities at NCSSM, although it is\r\nnot required.",
-        "meetings": "Spring Semester: Tuesday 7:30pm"
+        "meetings": "Spring Semester: Tuesday 7:30pm",
+        "subject": "Interdisciplinary Electives"
     },
     {
         "course_id": "IE4020",
@@ -1889,7 +1903,8 @@
         "prerequisites": "Honors Chemistry",
         "title": "IE4020 IE4020 Honors Industrial Chemistry & Engineering",
         "description": "This is a semester-long interdisciplinary course that focuses on the industrial practice of\r\nchemistry. It provides students with a real-world perspective thereby creating an awareness of\r\nthe relevance of chemistry to their daily lives. For example, students will learn in a\r\nchronologically historical sequence about major developments in industrial chemistry, such as\r\nammonia, aluminum, and nylon that have significantly affected people's lives. Students will\r\nengage in individual and group online activities, as well as collaborative lab experiences on\r\ncampus, such as developing soap or aspirin.",
-        "meetings": "Spring Semester: Monday 7:30pm"
+        "meetings": "Spring Semester: Monday 7:30pm",
+        "subject": "Interdisciplinary Electives"
     },
     {
         "course_id": "IE4080",
@@ -1900,7 +1915,8 @@
         "prerequisites": "None",
         "title": "IE4080 IE4080 Honors Energy and Sustainability",
         "description": "This course will introduce students to key topics in the field of global sustainability. Students will explore how human societies can endure in the face of global change, ecosystem degradation and global resource limitations. The course requires multidisciplinary study of topics linked by their importance to sustainability in the sciences (both natural and social), engineering, and economics and will include policy and technical insight into systems and methods used to analyze and understand systems. Students will practice applying analytical skills, often in groups, through case studies, technical and popular science articles, systems thinking models, videos and interactive simulations and an engineering design project.",
-        "meetings": "Fall Semester: Tuesday 8:30pm"
+        "meetings": "Fall Semester: Tuesday 8:30pm",
+        "subject": "Interdisciplinary Electives"
     },
     {
         "course_id": "IE4104",
@@ -1910,7 +1926,8 @@
         "prerequisites": "Completion of a Research or Professional Experience at NCSSM or through Summer Ventures; or permission of the instructor if student completed an experience with another organization.",
         "title": "IE4104 Engage to Impact",
         "description": "The Engage To Impact course provides students the opportunity to further develop professional skills to communicate their findings and the impact of an experience where the student has engaged as a maker/thinker/doer to address challenges in the world beyond the classroom.  Ultimately in this course, students will present their findings or progress via a paper, poster, and/or oral presentation. \r\n\r\nThis course further builds the technical communication skills to discuss students' findings from a previous research or professional experience accurately and clearly, but also provides time to further investigate appropriate background and context in the literature necessary to present.  The course prepares students to present at conferences or events such as NC Science and Engineering Fair, Junior Science and Humanities Symposium, State of North Carolina Undergraduate Creativity and Research Symposium, and similar events.",
-        "meetings": ""
+        "meetings": "",
+        "subject": "Interdisciplinary Electives"
     },
     {
         "course_id": "JA3051",
@@ -2055,7 +2072,8 @@
         "credits": "This course counts towards students' required 5 enrollments per semester. This course meets the following graduation requirements: Math Requirement OR STEM and STEM Interdisciplinary Requirement",
         "title": "MA3510 Math 3a",
         "description": "The Math 3 curriculum is designed to prepare students for Precalculus, AP Calculus, and AP Statistics by emphasizing proficiency in problem-solving and applications included in the NC state standards for mathematics.  Students will go beyond merely finding solutions and creating functions towards deriving formulas, exploration of complex and open-ended problems, and learning to express/ prove ideas through mathematical discourse.\r\n\r\nThis is one part of a 2-semester course sequence (MA3510 and MA3512). Students must enroll in both semesters when registering. Once enrolled students may not drop a single semester without approval from the Dean of Mathematics.",
-        "meetings": "Four periods per week including lab"
+        "meetings": "Four periods per week including lab",
+        "subject": "Mathematics"
     },
     {
         "course_id": "MA3512",
@@ -2064,7 +2082,8 @@
         "credits": "This course counts towards students' required 5 enrollments per semester. This course meets the following graduation requirements: Math Requirement OR STEM and STEM Interdisciplinary Requirement",
         "title": "MA3512 Math 3b",
         "description": "The Math 3 curriculum is designed to prepare students for Precalculus, AP Calculus, and AP Statistics by emphasizing proficiency in problem-solving and applications included in the NC state standards for mathematics.  Students will go beyond merely finding solutions and creating functions towards deriving formulas, exploration of complex and open-ended problems, and learning to express/ prove ideas through mathematical discourse.\r\n\r\nThis is one part of a 2-semester course sequence (MA3510 and MA3512). Students must enroll in both semesters when registering. Once enrolled students may not drop a single semester without approval from the Dean of Mathematics.",
-        "meetings": "Four periods per week including lab"
+        "meetings": "Four periods per week including lab",
+        "subject": "Mathematics"
     },
     {
         "course_id": "MA3550",
@@ -2073,7 +2092,8 @@
         "credits": "One unit core mathematics or core elective credit",
         "title": "MA3550 Modeling with Matrices",
         "description": "Miniterm Course for Credit?\r\n\r\nThis introduction to linear algebra develops the arithmetic and algebra matrices and how matrices and matrix operations can be used to model a variety of real-world phenomena.  While focusing on applications, the course considers linear transformations, Euclidean vector spaces and inner product spaces, and eigenvectors and eigenvalues.  Models include least squares, Fourier analysis, CT scans, morphs, and age specific growth models.",
-        "meetings": "Miniterm Course"
+        "meetings": "Miniterm Course",
+        "subject": "Mathematics"
     },
     {
         "course_id": "MA4000",
@@ -2081,7 +2101,8 @@
         "dept": "Mathematics",
         "title": "MA4000 Precalculus and Modeling I",
         "description": "This course is devoted to developing a toolkit of functions that serves as a bridge between mathematics and the world it models.  The toolkit includes explicitly defined functions such as exponential, polynomial, logarithmic, and trigonometric functions, as well as functions that are defined recursively and parametrically.  Students investigate functions, bivariate data, and models with graphing calculators and computers.  Both graphical and analytical approaches to problem solving are emphasized.  Students also complete lab activities and present their results in formal written reports.\r\n\r\nThis is one part of a 2-semester course sequence (MA4000 and MA4002). Students must enroll in both semesters when registering. Once enrolled students may not drop a single semester without approval from the Dean of Mathematics.",
-        "meetings": "Four periods per week including lab."
+        "meetings": "Four periods per week including lab.",
+        "subject": "Mathematics"
     },
     {
         "course_id": "MA4002",
@@ -2091,7 +2112,8 @@
         "prerequisites": "MA4000 Precalculus & Modeling w/ Advanced Topics I",
         "title": "MA4002 Precalculus and Modeling II",
         "description": "This course is devoted to developing a toolkit of functions that serves as a bridge between mathematics and the world it models.  The toolkit includes explicitly defined functions such as exponential, polynomial, logarithmic, and trigonometric functions, as well as functions that are defined recursively and parametrically.  Students investigate functions, bivariate data, and models with graphing calculators and computers.  Both graphical and analytical approaches to problem solving are emphasized.  Students also complete lab activities and present their results in formal written reports.\r\n\r\nThis is one part of a 2-semester course sequence (MA4000 and MA4002). Students must enroll in both semesters when registering. Once enrolled students may not drop a single semester without approval from the Dean of Mathematics.",
-        "meetings": "Four periods per week including lab."
+        "meetings": "Four periods per week including lab.",
+        "subject": "Mathematics"
     },
     {
         "course_id": "MA4010",
@@ -2101,7 +2123,8 @@
         "prerequisites": "MA4002 Precalculus & Modeling w/ Advanced Topics II",
         "title": "MA4010 Biocalculus",
         "description": "This course introduces students to concepts of calculus and the applications of calculus to mathematical modeling of biological systems. The emphasis in this course is on understanding many of the big ideas of calculus through discovery labs and the use of technology. Through class discussions, problem solving, laboratory experiences, and writing assignments students discover connections between concepts of calculus and life sciences. They will develop an understanding of these concepts, and use these concepts in solving realistic problems, including applying mathematical techniques to analyze real data sets. There is less of an emphasis on algebraic manipulation in this course compared to AP Calculus courses. Calculators and computers are frequently used as tools in the course. Calculus topics normally covered include rates of change, linear approximations, interpretations of the derivative and integral, differential equations, and the concept of a limit. Biology topics may include homeostasis, ecological stability, population dynamics, membrane dynamics, molecule interactions, climate change, and evolution.",
-        "meetings": "Three periods per week including lab."
+        "meetings": "Three periods per week including lab.",
+        "subject": "Mathematics"
     },
     {
         "course_id": "MA4020",
@@ -2112,7 +2135,8 @@
         "related_links": "",
         "title": "MA4020 AP Calculus AB I",
         "description": "This course introduces students to the concepts of differential calculus and the applications of calculus to mathematical modeling.  Through class discussions, problem solving, laboratory experiences, and writing assignments students discover the important concepts of calculus, develop an understanding of these concepts, and use these concepts in solving realistic problems.  This course generally includes the completion of a substantial mathematical modeling project.  Calculators and computers are used as tools in the course.  Topics normally covered include the derivative, techniques of differentiation, local linearity of functions, linear approximations, and the concept of a limit.\r\n\r\nThis is one part of a 2-semester course sequence (MA4020 and MA4022). Students must enroll in both semesters when registering. Once enrolled students may not drop a single semester without approval from the Dean of Mathematics.",
-        "meetings": "Four periods per week including lab."
+        "meetings": "Four periods per week including lab.",
+        "subject": "Mathematics"
     },
     {
         "course_id": "MA4022",
@@ -2122,7 +2146,8 @@
         "prerequisites": "MA4020 AP Calculus AB w/ Advanced Topics I",
         "title": "MA4022 AP Calculus AB II",
         "description": "This course continues the study of calculus and its applications to mathematical modeling.  Through class discussions, problem solving, laboratory experiences, and writing assignments students discover the important concepts of calculus, develop an understanding of these concepts, and use these concepts in solving realistic problems.  This course generally includes the completion of a substantial mathematical modeling project.  Calculators and computers are used as tools in the course.  Topics normally covered include applications of the derivative, Euler's method, implicit differentiation and related rates, and the concepts of definite and indefinite integrals.\r\n\r\nThis is one part of a 2-semester course sequence (MA4020 and MA4022). Students must enroll in both semesters when registering. Once enrolled students may not drop a single semester without approval from the Dean of Mathematics.",
-        "meetings": "Four periods per week including lab."
+        "meetings": "Four periods per week including lab.",
+        "subject": "Mathematics"
     },
     {
         "course_id": "MA4030",
@@ -2133,18 +2158,19 @@
         "prerequisites": "Precalculus with a grade of B+ or higher",
         "title": "MA4030 MA4030 AP Calculus BC w/ Advanced Topics I",
         "description": "This course provides students with a fast-paced introduction to the concepts of differential calculus and the applications of calculus to mathematical modeling.  Through class discussions, problem solving, laboratory experiences, and writing assignments students discover the important concepts of calculus, develop an understanding of these concepts, and use these concepts in solving realistic problems.  This course generally includes the completion of a substantial mathematical modeling project.  Calculators and computers are used as tools in the course.  Topics normally covered include the derivative, local linearity of functions, linear approximations, some applications of the derivative, l'Hopital's rule and the concept of a limit.\r\n\r\nThis is one part of a 2-semester course sequence (MA4030 and MA4032). Students must enroll in both semesters when registering. Once enrolled students may not drop a single semester without approval from the Dean of Mathematics.",
-        "meetings": "Fall Semester: Wednesday 8:00pm"
+        "meetings": "Fall Semester: Wednesday 8:00pm",
+        "subject": "Mathematics"
     },
     {
         "course_id": "MA4032",
-        "video": "https://www.youtube.com/embed/2x1lpST-f4o",
-        "school": "NCSSM Online",
+        "school": "NCSSM Residential (Durham)",
         "dept": "Mathematics",
-        "terms_currently_offered": "Semester2",
-        "prerequisites": "MA4030 AP Calculus BC w/ Advanced Topics I OR AP Calculus AB",
-        "title": "MA4032 MA4032 AP Calculus BC w/ Advanced Topics II",
-        "description": "This course continues the accelerated study of calculus and its applications to mathematical modeling.  Through class discussions, problem solving, laboratory experiences, and writing assignments students discover the important concepts of calculus, develop an understanding of these concepts, and use these concepts in solving realistic problems.  This course generally includes the completion of a substantial mathematical modeling project.  Calculators and computers are used as tools in the course.  Topics normally covered include additional applications of the derivative, an introduction to differential equations, slope fields, Euler's method, definite and indefinite integrals, numerical approximations of integrals, calculating area and total change of a function, and some applications of integrals.  Students also focus on skills necessary for success on the AP BC Calculus examination.\r\n\r\nThis is one part of a 2-semester course sequence (MA4030 and MA4032). Students must either enroll in both semesters when registering or have completed AP Calc AB previously. Once enrolled students may not drop a single semester without approval from the Dean of Mathematics.",
-        "meetings": "Spring Semester: Wednesday, 8:00pm"
+        "credits": "This course counts towards students' required 5 enrollments per semester. This course meets the following graduation requirements: Math Requirement OR STEM and STEM Interdisciplinary Requirement",
+        "prerequisites": "MA4030 AP Calculus BC w/ Advanced Topics I",
+        "title": "MA4032 AP Calculus BC II",
+        "description": "This course continues the accelerated study of calculus and its applications to mathematical modeling.  Through class discussions, problem solving, laboratory experiences, and writing assignments students discover the important concepts of calculus, develop an understanding of these concepts, and use these concepts in solving realistic problems.  This course generally includes the completion of a substantial mathematical modeling project.  Calculators and computers are used as tools in the course.  Topics normally covered include additional applications of the derivative, an introduction to differential equations, slope fields, Euler's method, definite and indefinite integrals, numerical approximations of integrals, calculating area and total change of a function, and some applications of integrals.  Students also focus on skills necessary for success on the AP BC Calculus examination.\r\n\r\nThis is one part of a 2-semester course sequence (MA4030 and MA4032). Students must enroll in both semesters when registering. Once enrolled students may not drop a single semester without approval from the Dean of Mathematics.",
+        "meetings": "Four periods per week including lab.",
+        "subject": "Mathematics"
     },
     {
         "course_id": "MA4050",
@@ -2154,7 +2180,8 @@
         "prerequisites": "MA4032 AP Calculus BC w/ Advanced Topics II",
         "title": "MA4050 Modeling with DiffEQ",
         "description": "In this course students examine what differential equations are and how they are used to model real-world phenomena.  They also look at different techniques for solving differential equations and interpret their solutions in a real world context.  Matrices and vector functions will be utilized to help prepare students for future coursework in Calculus and Linear Algebra. Analytical methods, geometric methods, and numerical methods are included.  Technology is an important component of the course.",
-        "meetings": "Four periods per week including lab."
+        "meetings": "Four periods per week including lab.",
+        "subject": "Mathematics"
     },
     {
         "course_id": "MA4060",
@@ -2166,7 +2193,8 @@
         ",": "MA476",
         "title": "MA4060 Multivariable Calculus",
         "description": "This course begins with the theory and application of vector functions and partial derivatives.  Topics include a vector approach to regression modeling, the Frenet-Serret equations, continuity and differentiability of functions of several variables, gradients and directional derivatives, and classic optimization problems.  Numerical methods such as Newton's Method for solving non-linear systems and modeling with vector-valued functions of scalar and scalar-valued functions of a vector are included. Students will then continue their study of multivariable calculus including multiple integrals, the Jacobian and change of variables, vector fields, line and surface integrals, divergence and curl. Significant time is devoted to the study of Green's Theorem, Stokes' Theorem and the Divergence Theorem.",
-        "meetings": "Four periods per week."
+        "meetings": "Four periods per week.",
+        "subject": "Mathematics"
     },
     {
         "course_id": "MA4064",
@@ -2177,7 +2205,8 @@
         "prerequisites": "AP Calculus BC AND Score of 4 or 5 on the AP Calculus BC Exam",
         "title": "MA4064 MA4064 Honors Multivariable Calculus with Applications I",
         "description": "This is the first half of a university-level course in multivariable calculus. This course includes the theory and application of vector functions and partial derivatives. Topics include basic operations with vectors and parametric curves in 2- and 3-space, the Frenet Frame and Frenet-Serret equations, continuity and differentiability of functions of several variables, gradients and directional derivatives, and classic optimization problems. Additional topics and projects will be added throughout the course to explore interesting applications of calculus and differential equations.",
-        "meetings": "Fall Semester: Wednesday 8:30pm"
+        "meetings": "Fall Semester: Wednesday 8:30pm",
+        "subject": "Mathematics"
     },
     {
         "course_id": "MA4066",
@@ -2188,7 +2217,8 @@
         "prerequisites": "MA4066 Multivariable Calculus with Applications I",
         "title": "MA4066 MA4066 Honors Multivariable Calculus with Applications II",
         "description": "Students will continue their study of multivariable calculus including multiple integrals, the Jacobian and change of variables, vector fields, line and surface integrals, divergence and curl. Significant time is devoted to the study of Green's Theorem, Stokes' Theorem and the Divergence Theorem. Students will be expected to use formal mathematical proofs and to work on extended problem sets. Additional topics and projects will be added throughout the course to explore interesting applications of calculus and differential equations.",
-        "meetings": "Spring Semester: Wednesday 8:30pm"
+        "meetings": "Spring Semester: Wednesday 8:30pm",
+        "subject": "Mathematics"
     },
     {
         "course_id": "MA4100",
@@ -2197,7 +2227,8 @@
         "credits": "This course counts towards students' required 5 enrollments per semester. This course meets the following graduation requirements: Math Requirement OR STEM and STEM Interdisciplinary Requirement",
         "title": "MA4100 AP Statistics I",
         "description": "MA4100 and MA4102 constitute a comprehensive introduction to statistics and include all of the topics on the AP Statistics syllabus.\r\n\r\nThis is one part of a 2-semester course sequence (MA4100 and MA4102). Students must enroll in both semesters when registering. Once enrolled students may not drop a single semester without approval from the Dean of Mathematics.",
-        "meetings": "Four periods per week including lab."
+        "meetings": "Four periods per week including lab.",
+        "subject": "Mathematics"
     },
     {
         "course_id": "MA4102",
@@ -2207,7 +2238,8 @@
         "prerequisites": "MA4100 AP Statistics w/ Advanced Topics I",
         "title": "MA4102 AP Statistics II",
         "description": "MA4100 and MA4102 constitute a comprehensive introduction to statistics and include all of the topics on the AP Statistics syllabus.\r\n\r\nThis is one part of a 2-semester course sequence (MA4100 and MA4102). Students must enroll in both semesters when registering. Once enrolled students may not drop a single semester without approval from the Dean of Mathematics.",
-        "meetings": "Four periods per week including lab."
+        "meetings": "Four periods per week including lab.",
+        "subject": "Mathematics"
     },
     {
         "course_id": "MA4110",
@@ -2217,7 +2249,8 @@
         "corequisites": "MA4000 Precalculus & Modeling w/ Advanced Topics I",
         "title": "MA4110 Foundations of Data Science",
         "description": "This course combines three perspectives: inferential thinking, computational thinking, and real-world relevance. Given data arising from some real-world phenomenon, how does one analyze that data so as to understand that phenomenon? The course teaches critical concepts and skills in computer programming and statistical inference, in conjunction with hands-on analysis of real-world datasets, including economic data, document collections, geographical data, and social networks. It delves into social issues surrounding data analysis such as privacy and design.",
-        "meetings": "Four days a week including lab."
+        "meetings": "Four days a week including lab.",
+        "subject": "Mathematics"
     },
     {
         "course_id": "MA4112",
@@ -2227,7 +2260,8 @@
         "prerequisites": "Course-ending grade of B+ or higher in MA4110 Foundations of Data Science",
         "title": "MA4112 Advanced Data Science",
         "description": "Combining data, computation, and inferential thinking, data science is redefining how people and organizations solve challenging problems and understand their world. This second course in data science prepares students for future work in computer science and statistics courses as well as computational science courses in other fields. In this class, we explore key areas of data science including question formulation, data collection and cleaning, visualization, statistical inference, predictive modeling, and decision making.\u200b Through a strong emphasis on data centric computing, quantitative critical thinking, and exploratory data analysis, this class covers key principles and techniques of data science. These include languages for transforming, querying and analyzing data; algorithms for machine learning methods including regression, classification and clustering; principles behind creating informative data visualizations; statistical concepts of measurement error and prediction; and techniques for scalable data processing.",
-        "meetings": "Four days a week including lab."
+        "meetings": "Four days a week including lab.",
+        "subject": "Mathematics"
     },
     {
         "course_id": "MA4200/CS4200",
@@ -2236,16 +2270,20 @@
         "credits": "This course counts towards students' required 5 enrollments per semester. This course meets the following graduation requirements: Math Requirement OR Engineering and Computer Science Requirement OR STEM and STEM Interdisciplinary Requirement",
         "title": "MA4200/CS4200 Cryptography",
         "description": "Crosslisted as CS4200. This course introduces students to cryptographic methods used to encipher and decipher secret messages with an emphasis on using computer programming to automate the process. Through class discussions, problem solving, group activities, and programming assignments, students will learn a variety of encryption schemes ranging from the age of Caesar to modern public key encryption used to secure digital communications online. Students will learn introductory number theory and statistics to describe these methods and identify weaknesses that allow secret messages to be read without the key. Students will also learn programming topics such as variables, functions, conditional logic, looping, and file input/output in the Python language to implement each cryptographic method. This course will utilize a blended learning environment with large portions of material being taught online and utilizing in class time for working in groups.",
-        "meetings": "Four periods per week including lab."
+        "meetings": "Four periods per week including lab.",
+        "subject": "Mathematics"
     },
     {
         "course_id": "MA4210",
-        "school": "NCSSM Online",
+        "school": "NCSSM Residential (Durham)",
         "dept": "Mathematics",
-        "terms_currently_offered": "Semester1",
-        "title": "MA4210 MA4210 Honors Topics in Civic Mathematics",
-        "description": "Honors Topics in Civic Mathematics offers students an overview of a number of applications of mathematics, especially those topics that relate to the concept of fair and just relations between the individual and society. Topics covered include fair division of resources and costs, voting methods, apportionment of legislative bodies, power of voting coalitions, graph theory and networks and recursive systems. The course will also extend students' knowledge of matrices and their use in applications related to the social sciences, as well as probability and univariate data analysis. Applications and modeling are central to this course of study. Students are expected to be involved in formulating and modeling problems, applying the appropriate mathematics to find solutions, and evaluating those solutions. Computers and calculators are incorporated as computational modeling aids. Activities in this course include lectures, weekly synchronous class meetings, discussions, projects, group activities and assessments.",
-        "meetings": "Fall Semester: Wednesday 8:00pm"
+        "credits": "This course counts towards students' required 5 enrollments per semester. This course meets the following graduation requirements: Math Requirement OR STEM and STEM Interdisciplinary Requirement",
+        "prerequisites": "MA4000 Precalculus & Modeling w/ Advanced Topics I",
+        "related_links": "",
+        "title": "MA4210 Topics in Civic Mathematics",
+        "description": "Topics in Civic Mathematics offers students an overview of a number of applications of mathematics, especially those topics that relate to the concept of fair and just relations between the individual and society. Topics covered include fair division of resources and costs, voting methods, apportionment of legislative bodies, power of voting coalitions, graph theory and networks and recursive systems. The course will also extend students' knowledge of matrices and their use in applications related to the social sciences, as well as probability and univariate data analysis. Applications and modeling are central to this course of study. Students are expected to be involved in formulating and modeling problems, applying the appropriate mathematics to find solutions, and evaluating those solutions. Computers and calculators are incorporated as computational modeling aids. Activities in this course include lectures, weekly synchronous class meetings, discussions, projects, group activities and assessments.",
+        "meetings": "Three periods per week including lab.",
+        "subject": "Mathematics"
     },
     {
         "course_id": "MA4220",
@@ -2254,7 +2292,8 @@
         "credits": "This course counts towards students' required 5 enrollments per semester. This course meets the following graduation requirements: Math Requirement OR STEM and STEM Interdisciplinary Requirement",
         "title": "MA4220 Mathematical Modeling",
         "description": "Students with advanced mathematical knowledge are introduced to the creative and analytic aspects of modeling real-world phenomena.  Models from engineering, biology, political science, management science, and everyday life are examined through a variety of techniques.  When presented with a situation, students learn to develop, test, and revise an appropriate model.  The course is project-oriented and focuses on applying the mathematics students already know.  Group work is required, and students present their work in extensive written reports.",
-        "meetings": "Four periods per week including lab OR 3 periods per week including 2 labs"
+        "meetings": "Four periods per week including lab OR 3 periods per week including 2 labs",
+        "subject": "Mathematics"
     },
     {
         "course_id": "MA4230",
@@ -2263,7 +2302,8 @@
         "credits": "This course counts towards students' required 5 enrollments per semester. This course meets the following graduation requirements: Math Requirement OR STEM and STEM Interdisciplinary Requirement",
         "title": "MA4230 Complex Systems",
         "description": "This course is a survey of topics involving complex systems and modern networks.  Some of the topics studied in the course are fractals and iterated function systems, chaos and chaotic behavior, cellular automata and self-organization, genetic algorithms and neural networks.  Web applications and computer programs are essential tools of the course.  Familiarity with programming is advantageous but not necessary.",
-        "meetings": "Four periods per week including lab."
+        "meetings": "Four periods per week including lab.",
+        "subject": "Mathematics"
     },
     {
         "course_id": "MA4240",
@@ -2274,7 +2314,8 @@
         "corequisites": "MA4032 AP Calculus BC w/ Advanced Topics II",
         "title": "MA4240 Numerical Analysis",
         "description": "This course, which requires familiarity with a programming language, introduces students to the theory and practice of computational methods to analyze mathematical problems. Topics include computer arithmetic and computational error, function approximation, numerical differentiation and integration, curve-fitting, solving non-linear equations and systems of equations, and numerical solutions to ordinary differential equations. This course is the equivalent of a one-semester university course in numerical analysis.",
-        "meetings": "Four periods per week."
+        "meetings": "Four periods per week.",
+        "subject": "Mathematics"
     },
     {
         "course_id": "MA4300",
@@ -2283,7 +2324,8 @@
         "credits": "This course counts towards students' required 5 enrollments per semester. This course meets the following graduation requirements: Math Requirement OR STEM and STEM Interdisciplinary Requirement",
         "title": "MA4300 Combinatorics and Game Theory",
         "description": "This is a college-level mathematics course that introduces students to some of the major topics in combinatorics.  Topics include permutations and combinations, binomial and multinomial expansions, inclusion-exclusion, methods of generating functions, recursive equations, and economic game theory.",
-        "meetings": "Three periods per week including lab."
+        "meetings": "Three periods per week including lab.",
+        "subject": "Mathematics"
     },
     {
         "course_id": "MA4310",
@@ -2293,7 +2335,8 @@
         "prerequisites": "A- or higher in MA4500 OR Previous experience with rigorous proof writing AND Permission of Mathematics Department Chair",
         "title": "MA4310 Topics in Theoretical Mathematics",
         "description": "Selected topics from number theory, abstract algebra, and advanced combinatorics, are studied.  They include divisibility properties of integers, special properties of prime numbers, congruences, Euler's Phi function, and some applications to fields such as cryptography and computer science. Students are expected to enter this course with previous experience in proof writing. Students with programming experience are encouraged to use this tool to investigate some of the ideas presented in the course.  Strong interest and talent in mathematics are required.",
-        "meetings": "Four periods per week including lab."
+        "meetings": "Four periods per week including lab.",
+        "subject": "Mathematics"
     },
     {
         "course_id": "MA4500",
@@ -2302,7 +2345,8 @@
         "credits": "This course counts towards students' required 5 enrollments per semester. This course meets the following graduation requirements: Math Requirement OR STEM and STEM Interdisciplinary Requirement",
         "title": "MA4500 Graph Theory with REX Math",
         "description": "This course develops the theory and application of graphs, a major area of modern mathematics, and also provides an introduction to mathematical proof and research. Students develop their ability to make thoughtful conjectures, and to verify those conjectures with valid mathematical arguments. This is done by considering questions of graph structures and colorings, tree and path optimization, matrix representations, and some open questions in the field. Students are then required to investigate an open problem in which they demonstrate their ability to make conjectures and to write concise, complete, and coherent proofs. \r\n\r\nStrong interest and talent in mathematics are required.",
-        "meetings": "Four periods per week including lab."
+        "meetings": "Four periods per week including lab.",
+        "subject": "Mathematics"
     },
     {
         "course_id": "MA4510",
@@ -2312,7 +2356,8 @@
         "prerequisites": "MA4500 AND Research Program Application. Exemption of MA4500 possible with approval of the Mathematics Department Chair.",
         "title": "MA4510 Research in Mathematics",
         "description": "This course is designed for students who have completed calculus and would like to work on a research team investigating an unsolved problem in mathematics.  Since the research questions usually arise from the fields of graph theory and complex systems, students are encouraged to complete MA4500 Graph Theory with REX Math and MA4230 Introduction to Complex Systems prior to enrolling or to have completed comparable coursework in 9th or 10th grade.",
-        "meetings": "Three periods per week including lab."
+        "meetings": "Three periods per week including lab.",
+        "subject": "Mathematics"
     },
     {
         "course_id": "MA4512",
@@ -2323,7 +2368,8 @@
         "related_links": "",
         "title": "MA4512 Research in Mathematics II",
         "description": "This course continues the project begun in MA4510.  Students write a formal paper presenting the background of the problem and any prior results found by other researchers.  The students' results are then presented in standard mathematical form with all necessary detail in the proofs and corollaries presented.  If the students' results warrant, the paper may be submitted for publication.",
-        "meetings": "Three periods per week including lab."
+        "meetings": "Three periods per week including lab.",
+        "subject": "Mathematics"
     },
     {
         "course_id": "MA4520",
@@ -2333,7 +2379,8 @@
         "prerequisites": "Permission of the Mathematics Department Chair",
         "title": "MA4520 Advanced Mathematical Topics I",
         "description": "This course offers an opportunity for students with an especially strong background in mathematics to pursue a rigorous study of a topic outside the standard curriculum.  The topic chosen may be in mathematics or a mathematical study of another field.  Students are expected to make formal presentations and to write a paper on the topic.  This course is intended for students who have exhausted the other course offerings in mathematics or who wish to do independent research in mathematics.  Repeatable for credit.",
-        "meetings": "3 periods per week AND 1 after school meeting per week with faculty sponsor from partner university"
+        "meetings": "3 periods per week AND 1 after school meeting per week with faculty sponsor from partner university",
+        "subject": "Mathematics"
     },
     {
         "course_id": "MA4522",
@@ -2343,7 +2390,8 @@
         "prerequisites": "Permission of the Mathematics Department Chair",
         "title": "MA4522 Advanced Mathematical Topics II",
         "description": "This course offers an opportunity for students with an especially strong background in mathematics to pursue a rigorous study of a topic outside the standard curriculum.  The topic chosen may be in mathematics or a mathematical study of another field.  Students are expected to make formal presentations and to write a paper on the topic.  This course is intended for students who have exhausted the other course offerings in mathematics or who wish to do independent research in mathematics.  Repeatable for credit.",
-        "meetings": "3 periods per week AND 1 after school meeting per week with faculty sponsor from partner university"
+        "meetings": "3 periods per week AND 1 after school meeting per week with faculty sponsor from partner university",
+        "subject": "Mathematics"
     },
     {
         "course_id": "MR3080",
@@ -2353,7 +2401,8 @@
         "prerequisites": "No prerequisite courses required, however, students must apply, be accepted, and fully commit to the Mentorship Program.  This course is required for juniors selected to the NCSSM Mentorship program via application reviewed by Director of Mentorship and Research and committee.  The successful completion of this course with a minimum of a B is required to be accepted to continue the NCSSM Mentorship experience in the summer for Mentorship 1 students, in academic year for Mentorship 2 students, and summer/academic year for Mentorship 3 students.",
         "title": "MR3080 Mentorship: Foundations in Research",
         "description": "Foundations in Mentorship is a required course for NCSSM junior online and residential students selected for NCSSM Mentorship Program to prepare students to engage in their Mentorship experience with an off-campus mentor in the upcoming summer and/or academic year.  This course equips students with research skills to be a proactive participant in an ongoing or independent research and the personal success skills necessary for the social and communication dynamics in a professional environment. Students will identify their strengths and weaknesses, implement tools for developing and evaluating goals, , and develop critical thinking skills as they apply techniques to acquire, read, understand, and synthesize primary research or professional literature or sources as well as engage in small group interactions to discuss peer reviewed research articles. \r\n\r\nAs part of this course, students will begin a portfolio of materials demonstrating their growth and skill development, including a set of readings that relate to their research and a record of their reflection and activities throughout the journey.  In addition, students will complete all necessary tasks to identify and secure a mentor for the student\u2019s upcoming research experience and to be in compliance for their off-campus Mentorship experience.",
-        "meetings": "One period per week.  Online and residential sections will be offered."
+        "meetings": "One period per week.  Online and residential sections will be offered.",
+        "subject": "Interdisciplinary Electives"
     },
     {
         "course_id": "MR4040",
@@ -2361,7 +2410,8 @@
         "dept": "Interdisciplinary Electives",
         "title": "MR4040 Engage to Impact",
         "description": "",
-        "meetings": ""
+        "meetings": "",
+        "subject": "Interdisciplinary Electives"
     },
     {
         "course_id": "MR4050A",
@@ -2371,7 +2421,8 @@
         "related_links": "IE3080",
         "title": "MR4050A Mentorship: Senior Research",
         "description": "Mentorship: Senior Research is a course required for students in Mentorship 2 and Mentorship 3 Programs.  This course gives students ownership of their Mentorship opportunity by facilitating students\u2019 professional and personal skills including reflecting on and achieving personal goals, crafting and delivering an effective message, and successfully engaging in a research project.  Students will continue to investigate their curiosity and interests by making foundational connections between primary research or professional literature or sources and their own project.\r\n\r\nAs part of this course, students will spend two afternoons per week engaging in their Mentorship experience with an off-campus mentor.  A necessary part of that experience includes continuing to build their portfolio of materials demonstrating their growth and skill development, including a set of readings that relate to their particular area of Mentorship interest, a research proposal, a final professional product to communicate their findings, and a record of their reflection and activities throughout the journey.  In addition, all students will be required to craft and deliver an oral presentation of their findings to a broad audience at the NCSSM Research Symposium community-wide event in the spring.",
-        "meetings": "Two lab periods plus one additional meeting block per week. (Note: This course also overlaps the T/Th Flex Use Time.)"
+        "meetings": "Two lab periods plus one additional meeting block per week. (Note: This course also overlaps the T/Th Flex Use Time.)",
+        "subject": "Interdisciplinary Electives"
     },
     {
         "course_id": "MR4050B",
@@ -2382,7 +2433,8 @@
         "related_links": "IE4050a",
         "title": "MR4050B Mentorship: Senior Research",
         "description": "Mentorship: Senior Research is a course required for students in Mentorship 2 and Mentorship 3 Programs.  This course gives students ownership of their Mentorship opportunity by facilitating students\u2019 professional and personal skills including reflecting on and achieving personal goals, crafting and delivering an effective message, and successfully engaging in a research project.  Students will continue to investigate their curiosity and interests by making foundational connections between primary research or professional literature or sources and their own project.\r\n\r\nAs part of this course, students will spend two afternoons per week engaging in their Mentorship experience with an off-campus mentor.  A necessary part of that experience includes continuing to build their portfolio of materials demonstrating their growth and skill development, including a set of readings that relate to their particular area of Mentorship interest, a research proposal, a final professional product to communicate their findings, and a record of their reflection and activities throughout the journey.  In addition, all students will be required to craft and deliver an oral presentation of their findings to a broad audience at the NCSSM Research Symposium community-wide event in the spring.",
-        "meetings": "Two lab periods plus one additional meeting block per week. (Note: This course also overlaps the T/Th Flex Use Time.)"
+        "meetings": "Two lab periods plus one additional meeting block per week. (Note: This course also overlaps the T/Th Flex Use Time.)",
+        "subject": "Interdisciplinary Electives"
     },
     {
         "course_id": "MU3500",
@@ -2493,7 +2545,8 @@
         "credits": "Open to both online and residential students, this course counts towards residential students' required 5 enrollments per semester. Residential students earn general elective credit.",
         "title": "MU4400  Honors History of Western Music",
         "description": "This course is a chronological survey of Western art music focusing primarily on the Baroque, Viennese, and Romantic eras of Western music history. Students learn to listen to and analyze music critically, as a vehicle to understanding theoretical and historical trends of each stylistic period. Overviews of composers and their musical styles serve as a conceptual focus for the music that students examine in each historical period. A key component of the course is regular listening labs in which students sharpen their powers of listening and concentration and apply concepts and theories they have learned in the course to their analyses of selected musical compositions and performances.",
-        "meetings": "Spring Semester 2022: Tuesdays, 8:00 PM. Online Weekend: February 26, 2022/Optional"
+        "meetings": "Spring Semester 2022: Tuesdays, 8:00 PM. Online Weekend: February 26, 2022/Optional",
+        "subject": "Fine Arts"
     },
     {
         "course_id": "MU4410",
@@ -2533,7 +2586,8 @@
         "prerequisites": "None",
         "title": "PA1000 Racquet Sports I: Badminton and Pickle Ball",
         "description": "Course will focus on the racquet sports of Badminton and Pickle Ball; sports played over a net using rackets with stroking techniques that vary from relatively slow to quick movements. Students will be able to understand the equipment, rules, strategies and etiquette for each sport. Students will be introduced to basic and intermediate skills for each sport.",
-        "meetings": "One period per week including lab."
+        "meetings": "One period per week including lab.",
+        "subject": "Physical Activity & Wellness"
     },
     {
         "course_id": "PA1001",
@@ -2543,7 +2597,8 @@
         "prerequisites": "None",
         "title": "PA1001 Racquet Sports II: Tennis and Racquetball",
         "description": "Course will focus on the racquet sports of Tennis and Racquetball; sports played over a net using rackets with stroking techniques that vary from relatively slow to quick movements. Students will be able to understand the equipment, rules, strategies and etiquette for each sport. Students will be introduced to basic and intermediate skills for each sport.",
-        "meetings": "One period per week including lab."
+        "meetings": "One period per week including lab.",
+        "subject": "Physical Activity & Wellness"
     },
     {
         "course_id": "PA1002",
@@ -2553,7 +2608,8 @@
         "prerequisites": "None",
         "title": "PA1002 Outdoor Recreation",
         "description": "Course will cover elements in outdoor recreation to include: hiking, mountain biking and rock wall climbing.  Students will get an exposure of different outdoor recreational activities and use leadership skills in planning activities.  They will get the opportunity to explore local parks and trails, gain an appreciation of outdoor education and make it a part of a healthy lifestyle.",
-        "meetings": "One period per week including lab."
+        "meetings": "One period per week including lab.",
+        "subject": "Physical Activity & Wellness"
     },
     {
         "course_id": "PA1003",
@@ -2563,7 +2619,8 @@
         "prerequisites": "None",
         "title": "PA1003 Disc Sports: Ultimate Frisbee and Disc Golf",
         "description": "Course will focus on the disc sports of Ultimate Frisbee and Disc Golf.  Students will be introduced to basic and intermediate skills of each sport and will understand the rules of the game to play with peers. Students will also learn how to track fitness and make it a part of a healthy lifestyle.",
-        "meetings": "One period per week including lab."
+        "meetings": "One period per week including lab.",
+        "subject": "Physical Activity & Wellness"
     },
     {
         "course_id": "PA1004",
@@ -2574,7 +2631,8 @@
         "prerequisites": "None",
         "title": "PA1004 Archery",
         "description": "Course will focus on Archery and being able to understand the equipment, safety rules, and steps of shooting.  Students will be introduced to basic and intermediate skills and learn the steps and technique for nocking and safely shooting an arrow. Students will learn how to track fitness and make it a part of a healthy lifestyle.",
-        "meetings": "One period per week including lab."
+        "meetings": "One period per week including lab.",
+        "subject": "Physical Activity & Wellness"
     },
     {
         "course_id": "PA1005",
@@ -2584,7 +2642,8 @@
         "prerequisites": "None",
         "title": "PA1005 Weight Training for Sports and Fitness",
         "description": "This course provides instruction in the fundamental techniques, principles, and concepts in weight training.  Emphasis is on utilizing proper form with each exercise involving resistance to safely obtain increased muscle tone, endurance, strength, or power.  Besides performing weight training to become toned, shaped, or stronger, students can design and execute a program specifically geared to enhancing performance in a sport, or to meet other personal fitness goals.  Students will learn how to track fitness and make it a part of a healthy lifestyle.",
-        "meetings": "One period per week including lab."
+        "meetings": "One period per week including lab.",
+        "subject": "Physical Activity & Wellness"
     },
     {
         "course_id": "PA1006",
@@ -2594,7 +2653,8 @@
         "prerequisites": "None",
         "title": "PA1006 Team Sports",
         "description": "Course will cover various team sports depending on the interest of the class.  Students will be introduced to various sports and learn basic and intermediate skills of each sport while understanding the rules of each sport. Students will learn how to track fitness and make it a part of a healthy lifestyle.",
-        "meetings": "One period per week including lab."
+        "meetings": "One period per week including lab.",
+        "subject": "Physical Activity & Wellness"
     },
     {
         "course_id": "PA1007",
@@ -2604,7 +2664,8 @@
         "prerequisites": "None",
         "title": "PA1007 Pilates and Yoga",
         "description": "Students learn the fundamentals of the Pilates method of exercise, along with basic Yoga movements and poses.  Both systems of movement emphasize the use of breath to support mindful movement that develops strength and flexibility.  The Pilates mat work is especially effective in the development of core strength, while the Yoga emphasizes flow, balance, and flexibility.  No previous experience with Pilates or Yoga is required.  Students will learn how to track fitness and make it a part of a healthy lifestyle.",
-        "meetings": "One period per week including lab."
+        "meetings": "One period per week including lab.",
+        "subject": "Physical Activity & Wellness"
     },
     {
         "course_id": "PA1008",
@@ -2614,7 +2675,8 @@
         "prerequisites": "None",
         "title": "PA1008 Self Defense",
         "description": "This course introduces students to personal safety and awareness.  Topics of study include the recognition of dangerous situations and instruction in basic self defense moves and counters.  Students meet in class weekly for 90 minutes and are expected to participate in two additional weekly exercise sessions beyond the class meeting to comply with the Surgeon General's recommendation of three moderate exercise sessions weekly.",
-        "meetings": "One period per week including lab."
+        "meetings": "One period per week including lab.",
+        "subject": "Physical Activity & Wellness"
     },
     {
         "course_id": "PA1009",
@@ -2624,7 +2686,8 @@
         "prerequisites": "None",
         "title": "PA1009 Hiking",
         "description": "This course provides students the ability to plan and lead a successful hike. Students will be able to understand the rules and etiquette of hiking on the road, greenways and trails. They will acquire values from a lifelong activity that contributes to a healthy lifestyle.",
-        "meetings": "One period per week including lab."
+        "meetings": "One period per week including lab.",
+        "subject": "Physical Activity & Wellness"
     },
     {
         "course_id": "PA1020",
@@ -2634,7 +2697,8 @@
         "prerequisites": "None",
         "title": "PA1020 Fit for Life",
         "description": "This course is for those who are serious about getting in shape through extremely rigorous exercise.  The curriculum will focus is on overall toning and strengthening of the entire body.  Every two weeks students participate in a different workout including resistance training, plyometrics, kickboxing, pilates, abdominal exercises, cardio strengthening, and yoga.  Students will learn how to track fitness and make it a part of a healthy lifestyle.",
-        "meetings": "One period per week including lab."
+        "meetings": "One period per week including lab.",
+        "subject": "Physical Activity & Wellness"
     },
     {
         "course_id": "PH3040",
@@ -2857,7 +2921,8 @@
         "credits": "One unit residential education credit",
         "title": "RE1002 Cornerstone: Foundational Life Skills",
         "description": "Using a holistic education approach of self-discovery, self-realization, and wellness, this course helps students integrate into the life and culture of NCSSM and to establish the foundation necessary for academic and personal success in the classroom, in relationships, and in community living at NCSSM and beyond.  Topics include time management, conflict management and healthy relationships, diversity, and resume-writing and interview skills.",
-        "meetings": "One period per week."
+        "meetings": "One period per week.",
+        "subject": "Student Life"
     },
     {
         "course_id": "RE1010",
@@ -2867,7 +2932,8 @@
         "prerequisites": "RE1002",
         "title": "RE1010 Exploring Multicultural America",
         "description": "This course explores how issues of race, culture, class, gender, sexual orientation, gender identity, and disability interact to form the diverse nation in which we live.  Students learn the history of prejudice, discrimination, power, and privilege in the United States and discuss the impact it has on today\u2019s society.  Students also reflect on their own experiences, identities and biases and how each has shaped their own worldview.",
-        "meetings": "One period per week."
+        "meetings": "One period per week.",
+        "subject": "Student Life"
     },
     {
         "course_id": "RE1012",
@@ -2877,7 +2943,8 @@
         "prerequisites": "RE1002",
         "title": "RE1012 Public Speaking",
         "description": "Public speaking aims to inform, convince, influence, persuade, or entertain a group of people.  The development of public speaking skills, valuable in itself, can also contribute to one\u2019s self-confidence, organizational skills, listening skills, and anxiety-management.  In this course, students learn to write and deliver effective speeches.  This includes learning the effective use of presentation aids, supporting arguments, communication ethics, and speech organization.",
-        "meetings": "One period per week."
+        "meetings": "One period per week.",
+        "subject": "Student Life"
     },
     {
         "course_id": "RE1016",
@@ -2887,7 +2954,8 @@
         "prerequisites": "RE1002",
         "title": "RE1016 Marketing You",
         "description": "This course utilizes discussion and cooperative learning experiences to help students identify their strengths and learn how to best market themselves in the professional world.  Focus is on using social media as a tool to identify promising career options, writing an effective resume, and learning techniques for professional interviews.",
-        "meetings": "One period per week."
+        "meetings": "One period per week.",
+        "subject": "Student Life"
     },
     {
         "course_id": "RE1018",
@@ -2898,7 +2966,8 @@
         "related_links": "",
         "title": "RE1018 Excellence in Leadership",
         "description": "Excellence in Leadership is designed to help students learn and develop leadership skills that can be utilized at NCSSM, in their future college environment, and in the outside world. Through group interaction and personal reflection students will begin to identify and understand their strengths and personal leadership style, how one\u2019s history and experience impact leadership, and how to effectively develop teams and communities. The course takes a hands-on approach to learning leadership theory, and focuses specifically on the relational leadership model as the lens by which to examine effective leadership.",
-        "meetings": "One period per week."
+        "meetings": "One period per week.",
+        "subject": "Student Life"
     },
     {
         "course_id": "RE1020",
@@ -2908,7 +2977,8 @@
         "prerequisites": "RE1002",
         "title": "RE1020 Financial Planning",
         "description": "Financial Planning is designed to provide students financial literacy and develop the skills necessary to effectively manage their current and future financial resources. Topics include budgeting, consumer economics, college finance, loans, employment, insurance, taxes, and investing. The course focuses on practical applications of the material throughout the student\u2019s life. Through RE1020 Financial Planning students are also provided a foundational understanding of economic policy and principles, access to additional content and resources not covered in the course, and current events that impact the financial aspects of their lives.",
-        "meetings": "One period per week."
+        "meetings": "One period per week.",
+        "subject": "Student Life"
     },
     {
         "course_id": "RE1022",
@@ -2918,7 +2988,8 @@
         "prerequisites": "RE1002",
         "title": "RE1022 NCSSM to College",
         "description": "The course, co-taught as a collaboration between Residential Education and the NCSSM Counseling department, is designed to allow students to successfully transition from NCSSM to their future college or university environment. Taken in the spring semester of junior year, College and Career Planning prepares students by helping them identify what is important to them in a college or university, understand how colleges select students, complete the college application process, and navigate financial aid resources. To enhance their application efforts and prepare them for opportunities in their senior year and beyond, students will also work on identifying and articulating strengths, develop a professional resume, and practice interview skills.",
-        "meetings": "One period per week."
+        "meetings": "One period per week.",
+        "subject": "Student Life"
     },
     {
         "course_id": "SE4001",
@@ -2928,7 +2999,8 @@
         "prerequisites": "None",
         "title": "SE4001 Emergency Care of Illness and Injuries",
         "description": "This course prepares students to recognize and respond appropriately to cardiac, breathing, and First Aid emergencies.  Students learn skills necessary to give immediate first aid and CPR or breathing until more advanced medical personnel arrive and take over. We look at environmental conditions, mechanics and classification of injury, bloodborne pathogens and taking action. Along with the anatomy of injuries and preventive measures, students also learn how to take blood pressure, pulses and respiration. Along with learning the anatomy and immediate care of injuries and emergency situations of different sections of the body, we discuss shoulder, knee, elbow etc.  The course considers equipment that could be applied to help reduce injuries along with devices to assist in caring for an individual, such as spine board and air splints.  We conclude with concussion assessment. This is a hands on class where you will be palpating your own and your partner's body.",
-        "meetings": "Three periods per week."
+        "meetings": "Three periods per week.",
+        "subject": "Physical Activity & Wellness"
     },
     {
         "course_id": "SP3051",
@@ -3066,13 +3138,14 @@
     },
     {
         "course_id": "SS4000",
-        "school": "NCSSM Residential (Durham)",
+        "video": "https://www.youtube.com/embed/csY0oNPW1bk",
+        "school": "NCSSM Online",
         "dept": "Humanities",
         "subject": "History & Social Sciences",
-        "credits": "This course counts towards students' required 5 enrollments per semester. Students earn general elective credit.",
-        "title": "SS4000 International Relations",
+        "terms_currently_offered": "Semester1",
+        "title": "SS4000 Honors International Relations",
         "description": "Patterns of change and continuity characterize international relations across time. City-state interactions in ancient Greece resemble dynamics of great power relations today, such as those between the United States and China. However, we also find that new technologies (nuclear and cyber weapons,) shared threats (climate change and terrorism,) and the spread of liberal democracy alter these interactions in sometimes counterintuitive ways. International Relations (IR) introduces the formal study of how countries interrelate, focusing on the broad subject areas of international security and economics. In this course, we learn about the primary actors, their various instruments, and patterns of interactions. Students acquire a conceptual toolbox for framing international issues and events and analyzing their causes and consequences. The course challenges students to critically assess the philosophical and ideological underpinnings of major IR schools of thought. Course activities include a group project investigating a contemporary conflict, the application of IR theory to current events, a documentary viewing, and regular discussion of international news.",
-        "meetings": "Three periods per week."
+        "meetings": "Fall Semester 2021: Mondays, 8:00 PM. Online Weekend: October 2, 2021/Optional."
     },
     {
         "course_id": "SS4010",
@@ -3198,7 +3271,8 @@
         "prerequisites": "None",
         "title": "VS1002 Men's Soccer",
         "description": "These courses are a way for students  who engage in the recommended amount of weekly exercise for a healthy lifestyle through an NCSSM Interscholastic Varsity Sport to meet the NCSSM physical activity/wellness graduation requirement or to satisfy an entering credit deficiency in physical activity from 9th/10th grade.  Instruction in each sport is geared to developing a high functional level of physical fitness through cardiovascular exercise, resistance training and drills; knowledge of the rules, techniques, and strategies of the sport; and the athletic ability to execute them in an interscholastic competition.  Students registered for VS Varsity Sports must be selected by the coach to be on the team and must participate in a minimum of three practices/competitions per week during the sport's season.  Students unable to meet these requirements for any reason (poor academic performance in other courses, medical, or disciplinary reasons) will be dropped from VS Varsity Sports and must meet the NCSSM physical activity/wellness requirement by completing another activity-based PA course.\r\n\r\nNOTE:  Though students may be involved in a varsity sport each term, they receive academic credit for VS Varsity Sports only once unless satisfying an entering credit deficiency in physical activity.",
-        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time."
+        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time.",
+        "subject": "Physical Activity & Wellness"
     },
     {
         "course_id": "VS1004",
@@ -3208,7 +3282,8 @@
         "credits": "One unit physical activity credit",
         "title": "VS1004 Women's Volleyball",
         "description": "These courses are a way for students  who engage in the recommended amount of weekly exercise for a healthy lifestyle through an NCSSM Interscholastic Varsity Sport to meet the NCSSM physical activity/wellness graduation requirement or to satisfy an entering credit deficiency in physical activity from 9th/10th grade.  Instruction in each sport is geared to developing a high functional level of physical fitness through cardiovascular exercise, resistance training and drills; knowledge of the rules, techniques, and strategies of the sport; and the athletic ability to execute them in an interscholastic competition.  Students registered for VS Varsity Sports must be selected by the coach to be on the team and must participate in a minimum of three practices/competitions per week during the sport's season.  Students unable to meet these requirements for any reason (poor academic performance in other courses, medical, or disciplinary reasons) will be dropped from VS Varsity Sports and must meet the NCSSM physical activity/wellness requirement by completing another activity-based PA course.\r\n\r\nNOTE:  Though students may be involved in a varsity sport each term, they receive academic credit for VS Varsity Sports only once unless satisfying an entering credit deficiency in physical activity.",
-        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time."
+        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time.",
+        "subject": "Physical Activity & Wellness"
     },
     {
         "course_id": "VS1006",
@@ -3218,7 +3293,8 @@
         "credits": "One unit physical activity credit",
         "title": "VS1006 Women's Tennis",
         "description": "These courses are a way for students  who engage in the recommended amount of weekly exercise for a healthy lifestyle through an NCSSM Interscholastic Varsity Sport to meet the NCSSM physical activity/wellness graduation requirement or to satisfy an entering credit deficiency in physical activity from 9th/10th grade.  Instruction in each sport is geared to developing a high functional level of physical fitness through cardiovascular exercise, resistance training and drills; knowledge of the rules, techniques, and strategies of the sport; and the athletic ability to execute them in an interscholastic competition.  Students registered for VS Varsity Sports must be selected by the coach to be on the team and must participate in a minimum of three practices/competitions per week during the sport's season.  Students unable to meet these requirements for any reason (poor academic performance in other courses, medical, or disciplinary reasons) will be dropped from VS Varsity Sports and must meet the NCSSM physical activity/wellness requirement by completing another activity-based PA course.\r\n\r\nNOTE:  Though students may be involved in a varsity sport each term, they receive academic credit for VS Varsity Sports only once unless satisfying an entering credit deficiency in physical activity.",
-        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time."
+        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time.",
+        "subject": "Physical Activity & Wellness"
     },
     {
         "course_id": "VS1008",
@@ -3228,7 +3304,8 @@
         "credits": "One unit physical activity credit",
         "title": "VS1008 Cross-Country",
         "description": "These courses are a way for students  who engage in the recommended amount of weekly exercise for a healthy lifestyle through an NCSSM Interscholastic Varsity Sport to meet the NCSSM physical activity/wellness graduation requirement or to satisfy an entering credit deficiency in physical activity from 9th/10th grade.  Instruction in each sport is geared to developing a high functional level of physical fitness through cardiovascular exercise, resistance training and drills; knowledge of the rules, techniques, and strategies of the sport; and the athletic ability to execute them in an interscholastic competition.  Students registered for VS Varsity Sports must be selected by the coach to be on the team and must participate in a minimum of three practices/competitions per week during the sport's season.  Students unable to meet these requirements for any reason (poor academic performance in other courses, medical, or disciplinary reasons) will be dropped from VS Varsity Sports and must meet the NCSSM physical activity/wellness requirement by completing another activity-based PA course.\r\n\r\nNOTE:  Though students may be involved in a varsity sport each term, they receive academic credit for VS Varsity Sports only once unless satisfying an entering credit deficiency in physical activity.",
-        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time."
+        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time.",
+        "subject": "Physical Activity & Wellness"
     },
     {
         "course_id": "VS1010",
@@ -3238,7 +3315,8 @@
         "credits": "One unit physical activity credit",
         "title": "VS1010 Competitive Cheer",
         "description": "These courses are a way for students  who engage in the recommended amount of weekly exercise for a healthy lifestyle through an NCSSM Interscholastic Varsity Sport to meet the NCSSM physical activity/wellness graduation requirement or to satisfy an entering credit deficiency in physical activity from 9th/10th grade.  Instruction in each sport is geared to developing a high functional level of physical fitness through cardiovascular exercise, resistance training and drills; knowledge of the rules, techniques, and strategies of the sport; and the athletic ability to execute them in an interscholastic competition.  Students registered for VS Varsity Sports must be selected by the coach to be on the team and must participate in a minimum of three practices/competitions per week during the sport's season.  Students unable to meet these requirements for any reason (poor academic performance in other courses, medical, or disciplinary reasons) will be dropped from VS Varsity Sports and must meet the NCSSM physical activity/wellness requirement by completing another activity-based PA course.\r\n\r\nNOTE:  Though students may be involved in a varsity sport each term, they receive academic credit for VS Varsity Sports only once unless satisfying an entering credit deficiency in physical activity.",
-        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time."
+        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time.",
+        "subject": "Physical Activity & Wellness"
     },
     {
         "course_id": "VS1012",
@@ -3248,7 +3326,8 @@
         "credits": "One unit physical activity credit",
         "title": "VS1012 Women's Golf",
         "description": "These courses are a way for students  who engage in the recommended amount of weekly exercise for a healthy lifestyle through an NCSSM Interscholastic Varsity Sport to meet the NCSSM physical activity/wellness graduation requirement or to satisfy an entering credit deficiency in physical activity from 9th/10th grade.  Instruction in each sport is geared to developing a high functional level of physical fitness through cardiovascular exercise, resistance training and drills; knowledge of the rules, techniques, and strategies of the sport; and the athletic ability to execute them in an interscholastic competition.  Students registered for VS Varsity Sports must be selected by the coach to be on the team and must participate in a minimum of three practices/competitions per week during the sport's season.  Students unable to meet these requirements for any reason (poor academic performance in other courses, medical, or disciplinary reasons) will be dropped from VS Varsity Sports and must meet the NCSSM physical activity/wellness requirement by completing another activity-based PA course.\r\n\r\nNOTE:  Though students may be involved in a varsity sport each term, they receive academic credit for VS Varsity Sports only once unless satisfying an entering credit deficiency in physical activity.",
-        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time."
+        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time.",
+        "subject": "Physical Activity & Wellness"
     },
     {
         "course_id": "VS1022",
@@ -3258,7 +3337,8 @@
         "credits": "One unit physical activity credit",
         "title": "VS1022 Men's Basketball",
         "description": "These courses are a way for students  who engage in the recommended amount of weekly exercise for a healthy lifestyle through an NCSSM Interscholastic Varsity Sport to meet the NCSSM physical activity/wellness graduation requirement or to satisfy an entering credit deficiency in physical activity from 9th/10th grade.  Instruction in each sport is geared to developing a high functional level of physical fitness through cardiovascular exercise, resistance training and drills; knowledge of the rules, techniques, and strategies of the sport; and the athletic ability to execute them in an interscholastic competition.  Students registered for VS Varsity Sports must be selected by the coach to be on the team and must participate in a minimum of three practices/competitions per week during the sport's season.  Students unable to meet these requirements for any reason (poor academic performance in other courses, medical, or disciplinary reasons) will be dropped from VS Varsity Sports and must meet the NCSSM physical activity/wellness requirement by completing another activity-based PA course.\r\n\r\nNOTE:  Though students may be involved in a varsity sport each term, they receive academic credit for VS Varsity Sports only once unless satisfying an entering credit deficiency in physical activity.",
-        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time."
+        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time.",
+        "subject": "Physical Activity & Wellness"
     },
     {
         "course_id": "VS1024",
@@ -3268,7 +3348,8 @@
         "credits": "One unit physical activity credit",
         "title": "VS1024 Women's Basketball",
         "description": "These courses are a way for students  who engage in the recommended amount of weekly exercise for a healthy lifestyle through an NCSSM Interscholastic Varsity Sport to meet the NCSSM physical activity/wellness graduation requirement or to satisfy an entering credit deficiency in physical activity from 9th/10th grade.  Instruction in each sport is geared to developing a high functional level of physical fitness through cardiovascular exercise, resistance training and drills; knowledge of the rules, techniques, and strategies of the sport; and the athletic ability to execute them in an interscholastic competition.  Students registered for VS Varsity Sports must be selected by the coach to be on the team and must participate in a minimum of three practices/competitions per week during the sport's season.  Students unable to meet these requirements for any reason (poor academic performance in other courses, medical, or disciplinary reasons) will be dropped from VS Varsity Sports and must meet the NCSSM physical activity/wellness requirement by completing another activity-based PA course.\r\n\r\nNOTE:  Though students may be involved in a varsity sport each term, they receive academic credit for VS Varsity Sports only once unless satisfying an entering credit deficiency in physical activity.",
-        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time."
+        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time.",
+        "subject": "Physical Activity & Wellness"
     },
     {
         "course_id": "VS1026",
@@ -3277,7 +3358,8 @@
         "credits": "One unit physical activity credit",
         "title": "VS1026 Swimming",
         "description": "These courses are a way for students  who engage in the recommended amount of weekly exercise for a healthy lifestyle through an NCSSM Interscholastic Varsity Sport to meet the NCSSM physical activity/wellness graduation requirement or to satisfy an entering credit deficiency in physical activity from 9th/10th grade.  Instruction in each sport is geared to developing a high functional level of physical fitness through cardiovascular exercise, resistance training and drills; knowledge of the rules, techniques, and strategies of the sport; and the athletic ability to execute them in an interscholastic competition.  Students registered for VS Varsity Sports must be selected by the coach to be on the team and must participate in a minimum of three practices/competitions per week during the sport's season.  Students unable to meet these requirements for any reason (poor academic performance in other courses, medical, or disciplinary reasons) will be dropped from VS Varsity Sports and must meet the NCSSM physical activity/wellness requirement by completing another activity-based PA course.\r\n\r\nNOTE:  Though students may be involved in a varsity sport each term, they receive academic credit for VS Varsity Sports only once unless satisfying an entering credit deficiency in physical activity.",
-        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time."
+        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time.",
+        "subject": "Physical Activity & Wellness"
     },
     {
         "course_id": "VS1028",
@@ -3286,7 +3368,8 @@
         "credits": "One unit physical activity credit",
         "title": "VS1028 Wrestling",
         "description": "These courses are a way for students  who engage in the recommended amount of weekly exercise for a healthy lifestyle through an NCSSM Interscholastic Varsity Sport to meet the NCSSM physical activity/wellness graduation requirement or to satisfy an entering credit deficiency in physical activity from 9th/10th grade.  Instruction in each sport is geared to developing a high functional level of physical fitness through cardiovascular exercise, resistance training and drills; knowledge of the rules, techniques, and strategies of the sport; and the athletic ability to execute them in an interscholastic competition.  Students registered for VS Varsity Sports must be selected by the coach to be on the team and must participate in a minimum of three practices/competitions per week during the sport's season.  Students unable to meet these requirements for any reason (poor academic performance in other courses, medical, or disciplinary reasons) will be dropped from VS Varsity Sports and must meet the NCSSM physical activity/wellness requirement by completing another activity-based PA course.\r\n\r\nNOTE:  Though students may be involved in a varsity sport each term, they receive academic credit for VS Varsity Sports only once unless satisfying an entering credit deficiency in physical activity.",
-        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time."
+        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time.",
+        "subject": "Physical Activity & Wellness"
     },
     {
         "course_id": "VS1030",
@@ -3295,7 +3378,8 @@
         "credits": "One unit physical activity credit",
         "title": "VS1030 Cheerleading",
         "description": "These courses are a way for students  who engage in the recommended amount of weekly exercise for a healthy lifestyle through an NCSSM Interscholastic Varsity Sport to meet the NCSSM physical activity/wellness graduation requirement or to satisfy an entering credit deficiency in physical activity from 9th/10th grade.  Instruction in each sport is geared to developing a high functional level of physical fitness through cardiovascular exercise, resistance training and drills; knowledge of the rules, techniques, and strategies of the sport; and the athletic ability to execute them in an interscholastic competition.  Students registered for VS Varsity Sports must be selected by the coach to be on the team and must participate in a minimum of three practices/competitions per week during the sport's season.  Students unable to meet these requirements for any reason (poor academic performance in other courses, medical, or disciplinary reasons) will be dropped from VS Varsity Sports and must meet the NCSSM physical activity/wellness requirement by completing another activity-based PA course.\r\n\r\nNOTE:  Though students may be involved in a varsity sport each term, they receive academic credit for VS Varsity Sports only once unless satisfying an entering credit deficiency in physical activity.",
-        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time."
+        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time.",
+        "subject": "Physical Activity & Wellness"
     },
     {
         "course_id": "VS1032",
@@ -3304,7 +3388,8 @@
         "credits": "One unit physical activity credit",
         "title": "VS1032 Indoor Track",
         "description": "These courses are a way for students  who engage in the recommended amount of weekly exercise for a healthy lifestyle through an NCSSM Interscholastic Varsity Sport to meet the NCSSM physical activity/wellness graduation requirement or to satisfy an entering credit deficiency in physical activity from 9th/10th grade.  Instruction in each sport is geared to developing a high functional level of physical fitness through cardiovascular exercise, resistance training and drills; knowledge of the rules, techniques, and strategies of the sport; and the athletic ability to execute them in an interscholastic competition.  Students registered for VS Varsity Sports must be selected by the coach to be on the team and must participate in a minimum of three practices/competitions per week during the sport's season.  Students unable to meet these requirements for any reason (poor academic performance in other courses, medical, or disciplinary reasons) will be dropped from VS Varsity Sports and must meet the NCSSM physical activity/wellness requirement by completing another activity-based PA course.\r\n\r\nNOTE:  Though students may be involved in a varsity sport each term, they receive academic credit for VS Varsity Sports only once unless satisfying an entering credit deficiency in physical activity.",
-        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time."
+        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time.",
+        "subject": "Physical Activity & Wellness"
     },
     {
         "course_id": "VS1034",
@@ -3313,7 +3398,8 @@
         "credits": "One unit physical activity credit",
         "title": "VS1034 Diving",
         "description": "These courses are a way for students  who engage in the recommended amount of weekly exercise for a healthy lifestyle through an NCSSM Interscholastic Varsity Sport to meet the NCSSM physical activity/wellness graduation requirement or to satisfy an entering credit deficiency in physical activity from 9th/10th grade.  Instruction in each sport is geared to developing a high functional level of physical fitness through cardiovascular exercise, resistance training and drills; knowledge of the rules, techniques, and strategies of the sport; and the athletic ability to execute them in an interscholastic competition.  Students registered for VS Varsity Sports must be selected by the coach to be on the team and must participate in a minimum of three practices/competitions per week during the sport's season.  Students unable to meet these requirements for any reason (poor academic performance in other courses, medical, or disciplinary reasons) will be dropped from VS Varsity Sports and must meet the NCSSM physical activity/wellness requirement by completing another activity-based PA course.\r\n\r\nNOTE:  Though students may be involved in a varsity sport each term, they receive academic credit for VS Varsity Sports only once unless satisfying an entering credit deficiency in physical activity.",
-        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time."
+        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time.",
+        "subject": "Physical Activity & Wellness"
     },
     {
         "course_id": "VS1042",
@@ -3322,7 +3408,8 @@
         "credits": "One unit physical activity credit",
         "title": "VS1042 Men's Golf",
         "description": "These courses are a way for students  who engage in the recommended amount of weekly exercise for a healthy lifestyle through an NCSSM Interscholastic Varsity Sport to meet the NCSSM physical activity/wellness graduation requirement or to satisfy an entering credit deficiency in physical activity from 9th/10th grade.  Instruction in each sport is geared to developing a high functional level of physical fitness through cardiovascular exercise, resistance training and drills; knowledge of the rules, techniques, and strategies of the sport; and the athletic ability to execute them in an interscholastic competition.  Students registered for VS Varsity Sports must be selected by the coach to be on the team and must participate in a minimum of three practices/competitions per week during the sport's season.  Students unable to meet these requirements for any reason (poor academic performance in other courses, medical, or disciplinary reasons) will be dropped from VS Varsity Sports and must meet the NCSSM physical activity/wellness requirement by completing another activity-based PA course.\r\n\r\nNOTE:  Though students may be involved in a varsity sport each term, they receive academic credit for VS Varsity Sports only once unless satisfying an entering credit deficiency in physical activity.",
-        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time."
+        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time.",
+        "subject": "Physical Activity & Wellness"
     },
     {
         "course_id": "VS1044",
@@ -3331,7 +3418,8 @@
         "credits": "One unit physical activity credit",
         "title": "VS1044 Men's Tennis",
         "description": "These courses are a way for students  who engage in the recommended amount of weekly exercise for a healthy lifestyle through an NCSSM Interscholastic Varsity Sport to meet the NCSSM physical activity/wellness graduation requirement or to satisfy an entering credit deficiency in physical activity from 9th/10th grade.  Instruction in each sport is geared to developing a high functional level of physical fitness through cardiovascular exercise, resistance training and drills; knowledge of the rules, techniques, and strategies of the sport; and the athletic ability to execute them in an interscholastic competition.  Students registered for VS Varsity Sports must be selected by the coach to be on the team and must participate in a minimum of three practices/competitions per week during the sport's season.  Students unable to meet these requirements for any reason (poor academic performance in other courses, medical, or disciplinary reasons) will be dropped from VS Varsity Sports and must meet the NCSSM physical activity/wellness requirement by completing another activity-based PA course.\r\n\r\nNOTE:  Though students may be involved in a varsity sport each term, they receive academic credit for VS Varsity Sports only once unless satisfying an entering credit deficiency in physical activity.",
-        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time."
+        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time.",
+        "subject": "Physical Activity & Wellness"
     },
     {
         "course_id": "VS1046",
@@ -3340,7 +3428,8 @@
         "credits": "One unit physical activity credit",
         "title": "VS1046 Men's Baseball",
         "description": "These courses are a way for students  who engage in the recommended amount of weekly exercise for a healthy lifestyle through an NCSSM Interscholastic Varsity Sport to meet the NCSSM physical activity/wellness graduation requirement or to satisfy an entering credit deficiency in physical activity from 9th/10th grade.  Instruction in each sport is geared to developing a high functional level of physical fitness through cardiovascular exercise, resistance training and drills; knowledge of the rules, techniques, and strategies of the sport; and the athletic ability to execute them in an interscholastic competition.  Students registered for VS Varsity Sports must be selected by the coach to be on the team and must participate in a minimum of three practices/competitions per week during the sport's season.  Students unable to meet these requirements for any reason (poor academic performance in other courses, medical, or disciplinary reasons) will be dropped from VS Varsity Sports and must meet the NCSSM physical activity/wellness requirement by completing another activity-based PA course.\r\n\r\nNOTE:  Though students may be involved in a varsity sport each term, they receive academic credit for VS Varsity Sports only once unless satisfying an entering credit deficiency in physical activity.",
-        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time."
+        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time.",
+        "subject": "Physical Activity & Wellness"
     },
     {
         "course_id": "VS1048",
@@ -3349,7 +3438,8 @@
         "credits": "One unit physical activity credit",
         "title": "VS1048 Women's Softball",
         "description": "These courses are a way for students  who engage in the recommended amount of weekly exercise for a healthy lifestyle through an NCSSM Interscholastic Varsity Sport to meet the NCSSM physical activity/wellness graduation requirement or to satisfy an entering credit deficiency in physical activity from 9th/10th grade.  Instruction in each sport is geared to developing a high functional level of physical fitness through cardiovascular exercise, resistance training and drills; knowledge of the rules, techniques, and strategies of the sport; and the athletic ability to execute them in an interscholastic competition.  Students registered for VS Varsity Sports must be selected by the coach to be on the team and must participate in a minimum of three practices/competitions per week during the sport's season.  Students unable to meet these requirements for any reason (poor academic performance in other courses, medical, or disciplinary reasons) will be dropped from VS Varsity Sports and must meet the NCSSM physical activity/wellness requirement by completing another activity-based PA course.\r\n\r\nNOTE:  Though students may be involved in a varsity sport each term, they receive academic credit for VS Varsity Sports only once unless satisfying an entering credit deficiency in physical activity.",
-        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time."
+        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time.",
+        "subject": "Physical Activity & Wellness"
     },
     {
         "course_id": "VS1050",
@@ -3358,7 +3448,8 @@
         "credits": "One unit physical activity credit",
         "title": "VS1050 Women's Soccer",
         "description": "These courses are a way for students  who engage in the recommended amount of weekly exercise for a healthy lifestyle through an NCSSM Interscholastic Varsity Sport to meet the NCSSM physical activity/wellness graduation requirement or to satisfy an entering credit deficiency in physical activity from 9th/10th grade.  Instruction in each sport is geared to developing a high functional level of physical fitness through cardiovascular exercise, resistance training and drills; knowledge of the rules, techniques, and strategies of the sport; and the athletic ability to execute them in an interscholastic competition.  Students registered for VS Varsity Sports must be selected by the coach to be on the team and must participate in a minimum of three practices/competitions per week during the sport's season.  Students unable to meet these requirements for any reason (poor academic performance in other courses, medical, or disciplinary reasons) will be dropped from VS Varsity Sports and must meet the NCSSM physical activity/wellness requirement by completing another activity-based PA course.\r\n\r\nNOTE:  Though students may be involved in a varsity sport each term, they receive academic credit for VS Varsity Sports only once unless satisfying an entering credit deficiency in physical activity.",
-        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time."
+        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time.",
+        "subject": "Physical Activity & Wellness"
     },
     {
         "course_id": "VS1052",
@@ -3367,6 +3458,7 @@
         "credits": "One unit physical activity credit",
         "title": "VS1052 Track and Field",
         "description": "These courses are a way for students  who engage in the recommended amount of weekly exercise for a healthy lifestyle through an NCSSM Interscholastic Varsity Sport to meet the NCSSM physical activity/wellness graduation requirement or to satisfy an entering credit deficiency in physical activity from 9th/10th grade.  Instruction in each sport is geared to developing a high functional level of physical fitness through cardiovascular exercise, resistance training and drills; knowledge of the rules, techniques, and strategies of the sport; and the athletic ability to execute them in an interscholastic competition.  Students registered for VS Varsity Sports must be selected by the coach to be on the team and must participate in a minimum of three practices/competitions per week during the sport's season.  Students unable to meet these requirements for any reason (poor academic performance in other courses, medical, or disciplinary reasons) will be dropped from VS Varsity Sports and must meet the NCSSM physical activity/wellness requirement by completing another activity-based PA course.\r\n\r\nNOTE:  Though students may be involved in a varsity sport each term, they receive academic credit for VS Varsity Sports only once unless satisfying an entering credit deficiency in physical activity.",
-        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time."
+        "meetings": "Practices are typically held Mondays through Fridays 4:30pm \u2013 6:30pm.  Competitions vary according to sport by day of week and starting time.",
+        "subject": "Physical Activity & Wellness"
     }
 ]
