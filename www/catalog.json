@@ -183,7 +183,7 @@
         "prerequisites": "None",
         "title": "BI3065 BI3065 Honors Forensic Science",
         "description": "This course is designed to integrate the core scientific disciplines (as outlined in the North Carolina Standard Course of Study for grades 9-12) while giving students both theory and hands-on experience with the skills and knowledge required of a forensic crime scene investigator. This multidisciplinary approach will highlight topics in pathology, DNA, anatomy, chemistry, anthropology, toxicology, entomology, and investigative techniques with supplemental subject matter through case studies, earth science, mathematics, medicine, technology and psychology. In addition, some of the ethical, legal, and social concerns surrounding forensics will be discussed. Process skills will include comparative analysis, critical thinking, deductive reasoning, observation, organization, problem solving, research, communication, and technical reading. Project-based learning through laboratory investigation and discussions/class lecture will serve as the main method of content delivery. Individually and/or in groups, students will perform lab work and apply inference and deductive reasoning to the investigation and potential solving of crimes.",
-        "meetings": "Fall Semester: Thursday 7:00pm"
+        "meetings": "Fall Semester: Tuesday 7:00pm"
     },
     {
         "course_id": "BI3115",
@@ -194,7 +194,7 @@
         "prerequisites": "Completion of a Biology course",
         "title": "BI3115 BI3115 Honors Introduction to Neuroscience",
         "description": "This course is focused on the basic knowledge base surrounding modern neuroscience.  With a focus on the physiology of neurons, neuroanatomy, and neuropsychology, students will complete this course with a basic understanding of how the brain works at cellular, systems, and organismal levels.  The course contains a research component as well as significant group work requirements.",
-        "meetings": "Fall Semester: Monday 9:00pm"
+        "meetings": "Fall Semester: Monday 7:00pm"
     },
     {
         "course_id": "BI3560",
@@ -294,11 +294,11 @@
         "school": "NCSSM Online",
         "dept": "Science",
         "subject": "Biology",
-        "terms_currently_offered": "Semester1, Semester2",
+        "terms_currently_offered": "Semester2",
         "prerequisites": "Biology",
         "title": "BI4105 BI4105 Honors Molecular Genetics",
         "description": "This course focuses on DNA. Beginning with Watson and Crick\u2019s double-helix model the course focuses on DNA structure, replication, transcription and translation. Current topics in DNA technology, gene cloning, and bioinformatics are discussed in terms of basic research, medical advancement, and for treatment of cancer & HIV. Critical thinking skills and thoughtful data interpretation are stressed. This course meets North Carolina standards for Agriscience and Biotechnology III: Agricultural Biotechnology.",
-        "meetings": "Fall Semester: Tuesday 7:00pm"
+        "meetings": "Spring Semester: Monday 7:00pm"
     },
     {
         "course_id": "BI4110",
@@ -355,7 +355,7 @@
         "prerequisites": "Biology or Ecology",
         "title": "BI4145 BI4145 Honors Climate Change Biology",
         "description": "Climate Change Biology is the study of the impact of climate change on natural systems in the environment with emphasis on understanding the interactions between biological systems and the climate system. The goal of climate change biology is the development of management techniques designed to preserve natural systems. Students study past climate-biological systems interactions, currently observed changes, biological theory, and modeling in order to develop an understanding of possible mitigation and management approaches.",
-        "meetings": "Fall Semester: Monday 7:00pm"
+        "meetings": "Fall Semester: Thursday 7:00pm"
     },
     {
         "course_id": "BI4155",
@@ -429,6 +429,16 @@
         "meetings": "Four periods per week including lab."
     },
     {
+        "course_id": "BI4300",
+        "school": "NCSSM Online",
+        "dept": "Science",
+        "subject": "Biology",
+        "terms_currently_offered": "Semester1",
+        "title": "BI4300 BI4300 Honors Special Topics in Biology: Public Health",
+        "description": "This course examines a wide variety of public health principles and concepts using a systems thinking approach. It provides a broad framework for understanding the role that public health plays in community health, prevention and medicine. During the semester, students will explore public health infrastructure, surveillance, social determinants of health, policy and emerging issues in public health. In addition, this course will weave public health areas such as chronic disease, infectious disease, environmental health, maternal and child health, mental health and more. We will use case studies, data analysis and discussion to examine social, economic, and political factors that contribute to health inequalities and suggest innovative ways to reduce disparities in health when the goal is to achieve health equity.",
+        "meetings": "Fall Semester: Monday 7:00pm"
+    },
+    {
         "course_id": "BI4920",
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
@@ -471,7 +481,7 @@
         "prerequisites": "None",
         "title": "CH3085 CH3085 Honors Nanotechnology & Research",
         "description": "This course provides an introduction to topics in nanoscience and nanotechnology. Students will be introduced to common visualization and fabrication techniques in nanotechnology and will explore the scientific principles necessary for understanding the functionality of nanoscale material. Students will explore topics such as nanofibers, optical LED lights, metallic organic frameworks (MOFs), artificial intelligence (AI) and other topics that are currently at the cutting edge of science! This is also a research course, so students will read scientific literature and write reports.",
-        "meetings": "Fall Semester: Tuesday 7:30pm"
+        "meetings": "Fall Semester: Monday 7:00pm"
     },
     {
         "course_id": "CH3125",
@@ -877,7 +887,7 @@
         "terms_currently_offered": "Semester1, Semester2",
         "title": "CS4060 CS4060 Honors Scientific Programming",
         "description": "This course teaches computer programming skills and how to apply them for analyzing, interpreting, and displaying both large and small scientific data sets.  Using Python, MATLAB, R, Mathmatica, and associated software libraries, students learn to access data sets, write programs to calculate and manipulate data, display data, and perform basic statistical analysis.  Programming concepts such as objects, variables, functions, conditional logic, and iterations are important concepts that are taught in the context of scientific programming and which allow this course to serve as a prerequisite for more advanced courses.  The course features a final project allowing students to explore datasets in scientific areas of interest to them.",
-        "meetings": "Spring Semester: Tuesday 8:00pm"
+        "meetings": "Fall Semester: Monday 8:00pm"
     },
     {
         "course_id": "CS4070/AR4070",
@@ -895,10 +905,10 @@
         "school": "NCSSM Online",
         "dept": "Engineering and Computer Science",
         "subject": "Computer Science",
-        "terms_currently_offered": "Semester1, Semester2",
+        "terms_currently_offered": "Semester2",
         "title": "CS4200 CS4200/MA4200 Honors Cryptography",
         "description": "This course introduces students to cryptographic methods used to encipher and decipher secret messages with an emphasis on using computer programming to automate the process. Through class discussions, problem solving, group activities, and programming assignments, students will learn a variety of encryption schemes ranging from the age of Caesar to modern public key encryption used to secure digital communications online. Students will learn introductory number theory and statistics to describe these methods and identify weaknesses that allow secret messages to be read without the key. Students will also master programming topics such as variables, functions, conditional logic, looping and recursion, and file input/output in the Python language to implement each cryptographic method. This course will utilize a blended learning environment with large portions of material being taught online and utilizing in class time for working in groups. Students will receive one unit of credit for this course, but the course will satisfy both the mathematics and engineering/computer science course requirement.",
-        "meetings": "Fall Semester: Wednesday 7:00pm"
+        "meetings": "Spring Semester: Wednesday 7:00pm"
     },
     {
         "course_id": "CS4200/MA4200",
@@ -1125,16 +1135,13 @@
     },
     {
         "course_id": "EE4080",
-        "video": "https://www.youtube.com/embed/U7qFQ8GZDqo",
-        "school": "NCSSM Online",
+        "school": "NCSSM Residential (Durham)",
         "dept": "Engineering and Computer Science",
         "subject": "Engineering",
-        "terms_currently_offered": "Semester1, Semester2",
-        "credits": "Online students have registration priority. For residential students, this course counts towards your required 5 enrollments per semester and satisfies your Engineering and Computer Science Requirement.",
-        "prerequisites": "B or better in Math II Honors, or an A in Math II.",
-        "title": "EE4080 EE4080 Honors Biomedical Engineering",
-        "description": "How are electrical signals from the heart measured outside the body? Is there a way to design high-heel shoes that don't hurt women's feet? How do engineers design heart valves that only allow blood to flow one way? This course introduces students to the different sub-specialties of biomedical engineering including bioelectronics and instrumentation, biomaterials, biomechanics, and biochemical. Through homework sets, hands-on lab activities, research article review, and design projects the students explore and experience biomedical engineering principles, the engineering design process, and problem solving and troubleshooting.",
-        "meetings": "Fall Semester: Wednesday 8:00pm"
+        "credits": "This course counts towards your required 5 enrollments per semester.  This course meets the following graduation requirements: Engineering and Computer Science Requirement.",
+        "title": "EE4080 Biomedical Engineering",
+        "description": "This course introduces students to the different sub-specialties of biomedical engineering including biomaterials, biomechanics, bioelectricity, biomedical devices, and measurements, as well as design.  Through hands-on labs, activities, and collaborative design projects students kinesthetically explore and experience biomedical engineering principles, the engineering design process, and problem solving and troubleshooting.",
+        "meetings": "Four periods per week including lab."
     },
     {
         "course_id": "EE4100",
@@ -1161,25 +1168,25 @@
     },
     {
         "course_id": "EE4160",
+        "school": "NCSSM Online",
+        "dept": "Engineering and Computer Science",
+        "subject": "Engineering",
+        "terms_currently_offered": "Semester2",
+        "credits": "Online students have registration priority. For residential students, this course counts towards your required 5 enrollments per semester and satisfies your Engineering and Computer Science Requirement.",
+        "prerequisites": "Completion of Math III or Integrated Math III with a B or higher",
+        "title": "EE4160 EE4160 Honors Civil Engineering",
+        "description": "This course introduces students to the study and practice of civil engineering and to math and science concepts needed to solve problems related to this and other engineering disciplines. Topics include the engineering design process, engineering mathematics, applied and reactive forces and moments, static equilibrium, distributed loadings, strength of materials, and stress and buckling analyses for structures in tension, compression, and bending. Activities include small-scale laboratory explorations, design projects inspired by the profession, data acquisition and computational modeling.",
+        "meetings": "Spring Semester: Tuesday 7:00pm"
+    },
+    {
+        "course_id": "EE4180",
         "school": "NCSSM Residential (Durham)",
         "dept": "Engineering and Computer Science",
         "subject": "Engineering",
         "credits": "This course counts towards your required 5 enrollments per semester.  This course meets the following graduation requirements: Engineering and Computer Science Requirement.",
-        "title": "EE4160 Civil Engineering",
-        "description": "This course introduces students to the study and practice of civil engineering and to math and science concepts needed to solve problems related to this and other engineering disciplines. Topics include the engineering design process, engineering mathematics, applied and reactive forces and moments, static equilibrium, distributed loadings, strength of materials, and stress and buckling analyses for structures in tension, compression, and bending. Activities include small-scale laboratory explorations, design projects inspired by the profession, data acquisition and computational modeling.",
-        "meetings": "Four periods per week including lab."
-    },
-    {
-        "course_id": "EE4180",
-        "school": "NCSSM Online",
-        "dept": "Engineering and Computer Science",
-        "subject": "Engineering",
-        "terms_currently_offered": "Semester1",
-        "credits": "Online students have registration priority. For residential students, this course counts towards your required 5 enrollments per semester and satisfies your Engineering and Computer Science Requirement.",
-        "prerequisites": "Completion of Math III or Integrated Math III with a B or higher",
-        "title": "EE4180 EE4180 Environmental Engineering",
+        "title": "EE4180 Environmental Engineering",
         "description": "This course introduces students to the study and practice of environmental engineering and to math and science concepts needed to solve problems related to these and other engineering disciplines. Topics include engineering design, hydrology and water resources, stormwater modeling and management, drinking and wastewater treatment, pollutant fate and transport, health effects of environmental pollutants, and mitigation and remediation strategies.  Activities include small-scale laboratory explorations, design projects inspired by the profession, field measurement, online data acquisition and computational modeling.",
-        "meetings": "Fall Semester: Tuesday 7:00pm"
+        "meetings": "Four periods per week including lab."
     },
     {
         "course_id": "EE4420",
@@ -1242,14 +1249,13 @@
     },
     {
         "course_id": "EN4000",
-        "school": "NCSSM Residential (Durham)",
+        "school": "NCSSM Online",
         "dept": "Humanities",
         "subject": "English",
-        "credits": "This course counts towards students' required 5 enrollments per semester. Students earn general elective credit.",
-        "prerequisites": "None",
-        "title": "EN4000 From Figment to Final Draft",
-        "description": "This is a course for students who get excited about language, who feel compelled to copy down poems and song lyrics in the pages of their journal, who find language the most natural form of expression. In this introduction to the composition and reading of creative writing\u2014poetry, fiction, drama, and creative non-fiction\u2014students can build a solid foundation for the craft of creative writing. Participants will stretch themselves creatively through experimenting with form and modeling the work of great writers across genres, times, and traditions. The guiding principle of the course is that creative writing is a means of engaging with the world, whether that means writing a personal essay, a food memoir, or a sonnet. Students will work individually on assignments and collaborate with peers in workshops where burgeoning writers encounter an affirming and constructive audience for their work. Assignments focus on developing the tools for writing in many genres and styles, along with developing the habits to enable the generation of ideas, the creation of voice, the construction of narrative and image, and the process of revision. Throughout the term, students accumulate a group of works written in and out of class for inclusion in a portfolio that is the foundation of students\u2019 assessment in the course. By the end of this course, students will have both a polished portfolio of their best work and the skills to deeply engage in a creative process that results in powerful writing.",
-        "meetings": "Three periods per week including lab, or two 100-minute evening class meetings."
+        "terms_currently_offered": "Semester2",
+        "title": "EN4000 Honors Creative Writing",
+        "description": "This is a course for students who get excited about language, who feel compelled to copy down poems and song lyrics in the pages of their journal, who find language the most natural form of expression. In this introduction to the composition and reading of creative writing\u2014poetry, fiction, drama, and creative non-fiction\u2014students can build a solid foundation for the craft of creative writing. Participants will stretch themselves creatively through experimenting with form and modeling the work of great writers across genres, times, and traditions. The guiding principle of the course is that creative writing is a means of engaging with the world, whether that means writing a personal essay, a food memoir, or a sonnet. In addition to one synchronous class each week, students will work individually on asynchronous assignments and collaborate with peers in workshops where burgeoning writers encounter an affirming and constructive audience for their work. Assignments focus on developing the tools for writing in many genres and styles, along with developing the habits to enable the generation of ideas, the creation of voice, the construction of narrative and image, and the process of revision. Throughout the term, students accumulate a group of works written in and out of class for inclusion in a portfolio that is the foundation of students\u2019 assessment in the course. By the end of this course, students will have both a polished portfolio of their best work and the skills to deeply engage in a creative process that results in powerful writing.",
+        "meetings": "Spring Semester: Tuesdays, 6:30 PM"
     },
     {
         "course_id": "EN4010",
@@ -1281,7 +1287,7 @@
         "credits": "This course counts towards students' required 5 enrollments per semester. It meets the senior English graduation requirement.",
         "prerequisites": "Completion of AS4051/AS4052 American Studies I/II or AS4051W/AS4052W Writing and American Studies I/II OR completion of AS4051 or AS4051W and approval of the Registrar during Spring Administrative Adjustment. Juniors may not request this course until Spring Administrative Adjustment.",
         "related_links": "",
-        "title": "EN4201 EN4201 African Studies:\u00a0Pre-Colonial Africa",
+        "title": "EN4201 African Studies:\u00a0Pre-Colonial Africa",
         "description": "In this course, we reflect on the realities and representations of Africa's pre-colonial past before the advent of European political domination around 1880. We consider how Africans, Europeans, and the African diaspora have attributed meaning to the place called Africa. We examine how power, trade, and production have intersected with human lives on a global stage. We discuss how humans have tried to make sense of their life situations in relation to Africa and how the diverse peoples of the continent have communicated their particular contexts.",
         "meetings": "Three periods per week including lab, or two 100-minute evening class meetings."
     },
@@ -1293,7 +1299,7 @@
         "credits": "This course counts towards students' required 5 enrollments per semester. It meets the senior English graduation requirement.",
         "prerequisites": "Completion of AS4051/AS4052 American Studies I/II or AS4051W/AS4052W Writing and American Studies I/II OR completion of AS4051 or AS4051W and approval of the Registrar during Spring Administrative Adjustment. Juniors may not request this course until Spring Administrative Adjustment.",
         "related_links": "",
-        "title": "EN4202 EN4202 African Studies: Modern Africa",
+        "title": "EN4202 African Studies: Modern Africa",
         "description": "In this course, we explore Africa's recent events, predicaments, and accomplishments. We learn how late nineteenth-century colonialism, anti-colonial resistance, nationalism, independence, modernization, post-colonialism, and neo-colonialism have affected and shaped modern Africa. One way to try to understand the reality of modern Africa is to see multiple aspects of that reality through the eyes of Africans themselves as well as through the eyes of outside observers. We thus turn to writers, scholars, and filmmakers to gain a critical understanding of Africa's historical and contemporary events and experiences.",
         "meetings": "Three periods per week including lab, or two 100-minute evening class meetings."
     },
@@ -1304,7 +1310,7 @@
         "subject": "English",
         "credits": "This course counts towards students' required 5 enrollments per semester. It meets the senior English graduation requirement.",
         "prerequisites": "Completion of AS4051/AS4052 American Studies I/II or AS4051W/AS4052W Writing and American Studies I/II OR completion of AS4051 or AS4051W and approval of the Registrar during Spring Administrative Adjustment. Juniors may not request this course until Spring Administrative Adjustment.",
-        "title": "EN4203 EN4203 African Studies: Modern North Africa and the Middle East",
+        "title": "EN4203 African Studies: Modern North Africa and the Middle East",
         "description": "This course is an introduction to the cultural, political, social, and economic aspects of modern North Africa and the Middle East, from Napoleon's Egyptian invasion to the present Syrian crisis. Proceeding chronologically and thematically, we explore a wide range of North African and Middle Eastern self-identities and stories. Together, we think about North Africa's and the Middle East's ever-changing relations with sub-Saharan Africa, Asia, Europe, and the Americas. We reflect on the specific collective memories that help varied peoples from Algerian Islamic fundamentalists to Ashkenazi Israeli settlers explain who they are, what they are doing, and where they are going.",
         "meetings": "Three periods per week including lab, or two 100-minute evening class meetings."
     },
@@ -1316,7 +1322,7 @@
         "credits": "This course counts towards students' required 5 enrollments per semester. It meets the senior English graduation requirement.",
         "prerequisites": "Completion of AS4051/AS4052 American Studies I/II or AS4051W/AS4052W Writing and American Studies I/II OR completion of AS4051 or AS4051W and approval of the Registrar during Spring Administrative Adjustment. Juniors may not request this course until Spring Administrative Adjustment.",
         "related_links": "",
-        "title": "EN4211 EN4211 Asian Studies I: Ethical Structures and Frameworks of Power",
+        "title": "EN4211 East Asian Studies I: Ethical Structures and Frameworks of Power",
         "description": "This interdisciplinary course ranges from the ancient civilizations and foundational ethical structures of East Asia to the Mongol invasions and their aftermath. Drawing from the fields of archaeology, history, literature, and cultural studies, students trace the development of early China, Japan, and Korea. Students examine texts from early religious and literary traditions, including Buddhism, Confucianism, Daoism, and Shinto. Texts may include Buddhist sutras, Confucius' Analects, Laozi's Dao de Jing, T'ang poetry, Lady Shonagon's Pillow Book, Luo Guanzhong\u2019s Romance of the Three Kingdoms, Lady Murasaki Shikibu's Tale of Genji, and the Tale of the Heike. The class consists of a creative mix of lectures, discussions, and verbal and written analyses of moving and still images. Students continue to develop their writing skills by writing academic and interpretive essays on interdisciplinary topics as well as creative works that emulate East Asian genres. Students also collaborate on projects in which they produce their own artwork (such as digital and terrestrial gardens, curated museum exhibits, and revisions and additions to literary masterpieces) to demonstrate their understanding of East Asian cultures and accomplishments.",
         "meetings": "Three periods per week including lab, or two 100-minute evening class meetings."
     },
@@ -1327,7 +1333,7 @@
         "subject": "English",
         "credits": "This course counts towards students' required 5 enrollments per semester. It meets the senior English graduation requirement.",
         "prerequisites": "Completion of AS4051/AS4052 American Studies I/II or AS4051W/AS4052W Writing and American Studies I/II OR completion of AS4051 or AS4051W and approval of the Registrar during Spring Administrative Adjustment. Juniors may not request this course until Spring Administrative Adjustment.",
-        "title": "EN4212 EN4212 Asian Studies II: East Meets West: Colonialism, Fusion, and Exchange",
+        "title": "EN4212 East Asian Studies II: East Meets West: Colonialism, Fusion, and Exchange",
         "description": "This interdisciplinary course begins with the Ming dynasty in China and the Ashikaga Shogunate in Japan. A major focus of this course is the experience of East Asian societies as they confront internal challenges and Western colonizers. Primary texts include readings about Noh theater and chado, Basho's poetry, Journey to the West and Dream of the Red Chamber. The second part of the course presents a radically changed and dynamic landscape. We explore the upheavals of the late nineteenth and early twentieth centuries, including the world wars and revolutionary restructuring of East Asian politics and societies. We explore the significance of modernism and postmodernism in contemporary Asian cultural expressions. Texts may include Kawabata's Snow Country or Tanizaki's Naomi, manga and anime, writings of Mao Zedong, CCP propaganda posters, kung fu and samurai film clips, and Zhang Yimou\u2019s To Live. The class consists of a creative mix of lectures, discussions, and verbal and written analyses of moving and still images. Students continue to develop their writing skills by writing academic and interpretive essays on interdisciplinary topics as well as creative works that emulate East Asian genres. Students also collaborate on projects where they produce their own artwork (such as kung fu and samurai film scripts reflecting East Asian geopolitical realities, visual depictions of futuristic dystopias drawing from techno-Orientalist stereotypes, etc.) to demonstrate their understanding of East Asian cultures and accomplishments.",
         "meetings": "Three periods per week including lab, or two 100-minute evening class meetings."
     },
@@ -1339,7 +1345,7 @@
         "credits": "This course counts towards students' required 5 enrollments per semester. It meets the senior English graduation requirement.",
         "prerequisites": "Completion of AS4051/AS4052 American Studies I/II or AS4051W/AS4052W Writing and American Studies I/II OR completion of AS4051 or AS4051W and approval of the Registrar during Spring Administrative Adjustment. Juniors may not request this course until Spring Administrative Adjustment.",
         "related_links": "",
-        "title": "EN4221 EN4221 East-West Studies I: Intellectual Frameworks and Ethical Foundations",
+        "title": "EN4221 East-West Studies I: Intellectual Frameworks and Ethical Foundations",
         "description": "This course explores intersections of East Asian and Western civilizations while simultaneously comparing and contrasting their unique cultural trajectories. We seek to compare and contrast the historical experiences, cultural values and products of civilizations inhabiting opposite extremes of the Eurasian landmass. Given the existence of numerous stereotypes that emphasize divergence, we aim to explore patterns of both similarity and difference. Readings may include excerpts from Thucydides' History of the Peloponnesian War, Sima Qian's Records of the Historian, Sun Tzu's Art of War, Confucius' Analects, Laozi's Dao de Jing, memorials by Han Feizi and Li Si, the Bible, Buddhist sutras, Homer's Iliad, Luo Guanzhong's Three Kingdoms, St. Augustine's City of God, collected writings of the Church fathers, Castiglione's Book of the Courtier, Sei Shonagon's Pillow Book, and Murasaki Shikibu's Tale of Genji. Secondary texts and film clips will also be used to interpret these ancient and classical works. Students reflect on the intellectual frameworks and ethical foundations of East Asia and the West and analyze the evolution and manifestations of these ideas and values in cultural products, institutions, rituals, and ceremonies. In pursuit of these goals, students write at least one academic essay and undertake multiple group projects. These collective experiences encourage students to imagine history into being through manipulation, integration, and creation of products representative of the various intersections and divergences encountered on our journey across Eurasia.",
         "meetings": "Three periods per week including lab, or two 100-minute evening class meetings."
     },
@@ -1351,7 +1357,7 @@
         "credits": "This course counts towards students' required 5 enrollments per semester. It meets the senior English graduation requirement.",
         "prerequisites": "Completion of AS4051/AS4052 American Studies I/II or AS4051W/AS4052W Writing and American Studies I/II OR completion of AS4051 or AS4051W and approval of the Registrar during Spring Administrative Adjustment. Juniors may not request this course until Spring Administrative Adjustment.",
         "related_links": "",
-        "title": "EN4222 EN4222 East-West Studies II:\u00a0Ideational and Material Conflicts",
+        "title": "EN4222 East-West Studies II:\u00a0Ideational and Material Conflicts",
         "description": "This course explores intersections of East Asian and Western civilizations while simultaneously comparing and contrasting their unique cultural trajectories. We seek to compare and contrast the historical experiences, cultural values and products of civilizations inhabiting opposite extremes of the Eurasian landmass. Given the existence of numerous stereotypes that emphasize divergence, we aim to explore patterns of both similarity and difference. Readings may include excerpts from Arthurian legend, the Tale of the Heike, Yamamoto Tsunetomo's Hagakure, accounts of chevaliers Marshal and de Charney, Priscus' account of the Huns, the Secret History of the Mongols, Marco Polo's Il Milione, Bartolom\u00e9 de las Casas, accounts of Zheng He, Descartes' Meditations on First Philosophy, Hobbes' Leviathan, Zhu Xi, Joseph Needham's Science in Traditional China, Newton's Principia Mathematica, les lettres de Madame de S\u00e9vign\u00e9, Saint-Simon's M\u00e9moires, selections from Bodin, Voltaire, Rousseau, and Mao, and Conrad's Heart of Darkness. Students identify and examine myriad sources of conflict in ideological, political, and material realms that exist within and among European and East Asian societies. In pursuit of these goals, students write at least one academic essay and undertake multiple group projects. These collective experiences encourage students to imagine history into being through manipulation, integration, and creation of products representative of the various intersections and divergences encountered on our journey across Eurasia.",
         "meetings": "Three periods per week including lab, or two 100-minute evening class meetings."
     },
@@ -1362,7 +1368,7 @@
         "subject": "English",
         "credits": "This course counts towards students' required 5 enrollments per semester. It meets the senior English graduation requirement.",
         "prerequisites": "Completion of AS4051/AS4052 American Studies I/II or AS4051W/AS4052W Writing and American Studies I/II OR completion of AS4051 or AS4051W and approval of the Registrar during Spring Administrative Adjustment. Juniors may not request this course until Spring Administrative Adjustment.",
-        "title": "EN4231 EN4231 Latin American Studies I: Encounter, Conquest, and Colonialism",
+        "title": "EN4231 Latin American Studies I: Encounter, Conquest, and Colonialism",
         "description": "This interdisciplinary course takes a transatlantic approach to the investigation of the native and colonial cultures of Latin America and the Caribbean, from the pre-Columbian era to the early nineteenth century. We examine indigenous civilizations\u2014including those of the Mayans, Aztecs, and Incas\u2014along with the Renaissance backgrounds of the European conquests and the flowering of a new economy of imagination for both Europeans and natives. We investigate the complex world view that produced innovations in cartography and navigation in Europe, as well as the religious and social motivations of Iberian explorers and how their attitudes differed from their English and French counterparts. We look at the blended culture of the Caribbean and at the nature of slave culture in Brazil and the Caribbean, along with constructions of color and understandings of race that differ markedly from those in North America. Literary works include selections from the Mayan Popol Vuh, the chronicles of European explorers like Christopher Columbus and Bernal D\u00edaz del Castillo, and writings by Catalina de Erauso and Sor Juana In\u00e9s de la Cruz.",
         "meetings": "Three periods per week including lab, or two 100-minute evening class meetings."
     },
@@ -1373,7 +1379,7 @@
         "subject": "English",
         "credits": "This course counts towards students' required 5 enrollments per semester. It meets the senior English graduation requirement.",
         "prerequisites": "Completion of AS4051/AS4052 American Studies I/II or AS4051W/AS4052W Writing and American Studies I/II OR completion of AS4051 or AS4051W and approval of the Registrar during Spring Administrative Adjustment. Juniors may not request this course until Spring Administrative Adjustment.",
-        "title": "EN4232 EN4232 Latin American Studies II: Revolution, Nationhood, and the Search for Identity and Autonomy",
+        "title": "EN4232 Latin American Studies II: Revolution, Nationhood, and the Search for Identity and Autonomy",
         "description": "This interdisciplinary course explores both the quest for independence and the world after independence, along with the search for authentic national literatures and national and international identities, among Latin American and Latino peoples from the early nineteenth century through the early twenty-first century. As a part of this effort, we focus extensively on United States-Latin American relations. Finally, we explore a variety of works by major Latin American historical and literary figures including Juana Manuela Gorriti, Joaquim Maria Machado de Assis, Jos\u00e9 Mart\u00ed, Rub\u00e9n Dar\u00edo, Ernesto \u201cChe\u201d Guevara, Gabriel Garc\u00cda Marquez, and Isabel Allende.",
         "meetings": "Three periods per week including lab, or two 100-minute evening class meetings."
     },
@@ -1384,7 +1390,7 @@
         "subject": "English",
         "credits": "This course counts towards students' required 5 enrollments per semester. It meets the senior English graduation requirement.",
         "prerequisites": "Completion of AS4051/AS4052 American Studies I/II or AS4051W/AS4052W Writing and American Studies I/II OR completion of AS4051 or AS4051W and approval of the Registrar during Spring Administrative Adjustment. Juniors may not request this course until Spring Administrative Adjustment.",
-        "title": "EN4233 EN4233 Latin American Studies III: Modern Latin America",
+        "title": "EN4233 Latin American Studies III: Modern Latin America",
         "description": "This course examines modern-day Latin America with a special emphasis on its long, complex relationship with the U.S. Although the time span of the course is largely focused on the aftermath of the Cold War to the present day, some analysis is given to the early encounters and assumptions formed largely in the nineteenth century that created the foundation for relations between Latin America and its neighbors to the North. Students examine topics such as the devastating effects of the Cold War/Proxy wars in Latin America, the development of different cultures throughout the region, environmental concerns and crises affecting the resources and environment of Central and South America, the influx of Hispanic immigrants into North America, the development of Latino identity, the impact of the drug wars on all parts of the Americas, and new roles for Latin Americans in the twenty-first century. Texts for this course include modern periodicals and media, current analyses of the political, economic and cultural events of Latin America, as well as reports and materials on Hispanic and Latino life and culture in North America. Students participate in a research project/presentation investigating a current issue in Latin American life and culture.",
         "meetings": "Three periods per week including lab, or two 100-minute evening class meetings."
     },
@@ -1396,7 +1402,7 @@
         "credits": "This course counts towards students' required 5 enrollments per semester. It meets the senior English graduation requirement.",
         "prerequisites": "Completion of AS4051/AS4052 American Studies I/II or AS4051W/AS4052W Writing and American Studies I/II OR completion of AS4051 or AS4051W and approval of the Registrar during Spring Administrative Adjustment. Juniors may not request this course until Spring Administrative Adjustment.",
         "related_links": "",
-        "title": "EN4241 EN4241 Western European Cultural Studies I: From Classical Antiquity to Renaissance Self-Fashioning",
+        "title": "EN4241 Western European Cultural Studies I: From Classical Antiquity to Renaissance Self-Fashioning",
         "description": "This course begins with the idea of the individual as it emerges in the literature, philosophy, religion, and art of Ancient Greece, Rome, and Late Antiquity. It continues with ideas about identity in medieval Christendom, and traces the emergence of national literatures, new forms of architecture, the first nation-states in the High Middle Ages, and the admiration for the classics in Dante\u2019s Inferno and in Petrarch, the poet whose preoccupation with his own celebrity points the way to the humanism of the Renaissance and the concept of self-fashioning that is the hallmark of modernity. Our course ends with the rebirth of portraiture, with Machiavelli and the rebirth of secular history, and the idea that the self, history, and even the individual\u2019s relationship to God can be fashioned by newly empowered individuals. We see the Greeks invent history as an entity distinct from both myth and chronicle, and learn how ideas about history evolved along with ideas about the self, that mysterious and vexing entity that is still our preoccupation today. Throughout the term, we read forward and backward in the Western tradition, exploring both contemporary and earlier debates about the nature of history, personal identity, and the uses of literature and art, not only in ancient medieval, and Renaissance writers, but in modern thinkers from Marx to Nietzsche, Adorno, Althusser, and Deleuze. We delve into Homer\u2019s epic accounts of the Trojan War and its aftermath. We see the epic transformed by the Roman poet Virgil, and the metamorphosis of the epic into an individual drama of salvation in Dante. We read tragedies by Euripides and Shakespeare\u2019s contemporary, Christopher Marlowe, in which individuals engineer disasters from which no recovery is possible, and we discuss Plato's quest for the ideal education, ideal love, and the ideal society. In political theory, we read Aristotle's analysis of political communities and the good life, and Marsilius of Padua\u2019s medieval treatise on the direct descent of political power from God to human beings. In history, we not only read Thucydides' tragic history of how the Athenians laid the ground for losing the democracy they had invented. We also encounter the Enlightenment ideal of a scientific history and those who question whether such a history is even desirable. We look at the cityscapes of Alexander\u2019s empire, and we see how they became the model for Rome and its imitators. We read the first autobiography, written by St. Augustine in the fourth century, and the first Christian theory of history, which is also by Augustine. Throughout the course, we ask questions about the uniqueness of Western man's continuing fascination with the life of the mind and reason, and we think about why the idea of the alienated individual develops as it does in the West. In the process, we make connections between long-vanished worlds and our time. Grades are based on a series of essays, as students discuss and write their way to knowledge.",
         "meetings": "Three periods per week including lab, or two 100-minute evening class meetings."
     },
@@ -1408,7 +1414,7 @@
         "credits": "This course counts towards students' required 5 enrollments per semester. It meets the senior English graduation requirement.",
         "prerequisites": "Completion of AS4051/AS4052 American Studies I/II or AS4051W/AS4052W Writing and American Studies I/II OR completion of AS4051 or AS4051W and approval of the Registrar during Spring Administrative Adjustment. Juniors may not request this course until Spring Administrative Adjustment.",
         "related_links": "",
-        "title": "EN4242 EN4242 Western European Cultural Studies II: Fashioning the Self and Society in the Modern World",
+        "title": "EN4242 Western European Cultural Studies II: Fashioning the Self and Society in the Modern World",
         "description": "This course explores the emergence of the modern world, the modern self, and the modern state, along with revolutions in politics, literature, philosophy, and the visual arts that lead to a culture of alienation in which individuals increasingly feel themselves to be alone, even in the midst of oceans of humanity in cities of dizzying size. We begin with phenomenon of self-fashioning, not only in characters like Marlowe\u2019s Dr. Faustus, who barters his soul for knowledge, or Shakespeare\u2019s Hamlet, who finds himself imprisoned in the private spaces of his mind, but with self-fashioning in religion with the Reformations of the sixteenth century and in revolutionary changes in the visual arts and architecture. Readings from Montaigne, Galileo, and others point the way toward a subjectively constituted, demystified world. Topics include the emergence of secular philosophy in Descartes and Locke; the origins of modern theories of the social contract in Hobbes, Locke, and Rousseau; and Romanticism, with its emphasis on the world of feeling. We encounter the alienating world of industrial culture, and new theories about nature and history in Marx and Darwin. We examine Modernism in all its forms\u2014in psychology, in narrative, in the visual arts and architecture, in social planning, and in cinema. We also examine the impact of world wars, globalism, the newest versions of cultural imperialism, and the modern world's obsessions with self and self-revelation, and the attendant culture of celebrity. Readings include Rousseau, the English Romantics, Darwin, Marx, Kierkegaard, Baudelaire, Nietzsche, Freud, Thomas Mann, Heidegger, Virginia Woolf, and Samuel Beckett as well as contemporary writers as various as Patti Smith and Donna Tartt. Grades are based on a series of essays and on class participation. In WECS, we use the essay as a tool of thought as we write and discuss our way to knowledge.",
         "meetings": "Three periods per week including lab, or two 100-minute evening class meetings."
     },
@@ -1419,7 +1425,7 @@
         "subject": "English",
         "credits": "This course counts towards students' required 5 enrollments per semester. It meets the senior English graduation requirement.",
         "prerequisites": "Completion of AS4051/AS4052 American Studies I/II or AS4051W/AS4052W Writing and American Studies I/II OR completion of AS4051 or AS4051W and approval of the Registrar during Spring Administrative Adjustment. Juniors may not request this course until Spring Administrative Adjustment.",
-        "title": "EN4251 EN4251 Western Civilizations, WRRD I: The Ancient World to the Early Middle Ages",
+        "title": "EN4251 Western Civilizations, WRRD I: The Ancient World to the Early Middle Ages",
         "description": "This interdisciplinary course explores Western societies from the ancient world to the Early Middle Ages. Through examining texts and cultural artifacts, students discuss the history, literature, philosophy, art, and cultures of the ancient Mesopotamians, Hebrews, Greeks, Romans, early Christians, and Europeans of the Middle Ages. Readings include The Epic of Gilgamesh, the Old and New Testaments, Beowulf, and works by Homer, Aristophanes, Thucydides, Plato, Aristotle, Cicero, Virgil, and St. Augustine. Guiding questions for the course include: How have people organized their societies and why? How has religion shaped their lives? How do they define the individual? What are their ethical and moral systems? What is the role of the arts in each culture? What is the relationship between the public and the private spheres? How have people defined themselves in relationship to nature? What are the lasting influences of these societies on the modern world? The course develops students' skills in writing, critical thinking, research, and public speaking.",
         "meetings": "Three periods per week including lab, or two 100-minute evening class meetings."
     },
@@ -1430,7 +1436,7 @@
         "subject": "English",
         "credits": "This course counts towards students' required 5 enrollments per semester. It meets the senior English graduation requirement.",
         "prerequisites": "Completion of AS4051/AS4052 American Studies I/II or AS4051W/AS4052W Writing and American Studies I/II OR completion of AS4051 or AS4051W and approval of the Registrar during Spring Administrative Adjustment. Juniors may not request this course until Spring Administrative Adjustment.",
-        "title": "EN4252 EN4252 Western Civilizations, WRRD II: Modern Europe: Late 18th-Century to the Present",
+        "title": "EN4252 Western Civilizations, WRRD II: Modern Europe: Late 18th-Century to the Present",
         "description": "This interdisciplinary course explores modern Europe from the late eighteenth century to the present. Through examining history, literature, philosophy, art, and culture, students discuss the French Revolution, Romanticism, the Industrial Revolution, Imperialism, Modernism, Communism, Feminism, World Wars I and II, the Cold War, Existentialism, Post-Modernism, Globalization, and the European Union. Readings include works by Rousseau, Mill, Marx, Jane Austen, Tolstoy, Nietzsche, Freud, Sartre, Virginia Woolf, and Tom Stoppard. Guiding questions for the course include: How have people organized their societies and why? How has religion shaped their lives? How do they define the individual? What are their ethical and moral systems? What is the role of the arts in each culture? What is the relationship between the public and the private spheres? How have people defined themselves in relationship to nature? What are the lasting influences of these events and ideas on the world today? The course develops students' skills in reading, writing, critical thinking, research, and public speaking.",
         "meetings": "Three periods per week including lab, or two 100-minute evening class meetings."
     },
@@ -1476,7 +1482,7 @@
         "credits": "This course counts towards students' required 5 enrollments per semester. It meets the senior English graduation requirement.",
         "prerequisites": "Completion of AS4051/AS4052 American Studies I/II or AS4051W/AS4052W Writing and American Studies I/II OR completion of AS4051 or AS4051W and approval of the Registrar during Spring Administrative Adjustment. Juniors may not request this course until Spring Administrative Adjustment.",
         "related_links": "",
-        "title": "EN4430 EN4430 Modern World Fiction: Narrating the Self",
+        "title": "EN4430 Modern World Fiction: Narrating the Self",
         "description": "Beginning with experimental novels of the late nineteenth-century and focusing on French, Spanish, German, Czech, English, American, Cuban, Colombian, African, and Japanese writers, this comparative literature course examines the extraordinary flowering of twentieth-century fiction\u2014with its open-ended form and experimental styles\u2014against a backdrop of what Stephen Kern has called a transformed \u201cculture of time and space.\u201d In our effort to understand this rich body of literature, we explore the relationships between movements in philosophy and the visual arts\u2014including photography and film\u2014and the changing shapes of fiction. Readings may include short stories by Jorge Luis Borges and Michel Tournier; novels such as Conrad's Heart of Darkness, Bram Stoker's Dracula, Osamu Dazai's No Longer Human, Milan Kundera's The Unbearable Lightness of Being, Faulkner's The Sound and the Fury, Alejo Carpentier's The Kingdom of This World, Virginia Woolf's Mrs. Dalloway, Miguel de Unamuno's San Manuel Bueno, M\u00e1rtir, Kafka's Metamorphosis, Gide's The Immoralist, Gabriel Garc\u00eda M\u00e1rquez's One Hundred Years of Solitude, and Donna Tartt's Secret History. Through a series of analytical essays, students explore questions about authors and their audiences and the relationship between literary texts and contexts. In the process, students strengthen their own voices and explore the connections between literary and cultural identity.",
         "meetings": "Three periods per week including lab, or two 100-minute evening class meetings."
     },
@@ -1488,7 +1494,7 @@
         "credits": "This course counts towards students' required 5 enrollments per semester. It meets the senior English graduation requirement.",
         "prerequisites": "Completion of AS4051/AS4052 American Studies I/II or AS4051W/AS4052W Writing and American Studies I/II OR completion of AS4051 or AS4051W and approval of the Registrar during Spring Administrative Adjustment. Juniors may not request this course until Spring Administrative Adjustment.",
         "related_links": "",
-        "title": "EN4440 EN4440 Philosophy and Literature in the Twentieth Century: Strategies for Being",
+        "title": "EN4440 Philosophy and Literature in the Twentieth Century: Strategies for Being",
         "description": "This course explores twentieth-century philosophy, literature, the visual arts, and the thematic ties that bind them together. After the mid-1840s, in both texts and images, painters, literary artists, and philosophers increasingly present the self as inherently unstable, reality as a construction, history as a fiction, and the universe as random and chaotic. We read Kierkegaard, who believed that escape from despair lay in taking a \u201cleap\u201d into an \u201cabsolute beginning,\u201d and Nietzsche, who embraced an ecstatic vision of the self as a product of will and desire. Heidegger, Sartre, Althusser, Baudrillard, and Deleuze provide other perspectives on the self as a freely constructed project. In painting, we trace the retreat from the Real in artists like Picasso and Matisse, and the longing to reveal the extraordinary in the ordinary in Magritte\u2014a desire that is pervasive in the novels of Virginia Woolf. Literary texts may include Emily Bront\u00eb's Wuthering Heights, Paul Bowles's The Sheltering Sky, Marguerite Duras' Hiroshima Mon Amour, Milan Kundera's The Unbearable Lightness of Being, and Samuel Beckett's Company, along with readings in Sartre, Woolf, Dostoevsky, Thomas Mann, Gertrude Stein, and Donna Tartt. Films include Ingmar Bergman's Kierkegaardian Winter Light and Woody Allen's Dostoevskian Crimes and Misdemeanors. Classes are conducted as seminars, with group discussions, background lectures, and presentations. Grades are based on a series of comparative essays and on class participation.",
         "meetings": "Three periods per week including lab, or two 100-minute evening class meetings."
     },
@@ -1499,7 +1505,7 @@
         "subject": "English",
         "credits": "This course counts towards students' required 5 enrollments per semester. It meets the senior English graduation requirement.",
         "prerequisites": "Completion of AS4051/AS4052 American Studies I/II or AS4051W/AS4052W Writing and American Studies I/II OR completion of AS4051 or AS4051W and approval of the Registrar during Spring Administrative Adjustment. Juniors may not request this course until Spring Administrative Adjustment.",
-        "title": "EN4450 EN4450 Shakespeare Now: Page, Stage, and Screen",
+        "title": "EN4450 Shakespeare Now: Page, Stage, and Screen",
         "description": "Few playwrights' bodies of work persist in production as dependably as that of William Shakespeare, the Elizabethan bard who, as his contemporary Ben Jonson eulogized, \u201cwas not of an age, but for all time.\u201d Yet today these plays are as likely to elude as illuminate\u2014at times accomplishing both in the same breath. We'll turn many a page and roll film as we seek to more deeply understand these texts not only in their historical contexts but in light of modern adaptation and staging concerns for film and theater. Class discussion and substantial writing opportunities seek to bridge close analytical readings and broader contextual understandings of these plays in period, at present, and points between. Creative projects and presentations offer students the chance to learn in process and \u201csuffer the slings and arrows\u201d of rendering these works to engage an audience. As we hold the proverbial \u201cmirror up to nature,\u201d what will these plays say to us now, and perhaps more importantly, what will that say about who we are?",
         "meetings": "Three periods per week including lab, or two 100-minute evening class meetings."
     },
@@ -1533,7 +1539,7 @@
         "subject": "English",
         "credits": "This course counts towards students' required 5 enrollments per semester. It meets the senior English graduation requirement.",
         "prerequisites": "Completion of AS4051/AS4052 American Studies I/II or AS4051W/AS4052W Writing and American Studies I/II OR completion of AS4051 or AS4051W and approval of the Registrar during Spring Administrative Adjustment. Juniors may not request this course until Spring Administrative Adjustment.",
-        "title": "EN4481 EN4481 Topics in Literature: Modern Latin American Literature in Translation (Topic for 2021-2022)",
+        "title": "EN4481 Topics in Literature: Modern Latin American Literature in Translation (Topic for 2021-2022)",
         "description": "This survey course explores Latin American fiction in the 20th and 21st centuries, with excursions into memoir, essay, and poetry. Writers of the Latin American \u201cBoom\u201d of the 1960s and 70s such as Gabriel Garcia Marquez and Julio Cortazar will be studied alongside authors such as Uruguayan short story writer Horacio Quiroga, Argentinian purveyor of enigmatic fictions Jorge Luis Borges, and protean Brazilian writer Clarice Lispector, whose short fiction and novels are at the moment finding a large audience in North America. In Latin America, literature and politics are hardly strangers; we will particularly examine the influence and representations of one political event\u2014the Chilean coup d\u2019etat in 1973, which was experienced firsthand by Ariel Dorfman and Roberto Bola\u00f1o, writers whose accounts of the event we will compare. Students will read, research, and write about contemporary authors such as Valeria Luiselli and C\u00e9sar Aira, and we will debate the usefulness of terms associated with Modern Latin American literature (e.g. \u201cmagical realism\u201d). Much of the literature we read in this class is highly original and experimental, sometimes wildly so. Developing the skills and confidence required to read, think about, discuss, and make sense of complex and rich texts are central concerns of this class.",
         "meetings": "Three periods per week including lab, or two 100-minute evening class meetings."
     },
@@ -1579,9 +1585,9 @@
         "subject": "English",
         "terms_currently_offered": "Semester2",
         "prerequisites": "English II",
-        "title": "EN4490 EN4490 Honors Ecocriticism",
+        "title": "EN4490 Honors Ecocriticism",
         "description": "Ecocriticism is the study of literature focused through an environmental lens. Students explore a variety of ways to understand literature and how the ideas from those texts better help us define and refine our relationship with nature. Students will consider cross-cultural matters involving the natural world and how these matters influence our sense of identity. Students in Ecocriticism will read widely, both literary and academic texts, and they will draw upon those selections as well as class discussions and online materials to sharpen their critical reading, thinking, and writing skills.",
-        "meetings": "Spring Semester 2022: Mondays, 8:00 PM. Online Weekend: February 26, 2022/Optional."
+        "meetings": "Spring Semester: Monday 8:00 PM"
     },
     {
         "course_id": "EN4600",
@@ -1699,14 +1705,13 @@
     },
     {
         "course_id": "HU4000",
-        "video": "https://www.youtube.com/embed/CGp2MV55Gy0",
-        "school": "NCSSM Online",
+        "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "History & Social Sciences",
-        "terms_currently_offered": "Semester1",
-        "title": "HU4000 Honors Entrepreneurship",
+        "credits": "This course counts towards students' required 5 enrollments per semester. Students earn general elective credit.",
+        "title": "HU4000 Entrepreneurship",
         "description": "The special function of the entrepreneur is to innovate. At the core of this course in entrepreneurship is an exploration of what it means to be innovative. Students will experience the search for \u201cinnovation opportunities\u201d within a wide range of market spaces. Questions related to value generation, effective collaboration, design thinking, and leadership will be investigated. The element of risk will be front and center as student-entrepreneurs evaluate the complexities of moving from an idea to a sustainable and (we hope) profitable business model. Throughout the course, student teams will bring the themes and principles of entrepreneurship to life by building a business around an innovative product.  Importantly, the course introduces students to successful entrepreneurs to learn from their knowledge, experience, and insights. As a culminating event, students will showcase their innovations during an entrepreneurial competition on campus. The course thus provides students with a platform for creative and innovative thinking.",
-        "meetings": "Fall Semester 2021: Thursdays, 6:15-7:55 PM. No online weekend but students are required to participate in NCSSM's Entrepreneurship Fair, date TBD."
+        "meetings": "One 100-minute evening class meeting."
     },
     {
         "course_id": "HU4010",
@@ -1728,7 +1733,7 @@
         "terms_currently_offered": "Semester1",
         "title": "HU4200 Honors 21st Century Media Studies",
         "description": "Media Studies is an interdisciplinary cultural studies course in which students examine and interpret the ways various modes of media influence us. Students study media theory; they analyze cultural and historical contexts as well as aesthetics of a variety of formats; they examine how forms have shifted; they investigate the relationship between media and reality, ways that media influences and changes our culture, and how responses to media change over time. Students contemplate issues such as: technology, representations of reality, human meaning, identity politics, economics, gender/race/ethnicity, and community/belonging. Students demonstrate understanding by creating original media such as podcasts, videos, social media posts, and graphic narratives in addition to traditional, formal written assignments.",
-        "meetings": "Fall Semester 2021: Mondays, 8:00 PM. Online Weekend: October 2, 2021/Optional."
+        "meetings": "Fall Semester: Monday 8:00 PM"
     },
     {
         "course_id": "HU4400",
@@ -1803,7 +1808,7 @@
         "subject": "Humanities Electives",
         "credits": "This course counts towards students' required 5 enrollments per semester. It meets the interdisciplinary humanities elective graduation requirement.",
         "prerequisites": "Completion of AS4051/AS4052 American Studies I/II or AS4051W/AS4052W Writing and American Studies I/II OR completion of AS4051 or AS4051W and approval of the Registrar during Spring Administrative Adjustment. Juniors may not request this course until Spring Administrative Adjustment.",
-        "title": "HU4460 HU4460 Topics in Humanities I: The Immigrant Experience Today (Topic for Fall 2021)",
+        "title": "HU4460 Topics in Humanities I: The Immigrant Experience Today (Topic for Fall 2021)",
         "description": "The experiences of immigrants to this \u201cnation of immigrants\u201d have a profound influence on our nation\u2019s history and a deep influence on the development of what it means to be an American. Immigration patterns and policy play key roles in these experiences. However, the United States has a fraught relationship with its own immigration history and remains divided about immigration policy. In this course, we examine twentieth- and  twenty-first-century public policy and how political decisions affect and reflect the realities faced by immigrants, particularly immigrants from Asia, Africa, and Central and South America. In addition, by reading fiction by authors including Chimamanda Adichie, Junot Diaz, Fae Myenne Ng, and Jhumpa Lahiri, we examine how stories tell personal as well as political truths about the immigrant experience. By collecting oral histories from friends, family, and community members, students will contribute to current scholarship on immigration and will create work that can be contributed to the University of Minnesota immigration archives.",
         "meetings": "Three periods per week including lab, or two 100-minute evening class meetings."
     },
@@ -1814,7 +1819,7 @@
         "subject": "Humanities Electives",
         "credits": "This course counts towards students' required 5 enrollments per semester. It meets the interdisciplinary humanities elective graduation requirement.",
         "prerequisites": "Completion of AS4051/AS4052 American Studies I/II or AS4051W/AS4052W Writing and American Studies I/II OR completion of AS4051 or AS4051W and approval of the Registrar during Spring Administrative Adjustment. Juniors may not request this course until Spring Administrative Adjustment.",
-        "title": "HU4461 HU4461 Topics in Humanities II: Mind as Maker of AI (Topic for Spring 2022)",
+        "title": "HU4461 Topics in Humanities II: Mind as Maker of AI (Topic for Spring 2022)",
         "description": "In critically examining our own minds we will distinguish several basic mental activities. Most basic is INTUITING as looking at or beholding any sensate thing, and even as contemplating mathematical truths or meaning expressed in images or symbols. SUFFERING is also a basic mental activity, as a being subjected to wide ranges of experience and feeling, as presupposed for knowing how another is feeling and even for recognizing and responding to irony and jokes. DREAMING is meaningful lived experience while sleeping, AESTHETIC SENSE is perception of beauty, and ETHICAL AWARENESS is perception of \u201cought\u201d as \u201cnot is,\u201d as presupposing some degree of freedom. Earliest in life is APPERCEPTION as an infant\u2019s experience of being looked at, by mother, as a continuity of being. Even EXPERIENCING NONSENSE may be creative. THINKING is grasping a manifold into a concept; JUDGING is joining concepts into a statement; REASONING is putting statements together logically; AI as computer logic depends on and expresses these three mental acts. In this course, we will read and discuss original texts describing mind: Plato on recollection; Aristotle on cause; Augustine on time; Anselm on belief; Descartes and Leibniz on thinking; Kant and Husserl on intending awareness; Winnicott on apperception; Mme de Condorcet and Mme de Lambert on feeling. Six two-page papers, one class presentation, no final exam.",
         "meetings": "Three periods per week including lab, or two 100-minute evening class meetings."
     },
@@ -1893,40 +1898,6 @@
         "title": "IE3900 IE3900 Honors Research Experience in Computational Science",
         "description": "Research Experience courses provide research skills development and the opportunity to\r\ncomplete a research project in the subject areas indicated. There are no prerequisites and these\r\nsingle-semester courses are available to juniors or seniors. Some students, upon completion of\r\nthe course, may elect to be considered for other research opportunities at NCSSM, although it is\r\nnot required.",
         "meetings": "Spring Semester: Tuesday 7:30pm",
-        "subject": "Interdisciplinary Electives"
-    },
-    {
-        "course_id": "IE4020",
-        "school": "NCSSM Online",
-        "dept": "Interdisciplinary Electives",
-        "terms_currently_offered": "Semester2",
-        "prerequisites": "Honors Chemistry",
-        "title": "IE4020 IE4020 Honors Industrial Chemistry & Engineering",
-        "description": "This is a semester-long interdisciplinary course that focuses on the industrial practice of\r\nchemistry. It provides students with a real-world perspective thereby creating an awareness of\r\nthe relevance of chemistry to their daily lives. For example, students will learn in a\r\nchronologically historical sequence about major developments in industrial chemistry, such as\r\nammonia, aluminum, and nylon that have significantly affected people's lives. Students will\r\nengage in individual and group online activities, as well as collaborative lab experiences on\r\ncampus, such as developing soap or aspirin.",
-        "meetings": "Spring Semester: Monday 7:30pm",
-        "subject": "Interdisciplinary Electives"
-    },
-    {
-        "course_id": "IE4080",
-        "video": "https://www.youtube.com/embed/hRMTqxPrPBw",
-        "school": "NCSSM Online",
-        "dept": "Interdisciplinary Electives",
-        "terms_currently_offered": "Semester1",
-        "prerequisites": "None",
-        "title": "IE4080 IE4080 Honors Energy and Sustainability",
-        "description": "This course will introduce students to key topics in the field of global sustainability. Students will explore how human societies can endure in the face of global change, ecosystem degradation and global resource limitations. The course requires multidisciplinary study of topics linked by their importance to sustainability in the sciences (both natural and social), engineering, and economics and will include policy and technical insight into systems and methods used to analyze and understand systems. Students will practice applying analytical skills, often in groups, through case studies, technical and popular science articles, systems thinking models, videos and interactive simulations and an engineering design project.",
-        "meetings": "Fall Semester: Tuesday 8:30pm",
-        "subject": "Interdisciplinary Electives"
-    },
-    {
-        "course_id": "IE4104",
-        "school": "NCSSM Online",
-        "dept": "Interdisciplinary Electives",
-        "terms_currently_offered": "Semester1",
-        "prerequisites": "Completion of a Research or Professional Experience at NCSSM or through Summer Ventures; or permission of the instructor if student completed an experience with another organization.",
-        "title": "IE4104 Engage to Impact",
-        "description": "The Engage To Impact course provides students the opportunity to further develop professional skills to communicate their findings and the impact of an experience where the student has engaged as a maker/thinker/doer to address challenges in the world beyond the classroom.  Ultimately in this course, students will present their findings or progress via a paper, poster, and/or oral presentation. \r\n\r\nThis course further builds the technical communication skills to discuss students' findings from a previous research or professional experience accurately and clearly, but also provides time to further investigate appropriate background and context in the literature necessary to present.  The course prepares students to present at conferences or events such as NC Science and Engineering Fair, Junior Science and Humanities Symposium, State of North Carolina Undergraduate Creativity and Research Symposium, and similar events.",
-        "meetings": "",
         "subject": "Interdisciplinary Electives"
     },
     {
@@ -2027,7 +1998,7 @@
         "credits": "This course counts towards students' required 5 enrollments per semester. It meets a world language graduation requirement.",
         "prerequisites": "LA4050 or permission of the Dean of Humanities.",
         "related_links": "",
-        "title": "LA4651 LA4651 Sallust and Cicero I: The Conspiracy of Catiline",
+        "title": "LA4651 Sallust and Cicero I: The Conspiracy of Catiline",
         "description": "This upper-level course is part one of studies of Sallust\u2019s history and Cicero\u2019s orations on the conspiracy of Catiline, when a local uprising in Rome was stifled but led to a war outside of Rome. Sallust\u2019s original and concise style is marked with antique flavor, while Cicero\u2019s speeches flourish in both rhetorical and poetic devices of style. Cicero, a novus homo or man who had no aristocratic ancestors, was consul at the time of this emergency in Rome, and his duplicity is analyzed by later critics. Against this duplicity and the war outside of Rome, Cicero's essay on friendship shows a basis for both personal and civic life. Both Sallust and Cicero came to be standard authors studied in schools for subsequent centuries, for both their historical and their literary content. LA4651 and LA4652 may each be taken independently of the other.",
         "meetings": "Three periods per week including lab."
     },
@@ -2038,7 +2009,7 @@
         "subject": "World Languages",
         "credits": "This course counts towards students' required 5 enrollments per semester. It meets a world language graduation requirement.",
         "prerequisites": "LA4651 or permission of the Dean of Humanities.",
-        "title": "LA4652 LA4652 Sallust and Cicero II: The Conspiracy of Catiline",
+        "title": "LA4652 Sallust and Cicero II: The Conspiracy of Catiline",
         "description": "This upper-level course is part two of studies of Sallust\u2019s history and Cicero\u2019s orations on the conspiracy of Catiline, when a local uprising in Rome was stifled but led to a war outside of Rome. Sallust\u2019s original and concise style is marked with antique flavor, while Cicero\u2019s speeches flourish in both rhetorical and poetic devices of style. Cicero, a novus homo or man who had no aristocratic ancestors, was consul at the time of this emergency in Rome, and his duplicity is analyzed by later critics. Against this duplicity and the war outside of Rome, Cicero's essay on friendship shows a basis for both personal and civic life. Both Sallust and Cicero came to be standard authors studied in schools for subsequent centuries, for both their historical and their literary content. LA4651 and LA4652 may each be taken independently of the other.",
         "meetings": "Three periods per week including lab."
     },
@@ -2151,25 +2122,25 @@
     },
     {
         "course_id": "MA4030",
-        "video": "https://www.youtube.com/embed/2x1lpST-f4o",
-        "school": "NCSSM Online",
+        "school": "NCSSM Residential (Durham)",
         "dept": "Mathematics",
-        "terms_currently_offered": "Semester1",
-        "prerequisites": "Precalculus with a grade of B+ or higher",
-        "title": "MA4030 MA4030 AP Calculus BC w/ Advanced Topics I",
+        "credits": "This course counts towards students' required 5 enrollments per semester. This course meets the following graduation requirements: Math Requirement OR STEM and STEM Interdisciplinary Requirement",
+        "prerequisites": "Course-ending grade of B+ or higher in MA4002 Precalculus & Modeling w/ Advanced Topics II",
+        "title": "MA4030 AP Calculus BC I",
         "description": "This course provides students with a fast-paced introduction to the concepts of differential calculus and the applications of calculus to mathematical modeling.  Through class discussions, problem solving, laboratory experiences, and writing assignments students discover the important concepts of calculus, develop an understanding of these concepts, and use these concepts in solving realistic problems.  This course generally includes the completion of a substantial mathematical modeling project.  Calculators and computers are used as tools in the course.  Topics normally covered include the derivative, local linearity of functions, linear approximations, some applications of the derivative, l'Hopital's rule and the concept of a limit.\r\n\r\nThis is one part of a 2-semester course sequence (MA4030 and MA4032). Students must enroll in both semesters when registering. Once enrolled students may not drop a single semester without approval from the Dean of Mathematics.",
-        "meetings": "Fall Semester: Wednesday 8:00pm",
+        "meetings": "Four periods per week including lab.",
         "subject": "Mathematics"
     },
     {
         "course_id": "MA4032",
-        "school": "NCSSM Residential (Durham)",
+        "video": "https://www.youtube.com/embed/2x1lpST-f4o",
+        "school": "NCSSM Online",
         "dept": "Mathematics",
-        "credits": "This course counts towards students' required 5 enrollments per semester. This course meets the following graduation requirements: Math Requirement OR STEM and STEM Interdisciplinary Requirement",
-        "prerequisites": "MA4030 AP Calculus BC w/ Advanced Topics I",
-        "title": "MA4032 AP Calculus BC II",
-        "description": "This course continues the accelerated study of calculus and its applications to mathematical modeling.  Through class discussions, problem solving, laboratory experiences, and writing assignments students discover the important concepts of calculus, develop an understanding of these concepts, and use these concepts in solving realistic problems.  This course generally includes the completion of a substantial mathematical modeling project.  Calculators and computers are used as tools in the course.  Topics normally covered include additional applications of the derivative, an introduction to differential equations, slope fields, Euler's method, definite and indefinite integrals, numerical approximations of integrals, calculating area and total change of a function, and some applications of integrals.  Students also focus on skills necessary for success on the AP BC Calculus examination.\r\n\r\nThis is one part of a 2-semester course sequence (MA4030 and MA4032). Students must enroll in both semesters when registering. Once enrolled students may not drop a single semester without approval from the Dean of Mathematics.",
-        "meetings": "Four periods per week including lab.",
+        "terms_currently_offered": "Semester2",
+        "prerequisites": "MA4030 AP Calculus BC w/ Advanced Topics I OR AP Calculus AB",
+        "title": "MA4032 MA4032 AP Calculus BC w/ Advanced Topics II",
+        "description": "This course continues the accelerated study of calculus and its applications to mathematical modeling.  Through class discussions, problem solving, laboratory experiences, and writing assignments students discover the important concepts of calculus, develop an understanding of these concepts, and use these concepts in solving realistic problems.  This course generally includes the completion of a substantial mathematical modeling project.  Calculators and computers are used as tools in the course.  Topics normally covered include additional applications of the derivative, an introduction to differential equations, slope fields, Euler's method, definite and indefinite integrals, numerical approximations of integrals, calculating area and total change of a function, and some applications of integrals.  Students also focus on skills necessary for success on the AP BC Calculus examination.\r\n\r\nThis is one part of a 2-semester course sequence (MA4030 and MA4032). Students must either enroll in both semesters when registering or have completed AP Calc AB previously. Once enrolled students may not drop a single semester without approval from the Dean of Mathematics.",
+        "meetings": "Spring Semester: Tuesday 7:00pm",
         "subject": "Mathematics"
     },
     {
@@ -2205,7 +2176,7 @@
         "prerequisites": "AP Calculus BC AND Score of 4 or 5 on the AP Calculus BC Exam",
         "title": "MA4064 MA4064 Honors Multivariable Calculus with Applications I",
         "description": "This is the first half of a university-level course in multivariable calculus. This course includes the theory and application of vector functions and partial derivatives. Topics include basic operations with vectors and parametric curves in 2- and 3-space, the Frenet Frame and Frenet-Serret equations, continuity and differentiability of functions of several variables, gradients and directional derivatives, and classic optimization problems. Additional topics and projects will be added throughout the course to explore interesting applications of calculus and differential equations.",
-        "meetings": "Fall Semester: Wednesday 8:30pm",
+        "meetings": "Fall Semester: Thursday 5:30pm",
         "subject": "Mathematics"
     },
     {
@@ -2217,7 +2188,7 @@
         "prerequisites": "MA4066 Multivariable Calculus with Applications I",
         "title": "MA4066 MA4066 Honors Multivariable Calculus with Applications II",
         "description": "Students will continue their study of multivariable calculus including multiple integrals, the Jacobian and change of variables, vector fields, line and surface integrals, divergence and curl. Significant time is devoted to the study of Green's Theorem, Stokes' Theorem and the Divergence Theorem. Students will be expected to use formal mathematical proofs and to work on extended problem sets. Additional topics and projects will be added throughout the course to explore interesting applications of calculus and differential equations.",
-        "meetings": "Spring Semester: Wednesday 8:30pm",
+        "meetings": "Spring Semester: Thursday 5:30pm",
         "subject": "Mathematics"
     },
     {
@@ -2243,13 +2214,12 @@
     },
     {
         "course_id": "MA4110",
-        "school": "NCSSM Residential (Durham)",
+        "school": "NCSSM Online",
         "dept": "Mathematics",
-        "credits": "This course counts towards students' required 5 enrollments per semester. This course meets the following graduation requirements: Math Requirement OR STEM and STEM Interdisciplinary Requirement",
-        "corequisites": "MA4000 Precalculus & Modeling w/ Advanced Topics I",
-        "title": "MA4110 Foundations of Data Science",
+        "terms_currently_offered": "Semester1",
+        "title": "MA4110 MA4110 Honors Foundations in Data Science",
         "description": "This course combines three perspectives: inferential thinking, computational thinking, and real-world relevance. Given data arising from some real-world phenomenon, how does one analyze that data so as to understand that phenomenon? The course teaches critical concepts and skills in computer programming and statistical inference, in conjunction with hands-on analysis of real-world datasets, including economic data, document collections, geographical data, and social networks. It delves into social issues surrounding data analysis such as privacy and design.",
-        "meetings": "Four days a week including lab.",
+        "meetings": "Fall Semester: Wednesday 7:00pm",
         "subject": "Mathematics"
     },
     {
@@ -2297,12 +2267,13 @@
     },
     {
         "course_id": "MA4230",
-        "school": "NCSSM Residential (Durham)",
+        "school": "NCSSM Online",
         "dept": "Mathematics",
-        "credits": "This course counts towards students' required 5 enrollments per semester. This course meets the following graduation requirements: Math Requirement OR STEM and STEM Interdisciplinary Requirement",
-        "title": "MA4230 Complex Systems",
+        "terms_currently_offered": "Semester2",
+        "prerequisites": "MA4032 AP Calculus BC w/ Advanced Topics II OR AP Calculus BC",
+        "title": "MA4230 MA4230 Honors Complex Systems and Modern Networks",
         "description": "This course is a survey of topics involving complex systems and modern networks.  Some of the topics studied in the course are fractals and iterated function systems, chaos and chaotic behavior, cellular automata and self-organization, genetic algorithms and neural networks.  Web applications and computer programs are essential tools of the course.  Familiarity with programming is advantageous but not necessary.",
-        "meetings": "Four periods per week including lab.",
+        "meetings": "Spring Semester: Tuesday and Thursday 7:00pm",
         "subject": "Mathematics"
     },
     {
@@ -2442,7 +2413,7 @@
         "dept": "Humanities",
         "subject": "Music",
         "credits": "This course does not count towards students' required 5 enrollments per semester. Students earn general elective credit.",
-        "title": "MU3500 MU3500 Piano and Guitar: Theory and Practice",
+        "title": "MU3500 Piano and Guitar: Theory and Practice",
         "description": "This course is a comprehensive study of instrumental music and theory through the idioms of piano and guitar. Largely self-paced, this course provides students the opportunity to learn the music repertoire and performance practice of guitar or piano. Students learn playing technique, note reading, chords, harmony, rhythm, and pitch. Students choose guitar or piano as their primary instrument. The course includes written music theory assignments, assigned songs to learn and perform for the instructor, a semester exam, and in-class performances. There is no prerequisite for this course. Students of all levels and experience are eligible. Repeatable for credit.",
         "meetings": "Three periods per week."
     },
@@ -2541,12 +2512,13 @@
     {
         "course_id": "MU4400",
         "school": "NCSSM Online",
-        "dept": "Fine Arts",
+        "dept": "Humanities",
+        "terms_currently_offered": "Semester2",
         "credits": "Open to both online and residential students, this course counts towards residential students' required 5 enrollments per semester. Residential students earn general elective credit.",
         "title": "MU4400  Honors History of Western Music",
         "description": "This course is a chronological survey of Western art music focusing primarily on the Baroque, Viennese, and Romantic eras of Western music history. Students learn to listen to and analyze music critically, as a vehicle to understanding theoretical and historical trends of each stylistic period. Overviews of composers and their musical styles serve as a conceptual focus for the music that students examine in each historical period. A key component of the course is regular listening labs in which students sharpen their powers of listening and concentration and apply concepts and theories they have learned in the course to their analyses of selected musical compositions and performances.",
-        "meetings": "Spring Semester 2022: Tuesdays, 8:00 PM. Online Weekend: February 26, 2022/Optional",
-        "subject": "Fine Arts"
+        "meetings": "Spring Semester: Tuesdays 8:00 PM",
+        "subject": "Humanities"
     },
     {
         "course_id": "MU4410",
@@ -3064,7 +3036,7 @@
         "subject": "World Languages",
         "credits": "This course counts towards students' required 5 enrollments per semester. It meets a world language graduation requirement.",
         "prerequisites": "Permission of the Dean of Humanities.",
-        "title": "SP3850 SP3850 Explorations in Spanish with Topics: Climate Change (Topic for 2021-2022)",
+        "title": "SP3850 Explorations in Spanish with Topics: Climate Change (Topic for 2021-2022)",
         "description": "Explorations in Spanish is an intermediate course for students who want to improve practical Spanish language skills while communicating about climate change. Through interviews, case studies, projects and authentic materials in Spanish, students will describe the effects of climate change on Spanish-speaking regions and be able to explain those effects from the perspective of various Spanish-speaking communities. Students will use Spanish to discuss course topics in class as well as to research and present class projects.",
         "meetings": "Four periods per week."
     },
@@ -3138,14 +3110,13 @@
     },
     {
         "course_id": "SS4000",
-        "video": "https://www.youtube.com/embed/csY0oNPW1bk",
-        "school": "NCSSM Online",
+        "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "History & Social Sciences",
-        "terms_currently_offered": "Semester1",
-        "title": "SS4000 Honors International Relations",
+        "credits": "This course counts towards students' required 5 enrollments per semester. Students earn general elective credit.",
+        "title": "SS4000 International Relations",
         "description": "Patterns of change and continuity characterize international relations across time. City-state interactions in ancient Greece resemble dynamics of great power relations today, such as those between the United States and China. However, we also find that new technologies (nuclear and cyber weapons,) shared threats (climate change and terrorism,) and the spread of liberal democracy alter these interactions in sometimes counterintuitive ways. International Relations (IR) introduces the formal study of how countries interrelate, focusing on the broad subject areas of international security and economics. In this course, we learn about the primary actors, their various instruments, and patterns of interactions. Students acquire a conceptual toolbox for framing international issues and events and analyzing their causes and consequences. The course challenges students to critically assess the philosophical and ideological underpinnings of major IR schools of thought. Course activities include a group project investigating a contemporary conflict, the application of IR theory to current events, a documentary viewing, and regular discussion of international news.",
-        "meetings": "Fall Semester 2021: Mondays, 8:00 PM. Online Weekend: October 2, 2021/Optional."
+        "meetings": "Three periods per week."
     },
     {
         "course_id": "SS4010",
@@ -3157,7 +3128,7 @@
         "prerequisites": "English III",
         "title": "SS4010 Honors Western Political Thought",
         "description": "Introduction to Western Political Thought introduces students to the study of political philosophy in exploring ideas and theories on the self/other and identity/existence in questioning one's perspective of the world in relation to moral and ethical issues. Students further examine and interpret meanings on the self and other in relation to such ideas and problems as: East/West, culture, community, power, economics, gender, justice, the nation-state and nationalism, colonialism, and other dynamics. In addition to discussing varied historical political ideas, this course emphasizes the interpretation and discussion of these ideas in light of contemporary political debates. In this course, students read and analyze significant excerpts from philosophical texts in addition to related critical cultural theory.",
-        "meetings": "Spring Semester, 2022: Mondays, 8:00 PM. Online Weekend: February 26, 2022/Optional."
+        "meetings": "Spring Semester: Monday 8:00 PM"
     },
     {
         "course_id": "SS4020",
@@ -3201,26 +3172,13 @@
     },
     {
         "course_id": "SS4060",
-        "video": "https://www.youtube.com/embed/k12OQUV7S_k",
-        "school": "NCSSM Online",
+        "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "History & Social Sciences",
-        "terms_currently_offered": "Semester1",
-        "title": "SS4060 AP Microeconomics I",
-        "description": "This course offers students an opportunity for immersion in a fascinating discipline and in logical thinking. This immersive process involves an introduction to general economic theory and more specific microeconomic theory. Graphical analysis will play a major role in understanding the relationship between economic variables. The course will frequently consider international applications and scenarios while studying microeconomic topics related to income inequality, factor market dynamics, labor costs, and global entrepreneurship. Students pursue this topic through case studies or strategic problems involving pricing issues in product and factor markets, competition across various market structures, and industrial and social regulation within both historic and contemporary environments. Thus, the curriculum content and processes of analyses are organized around holistic, ill-structured real-world problems and case studies. These experiences are designed to be of an integrated and multi-layered nature and provide opportunities to discover and apply the microeconomics concepts from our readings and discussions. In taking this consciously constructivist approach, we integrate other disciplines into the study of microeconomics. Elements from the fields of psychology, history, political science, and mathematics all have roles to play as we propose resolutions to our microeconomic problems and case studies.",
-        "meetings": "Fall Semester, 2021: Tuesdays, 7:00 PM. Online Weekend: October 2, 2021/Optional."
-    },
-    {
-        "course_id": "SS4061",
-        "video": "https://www.youtube.com/embed/k12OQUV7S_k",
-        "school": "NCSSM Online",
-        "dept": "Humanities",
-        "subject": "History & Social Sciences",
-        "terms_currently_offered": "Semester2",
-        "prerequisites": "SS4060",
-        "title": "SS4061 AP Microeconomics II",
-        "description": "This course is a continuation of SS4060 and offers students an opportunity for immersion in a fascinating discipline and in logical thinking. This immersive process involves an introduction to general economic theory and more specific microeconomic theory. Graphical analysis will play a major role in understanding the relationship between economic variables. The course will frequently consider international applications and scenarios while studying microeconomic topics related to income inequality, factor market dynamics, labor costs, and global entrepreneurship. Students pursue this topic through case studies or strategic problems involving pricing issues in product and factor markets, competition across various market structures, and industrial and social regulation within both historic and contemporary environments. Thus, the curriculum content and processes of analyses are organized around holistic, ill-structured real-world problems and case studies. These experiences are designed to be of an integrated and multi-layered nature and provide opportunities to discover and apply the microeconomics concepts from our readings and discussions. In taking this consciously constructivist approach, we integrate other disciplines into the study of microeconomics. Elements from the fields of psychology, history, political science, and mathematics all have roles to play as we propose resolutions to our microeconomic problems and case studies.",
-        "meetings": "Spring Semester, 2022: Tuesdays, 7:00 PM. Online Weekend: March 16, 2022/Optional."
+        "credits": "This course counts towards students' required 5 enrollments per semester. Students earn general elective credit.",
+        "title": "SS4060 AP Microeconomics",
+        "description": "This course offers students an opportunity for immersion in a fascinating discipline and in logical thinking. This immersive process involves an introduction to general economic theory and more specific microeconomic theory. Graphical analysis will play a major role in understanding the relationship between economic variables. The course will frequently consider international applications and scenarios while studying microeconomic topics related to income inequality, factor market dynamics, labor costs, and global entrepreneurship. Students pursue this topic through case studies or strategic problems involving pricing issues in product and factor markets, competition across various market structures, and industrial and social regulation within both historic and contemporary environments. Thus, the curriculum content and processes of analyses are organized around holistic, ill-structured, real-world \"problems,\u201d and case studies. These experiences are designed to be of an integrated and multi-layered nature and provide opportunities to discover and apply the microeconomics concepts from our readings and discussions. In taking this consciously constructivist approach, we integrate other disciplines into the study of microeconomics. Elements from the fields of psychology, history, political science, and mathematics all have roles to play as we propose resolutions to our microeconomic problems and case studies.",
+        "meetings": "Three periods per week including lab or two 100-minute evening class meetings."
     },
     {
         "course_id": "SS4070",
@@ -3231,6 +3189,17 @@
         "title": "SS4070 AP Macroeconomics",
         "description": "This course offers students an opportunity for immersion in a fascinating discipline and in logical thinking. This immersive process involves an introduction to general economic theory and more specific macroeconomic theory. Graphical analysis will play a major role in understanding the relationship between economic variables. The course will frequently consider international applications and scenarios while studying macroeconomic topics such as productivity measurement, fiscal and monetary policy, interest rates, inflation, and unemployment. Students pursue these topics through case studies or strategic problems involving national macroeconomic policies for a globalized marketplace environment. Thus, the curriculum content and processes of analyses are organized around holistic, ill-structured, real-world \"problems,\u201d and case studies. These experiences are designed to be of an integrated and multi-layered nature and provide opportunities to discover and apply the microeconomics concepts from our readings and discussions. In taking this consciously constructivist approach, we integrate other disciplines into the study of macroeconomics. Elements from the fields of psychology, history, political science, and mathematics all have roles to play as we propose resolutions to our macroeconomic problems and case studies.",
         "meetings": "Three periods per week including lab or two 100-minute evening class meetings."
+    },
+    {
+        "course_id": "SS4071",
+        "school": "NCSSM Online",
+        "dept": "Humanities",
+        "subject": "History & Social Sciences",
+        "terms_currently_offered": "Semester2",
+        "prerequisites": "SS4070",
+        "title": "SS4071 AP Macroeconomics II",
+        "description": "This course is a continuation of SS4070 and offers students an opportunity for immersion in a fascinating discipline and in logical thinking. This immersive process involves an introduction to general economic theory and more specific macroeconomic theory. Graphical analysis will play a major role in understanding the relationship between economic variables. The course will frequently consider international applications and scenarios while studying macroeconomic topics such as economic growth, fiscal and monetary policy, interest rates, inflation, and unemployment. Students pursue these topics through case studies or strategic problems involving national macroeconomic policies for a globalized marketplace environment. Thus, the curriculum content and processes of analyses are organized around holistic, ill-structured real-world problems and case studies. These experiences are designed to be of an integrated and multi-layered nature and provide opportunities to discover and apply the macroeconomics concepts from our readings and discussions. In taking this consciously constructivist approach, we integrate other disciplines into the study of macroeconomics. Elements from the fields of psychology, history, political science, and mathematics all have roles to play as we propose resolutions to our macroeconomic problems and case studies.",
+        "meetings": "Spring Semester: Tuesday 7:00 PM"
     },
     {
         "course_id": "SS4081",

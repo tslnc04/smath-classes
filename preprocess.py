@@ -41,6 +41,9 @@ for listing in courses_list:
         val = metas[i+1] if i+1 != len(metas) else ''
         course[key] = val
 
+    if len(ps) >= 4 and 'Course Specific Link:' in list(ps[3].stripped_strings):
+        ps = [ps[i] for i in range(len(ps)) if i != 3 and i != 4]
+
     course['title'] = ps[2].string.strip()
     course['description'] = ps[3].string.strip() if ps[3].string else ''
     course['meetings'] = list(ps[4].stripped_strings)[1] if len(ps) >= 5 else ''
