@@ -1,9 +1,8 @@
 #!/usr/local/bin/python3.9
 
 from bs4 import BeautifulSoup
-
 import urllib.request
-
+import re
 import json
 
 catalog_url = 'https://uniapp.ncssm.edu/registrar/catalog/course_catalog_beta1.3.1.php'
@@ -45,6 +44,9 @@ for listing in courses_list:
         ps = [ps[i] for i in range(len(ps)) if i != 3 and i != 4]
 
     course['title'] = ps[2].string.strip()
+    if re.match(r'[A-z]{2}[0-9]{4}\s+[A-z]{2}[0-9]{4}', course['title']) is not None:
+        course['title'] = course['title'][6:].strip()
+
     course['description'] = ps[3].string.strip() if ps[3].string else ''
     course['meetings'] = list(ps[4].stripped_strings)[1] if len(ps) >= 5 else ''
 

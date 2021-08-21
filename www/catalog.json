@@ -169,7 +169,7 @@
         "subject": "Biology",
         "terms_currently_offered": "Semester1, Semester2",
         "prerequisites": "Biology/Math III",
-        "title": "BI3025 BI3025 Honors Epidemiology",
+        "title": "BI3025 Honors Epidemiology",
         "description": "In this introductory course in human microbial disease, students explore the impact that various microbes have had in our lives, identify the characteristics of various pathogens and infectious agents, explain how diseases spread, and construct models, create presentations, and collaborate on projects related to epidemiology. Students learn the principles and methods of disease investigation: investigating patterns of illness in populations, identifying infectious microbes by visual assessment, mode of infection, and symptoms.",
         "meetings": "Fall Semester: Wednesday 8:00pm"
     },
@@ -181,7 +181,7 @@
         "subject": "Biology",
         "terms_currently_offered": "Semester1, Semester2",
         "prerequisites": "None",
-        "title": "BI3065 BI3065 Honors Forensic Science",
+        "title": "BI3065 Honors Forensic Science",
         "description": "This course is designed to integrate the core scientific disciplines (as outlined in the North Carolina Standard Course of Study for grades 9-12) while giving students both theory and hands-on experience with the skills and knowledge required of a forensic crime scene investigator. This multidisciplinary approach will highlight topics in pathology, DNA, anatomy, chemistry, anthropology, toxicology, entomology, and investigative techniques with supplemental subject matter through case studies, earth science, mathematics, medicine, technology and psychology. In addition, some of the ethical, legal, and social concerns surrounding forensics will be discussed. Process skills will include comparative analysis, critical thinking, deductive reasoning, observation, organization, problem solving, research, communication, and technical reading. Project-based learning through laboratory investigation and discussions/class lecture will serve as the main method of content delivery. Individually and/or in groups, students will perform lab work and apply inference and deductive reasoning to the investigation and potential solving of crimes.",
         "meetings": "Fall Semester: Tuesday 7:00pm"
     },
@@ -192,7 +192,7 @@
         "subject": "Biology",
         "terms_currently_offered": "Semester1, Semester2",
         "prerequisites": "Completion of a Biology course",
-        "title": "BI3115 BI3115 Honors Introduction to Neuroscience",
+        "title": "BI3115 Honors Introduction to Neuroscience",
         "description": "This course is focused on the basic knowledge base surrounding modern neuroscience.  With a focus on the physiology of neurons, neuroanatomy, and neuropsychology, students will complete this course with a basic understanding of how the brain works at cellular, systems, and organismal levels.  The course contains a research component as well as significant group work requirements.",
         "meetings": "Fall Semester: Monday 7:00pm"
     },
@@ -296,7 +296,7 @@
         "subject": "Biology",
         "terms_currently_offered": "Semester2",
         "prerequisites": "Biology",
-        "title": "BI4105 BI4105 Honors Molecular Genetics",
+        "title": "BI4105 Honors Molecular Genetics",
         "description": "This course focuses on DNA. Beginning with Watson and Crick\u2019s double-helix model the course focuses on DNA structure, replication, transcription and translation. Current topics in DNA technology, gene cloning, and bioinformatics are discussed in terms of basic research, medical advancement, and for treatment of cancer & HIV. Critical thinking skills and thoughtful data interpretation are stressed. This course meets North Carolina standards for Agriscience and Biotechnology III: Agricultural Biotechnology.",
         "meetings": "Spring Semester: Monday 7:00pm"
     },
@@ -353,7 +353,7 @@
         "subject": "Biology",
         "terms_currently_offered": "Semester1",
         "prerequisites": "Biology or Ecology",
-        "title": "BI4145 BI4145 Honors Climate Change Biology",
+        "title": "BI4145 Honors Climate Change Biology",
         "description": "Climate Change Biology is the study of the impact of climate change on natural systems in the environment with emphasis on understanding the interactions between biological systems and the climate system. The goal of climate change biology is the development of management techniques designed to preserve natural systems. Students study past climate-biological systems interactions, currently observed changes, biological theory, and modeling in order to develop an understanding of possible mitigation and management approaches.",
         "meetings": "Fall Semester: Thursday 7:00pm"
     },
@@ -365,7 +365,7 @@
         "subject": "Biology",
         "terms_currently_offered": "Semester2",
         "prerequisites": "Molecular Genetics (BI4105) OR Classical Genetics (BI4185)",
-        "title": "BI4155 BI4155 Honors Agricultural Biotechnology",
+        "title": "BI4155 Honors Agricultural Biotechnology",
         "description": "As the human population grows over the next few decades, we will need to produce more food\r\non agriculture's existing footprint, saving land for biodiversity. This can be done by improving\r\nseeds and through better management of farms-- through technological innovation. Agricultural\r\nbiotechnology is thriving globally, especially in the Research Triangle here in NC as new\r\nagriculture companies set up shop to employ and collaborate with our region's' academic talent.\r\nIn this course, students will examine how farms around the world are intensifying agriculture\r\nand promoting sustainability through plant breeding, transgenic plant and animal development,\r\nand soon, gene editing. They will learn about and build automated smart devices like weather\r\nstations, sensor motes, robots and drones using the Arduino platform. They will analyze\r\nagricultural data to help farmers make better decisions. And finally they will propose and\r\nprototype solutions that improve the practices of subsistence farmers and large scale growers\r\naround the world. This course meets North Carolina standards for Agriscience and Biotechnology\r\nIV: Agricultural Solutions.",
         "meetings": "Spring Semester: Monday 8:00pm"
     },
@@ -388,7 +388,7 @@
         "subject": "Biology",
         "terms_currently_offered": "Semester1",
         "prerequisites": "Biology",
-        "title": "BI4185 BI4185 Honors Classical Genetics",
+        "title": "BI4185 Honors Classical Genetics",
         "description": "This course begins with the fundamentals of cell division and focuses on modes of inheritance of traits, beginning with Mendel\u2019s pea plants and stressing extensions and exceptions to Mendel\u2019s principles. The course also covers topics in population genetics and molecular evolution. Problem-solving and critical thinking skills are emphasized. This course meets North Carolina standards for Agriscience and Biotechnology II: Agricultural Genetics.",
         "meetings": "Fall Semester: Monday 8:00pm"
     },
@@ -434,7 +434,7 @@
         "dept": "Science",
         "subject": "Biology",
         "terms_currently_offered": "Semester1",
-        "title": "BI4300 BI4300 Honors Special Topics in Biology: Public Health",
+        "title": "BI4300 Honors Special Topics in Biology: Public Health",
         "description": "This course examines a wide variety of public health principles and concepts using a systems thinking approach. It provides a broad framework for understanding the role that public health plays in community health, prevention and medicine. During the semester, students will explore public health infrastructure, surveillance, social determinants of health, policy and emerging issues in public health. In addition, this course will weave public health areas such as chronic disease, infectious disease, environmental health, maternal and child health, mental health and more. We will use case studies, data analysis and discussion to examine social, economic, and political factors that contribute to health inequalities and suggest innovative ways to reduce disparities in health when the goal is to achieve health equity.",
         "meetings": "Fall Semester: Monday 7:00pm"
     },
@@ -479,7 +479,7 @@
         "subject": "Chemistry",
         "terms_currently_offered": "Semester1",
         "prerequisites": "None",
-        "title": "CH3085 CH3085 Honors Nanotechnology & Research",
+        "title": "CH3085 Honors Nanotechnology & Research",
         "description": "This course provides an introduction to topics in nanoscience and nanotechnology. Students will be introduced to common visualization and fabrication techniques in nanotechnology and will explore the scientific principles necessary for understanding the functionality of nanoscale material. Students will explore topics such as nanofibers, optical LED lights, metallic organic frameworks (MOFs), artificial intelligence (AI) and other topics that are currently at the cutting edge of science! This is also a research course, so students will read scientific literature and write reports.",
         "meetings": "Fall Semester: Monday 7:00pm"
     },
@@ -492,7 +492,7 @@
         "terms_currently_offered": "Semester1",
         "credits": "One unit core chemistry graduation requirement or core STEM graduation requirement or core elective credit",
         "prerequisites": "Honors Chemistry",
-        "title": "CH3125 CH3125 Honors Intro to Computational Chemistry",
+        "title": "CH3125 Honors Intro to Computational Chemistry",
         "description": "This course is designed to teach students the technologies, techniques, and tools of\r\ncomputational science. The course will benefit students who are interested in any area of study\r\nthat uses chemistry (including subjects such as environmental science, medicine, biology,\r\nmaterials science, nanotechnology, etc.). This is essentially a course in quantum chemistry, and\r\nis one of the most challenging courses in the sequence. NCSSM is one of the only high schools in\r\nthe country that teaches a formal course in computational chemistry. This course is typically\r\noffered at the upper undergraduate/graduate at most universities, and requires a strong\r\nchemistry background and at least 12 to 14 hours/week of dedicated time. Recommended for\r\nfall, senior year.  This course includes topics that satisfy the chemistry graduation requirement.",
         "meetings": "Fall Semester: Thursday 7:30pm"
     },
@@ -503,7 +503,7 @@
         "subject": "Chemistry",
         "terms_currently_offered": "Semester2",
         "prerequisites": "Chemistry",
-        "title": "CH3135 CH3135 Honors Green Chemistry",
+        "title": "CH3135 Honors Green Chemistry",
         "description": "This course provides an overview of the original twelve principles established at the inception of the field Green Chemistry and the sources, chemical components, and elimination of hazardous chemical substances. Students examine historical events that impacted the identification and regulation of hazardous substances and identify natural events and human activities that contribute to pollution. Through case studies and computational tools, students analyze chemical components of carcinogens and pollutants and discuss actions to increase energy efficiency, prevent waste, and design safer chemicals.",
         "meetings": "Spring Semester: Thursday 7:30pm"
     },
@@ -516,7 +516,7 @@
         "terms_currently_offered": "Semester2",
         "credits": "One unit core chemistry graduation requirement or core STEM graduation requirement or core elective credit",
         "prerequisites": "Honors Chemistry, Algebra",
-        "title": "CH3145 CH3145 Honors Computational Medicinal Chemistry",
+        "title": "CH3145 Honors Computational Medicinal Chemistry",
         "description": "Computational Medicinal Chemistry is the study of how new drugs are developed and tested. Students will learn the basic concepts and methods used by medicinal chemists. In the process of doing so, basic and advanced concepts in chemistry, biology, mathematics, and computing will be learned and applied to one or more medicinal chemistry problems. As such, this is an applied course: students will be expected to apply their knowledge of the basic sciences to medicinal chemistry challenges of increasing difficulty. This course makes significant use of computer modeling (computational chemistry). NCSSM is one of the only high schools in the country that teaches a formal course in medicinal chemistry. Like computational chemistry, this course is typically offered at the upper undergraduate/graduate level, requires a strong chemistry and biology background, and at least 12 to 14 hours/week of dedicated time. Recommended for spring, senior year.  This course includes topics that satisfy the chemistry graduation requirement.",
         "meetings": "Spring Semester: Thursday 8:30pm"
     },
@@ -572,7 +572,7 @@
         "subject": "Chemistry",
         "terms_currently_offered": "Semester1",
         "prerequisites": "Completion of Honors and/or AP Chemistry with grade of B or higher",
-        "title": "CH4105 CH4105 Honors Organic Chemistry",
+        "title": "CH4105 Honors Organic Chemistry",
         "description": "This course introduces students to the structure, synthesis, and reactions of the major functional\r\ngroups present in organic compounds. Reaction mechanisms, stereochemistry, and the\r\nprediction of products are covered. Instrumental methods of verifying the products of reactions\r\nwill be investigated.",
         "meetings": "Fall Semester: Wednesday 7:30pm"
     },
@@ -885,7 +885,7 @@
         "dept": "Engineering and Computer Science",
         "subject": "Computer Science",
         "terms_currently_offered": "Semester1, Semester2",
-        "title": "CS4060 CS4060 Honors Scientific Programming",
+        "title": "CS4060 Honors Scientific Programming",
         "description": "This course teaches computer programming skills and how to apply them for analyzing, interpreting, and displaying both large and small scientific data sets.  Using Python, MATLAB, R, Mathmatica, and associated software libraries, students learn to access data sets, write programs to calculate and manipulate data, display data, and perform basic statistical analysis.  Programming concepts such as objects, variables, functions, conditional logic, and iterations are important concepts that are taught in the context of scientific programming and which allow this course to serve as a prerequisite for more advanced courses.  The course features a final project allowing students to explore datasets in scientific areas of interest to them.",
         "meetings": "Fall Semester: Monday 8:00pm"
     },
@@ -906,7 +906,7 @@
         "dept": "Engineering and Computer Science",
         "subject": "Computer Science",
         "terms_currently_offered": "Semester2",
-        "title": "CS4200 CS4200/MA4200 Honors Cryptography",
+        "title": "CS4200/MA4200 Honors Cryptography",
         "description": "This course introduces students to cryptographic methods used to encipher and decipher secret messages with an emphasis on using computer programming to automate the process. Through class discussions, problem solving, group activities, and programming assignments, students will learn a variety of encryption schemes ranging from the age of Caesar to modern public key encryption used to secure digital communications online. Students will learn introductory number theory and statistics to describe these methods and identify weaknesses that allow secret messages to be read without the key. Students will also master programming topics such as variables, functions, conditional logic, looping and recursion, and file input/output in the Python language to implement each cryptographic method. This course will utilize a blended learning environment with large portions of material being taught online and utilizing in class time for working in groups. Students will receive one unit of credit for this course, but the course will satisfy both the mathematics and engineering/computer science course requirement.",
         "meetings": "Spring Semester: Wednesday 7:00pm"
     },
@@ -1162,7 +1162,7 @@
         "terms_currently_offered": "Semester1, Semester2",
         "credits": "Online students have registration priority. For residential students, this course counts towards your required 5 enrollments per semester and satisfies your Engineering and Computer Science Requirement.",
         "prerequisites": "Completion of Math III or Integrated Math III with a B or higher.",
-        "title": "EE4140 EE4140 Honors Aerospace Engineering",
+        "title": "EE4140 Honors Aerospace Engineering",
         "description": "This course introduces students to the field of aerospace engineering, engineering design, and the core math and science concepts needed to solve problems related to aerospace and other engineering disciplines. The course is presented in historical context with topics that include spatial reasoning, fluid statics and dynamics, thermodynamics, kinematics and the mechanics of flight. These principles are applied to the design and control of aircraft and spacecraft through small-scale physical design projects and computational modeling examples. Students have opportunities to experiment, calculate, compute, design and build as they explore and solve problems associated with the flight, and are encouraged to earn course credit through aerospace-themed projects of their own design.",
         "meetings": "Fall Semester: Tuesday 8:30pm"
     },
@@ -1174,7 +1174,7 @@
         "terms_currently_offered": "Semester2",
         "credits": "Online students have registration priority. For residential students, this course counts towards your required 5 enrollments per semester and satisfies your Engineering and Computer Science Requirement.",
         "prerequisites": "Completion of Math III or Integrated Math III with a B or higher",
-        "title": "EE4160 EE4160 Honors Civil Engineering",
+        "title": "EE4160 Honors Civil Engineering",
         "description": "This course introduces students to the study and practice of civil engineering and to math and science concepts needed to solve problems related to this and other engineering disciplines. Topics include the engineering design process, engineering mathematics, applied and reactive forces and moments, static equilibrium, distributed loadings, strength of materials, and stress and buckling analyses for structures in tension, compression, and bending. Activities include small-scale laboratory explorations, design projects inspired by the profession, data acquisition and computational modeling.",
         "meetings": "Spring Semester: Tuesday 7:00pm"
     },
@@ -1863,7 +1863,7 @@
         "dept": "Interdisciplinary Electives",
         "terms_currently_offered": "Semester1",
         "prerequisites": "None",
-        "title": "IE3400 IE3400 Honors Computational Science",
+        "title": "IE3400 Honors Computational Science",
         "description": "This is an honors level introductory course in the technologies, techniques, and tools of computational science. Computational science, not to be confused with \u201ccomputer science,\u201d looks to answer this question: \u201cHow can computers and mathematics be used to study interesting problems in science and social science?\u201d Computational science is sometimes known as \u201cmodeling and simulation,\u201d or \u201cscientific computing,\u201d and looks to create and use mathematical models to study complicated and complex problems in all areas of study. Recommended for fall, junior year.",
         "meetings": "Fall Semester: Tuesday 8:30pm",
         "subject": "Interdisciplinary Electives"
@@ -1873,7 +1873,7 @@
         "school": "NCSSM Online",
         "dept": "Interdisciplinary Electives",
         "terms_currently_offered": "Semester1",
-        "title": "IE3620 IE3620 Honors Data Science for Scientists",
+        "title": "IE3620 Honors Data Science for Scientists",
         "description": "Data Science is the study of the generalizable extraction of knowledge from data. Being a data scientist requires an integrated skill set spanning mathematics, statistics, machine learning, databases and other branches of computer science along with a good understanding of the craft of problem\r\nformulation to engineer effective solutions. This course will introduce students to this rapidly growing field and equip them with some of its basic principles and tools as well as its general mindset. Students will learn concepts, techniques and tools they need to deal with various facets of data science practice, including data collection and integration, exploratory data analysis, predictive\r\nmodeling, descriptive modeling, data product creation, evaluation, and effective communication. The focus in the treatment of these topics will be on breadth, rather than depth, and emphasis will be placed on integration and synthesis of concepts and their application to solving problems. To make the learning contextual, real datasets from a variety of scientific disciplines will be used.",
         "meetings": "Fall Semester: Wednesday 8:30pm",
         "subject": "Interdisciplinary Electives"
@@ -1884,7 +1884,7 @@
         "school": "NCSSM Online",
         "dept": "Interdisciplinary Electives",
         "terms_currently_offered": "Semester2",
-        "title": "IE3800 IE3800 Honors Bioinformatics: Computational Biology",
+        "title": "IE3800 Honors Bioinformatics: Computational Biology",
         "description": "Computational biology \u2013 known also as \u201cbioinformatics\u201d \u2013 is a hybrid, interdisciplinary course, and is one of the most important new fields of study in science. Computational biology isn't a biology course per se \u2013 it's the application of computing and mathematics (primarily statistics) to biological data. What biological data? Mostly genetics and genomics data, such as studies of DNA extracted from mice breeding experiments to predict the genetic basis of diseases such as cancer, high blood pressure, and obesity! Do well in this class, and there will be a multitude of opportunities open as an undergraduate researcher and beyond! Recommended for spring, junior year.",
         "meetings": "Spring Semester: Wednesday 8:30pm",
         "subject": "Interdisciplinary Electives"
@@ -1895,7 +1895,7 @@
         "dept": "Interdisciplinary Electives",
         "terms_currently_offered": "Semester2",
         "prerequisites": "Completion of one or more computational science courses in the NCSSM Online catalog OR evidence of computational experience/permission of the Dean.",
-        "title": "IE3900 IE3900 Honors Research Experience in Computational Science",
+        "title": "IE3900 Honors Research Experience in Computational Science",
         "description": "Research Experience courses provide research skills development and the opportunity to\r\ncomplete a research project in the subject areas indicated. There are no prerequisites and these\r\nsingle-semester courses are available to juniors or seniors. Some students, upon completion of\r\nthe course, may elect to be considered for other research opportunities at NCSSM, although it is\r\nnot required.",
         "meetings": "Spring Semester: Tuesday 7:30pm",
         "subject": "Interdisciplinary Electives"
@@ -2138,7 +2138,7 @@
         "dept": "Mathematics",
         "terms_currently_offered": "Semester2",
         "prerequisites": "MA4030 AP Calculus BC w/ Advanced Topics I OR AP Calculus AB",
-        "title": "MA4032 MA4032 AP Calculus BC w/ Advanced Topics II",
+        "title": "MA4032 AP Calculus BC w/ Advanced Topics II",
         "description": "This course continues the accelerated study of calculus and its applications to mathematical modeling.  Through class discussions, problem solving, laboratory experiences, and writing assignments students discover the important concepts of calculus, develop an understanding of these concepts, and use these concepts in solving realistic problems.  This course generally includes the completion of a substantial mathematical modeling project.  Calculators and computers are used as tools in the course.  Topics normally covered include additional applications of the derivative, an introduction to differential equations, slope fields, Euler's method, definite and indefinite integrals, numerical approximations of integrals, calculating area and total change of a function, and some applications of integrals.  Students also focus on skills necessary for success on the AP BC Calculus examination.\r\n\r\nThis is one part of a 2-semester course sequence (MA4030 and MA4032). Students must either enroll in both semesters when registering or have completed AP Calc AB previously. Once enrolled students may not drop a single semester without approval from the Dean of Mathematics.",
         "meetings": "Spring Semester: Tuesday 7:00pm",
         "subject": "Mathematics"
@@ -2174,7 +2174,7 @@
         "dept": "Mathematics",
         "terms_currently_offered": "Semester1",
         "prerequisites": "AP Calculus BC AND Score of 4 or 5 on the AP Calculus BC Exam",
-        "title": "MA4064 MA4064 Honors Multivariable Calculus with Applications I",
+        "title": "MA4064 Honors Multivariable Calculus with Applications I",
         "description": "This is the first half of a university-level course in multivariable calculus. This course includes the theory and application of vector functions and partial derivatives. Topics include basic operations with vectors and parametric curves in 2- and 3-space, the Frenet Frame and Frenet-Serret equations, continuity and differentiability of functions of several variables, gradients and directional derivatives, and classic optimization problems. Additional topics and projects will be added throughout the course to explore interesting applications of calculus and differential equations.",
         "meetings": "Fall Semester: Thursday 5:30pm",
         "subject": "Mathematics"
@@ -2186,7 +2186,7 @@
         "dept": "Mathematics",
         "terms_currently_offered": "Semester2",
         "prerequisites": "MA4066 Multivariable Calculus with Applications I",
-        "title": "MA4066 MA4066 Honors Multivariable Calculus with Applications II",
+        "title": "MA4066 Honors Multivariable Calculus with Applications II",
         "description": "Students will continue their study of multivariable calculus including multiple integrals, the Jacobian and change of variables, vector fields, line and surface integrals, divergence and curl. Significant time is devoted to the study of Green's Theorem, Stokes' Theorem and the Divergence Theorem. Students will be expected to use formal mathematical proofs and to work on extended problem sets. Additional topics and projects will be added throughout the course to explore interesting applications of calculus and differential equations.",
         "meetings": "Spring Semester: Thursday 5:30pm",
         "subject": "Mathematics"
@@ -2217,7 +2217,7 @@
         "school": "NCSSM Online",
         "dept": "Mathematics",
         "terms_currently_offered": "Semester1",
-        "title": "MA4110 MA4110 Honors Foundations in Data Science",
+        "title": "MA4110 Honors Foundations in Data Science",
         "description": "This course combines three perspectives: inferential thinking, computational thinking, and real-world relevance. Given data arising from some real-world phenomenon, how does one analyze that data so as to understand that phenomenon? The course teaches critical concepts and skills in computer programming and statistical inference, in conjunction with hands-on analysis of real-world datasets, including economic data, document collections, geographical data, and social networks. It delves into social issues surrounding data analysis such as privacy and design.",
         "meetings": "Fall Semester: Wednesday 7:00pm",
         "subject": "Mathematics"
@@ -2271,7 +2271,7 @@
         "dept": "Mathematics",
         "terms_currently_offered": "Semester2",
         "prerequisites": "MA4032 AP Calculus BC w/ Advanced Topics II OR AP Calculus BC",
-        "title": "MA4230 MA4230 Honors Complex Systems and Modern Networks",
+        "title": "MA4230 Honors Complex Systems and Modern Networks",
         "description": "This course is a survey of topics involving complex systems and modern networks.  Some of the topics studied in the course are fractals and iterated function systems, chaos and chaotic behavior, cellular automata and self-organization, genetic algorithms and neural networks.  Web applications and computer programs are essential tools of the course.  Familiarity with programming is advantageous but not necessary.",
         "meetings": "Spring Semester: Tuesday and Thursday 7:00pm",
         "subject": "Mathematics"
@@ -2691,7 +2691,7 @@
         "subject": "Physics",
         "terms_currently_offered": "Semester2",
         "prerequisites": "Honors Physics/ AP Physics/ Pre-Calculus",
-        "title": "PH3125 PH3125 Honors Computational Physics",
+        "title": "PH3125 Honors Computational Physics",
         "description": "Students will be introduced to basic methods of numerical analysis and will learn to write programs in the Python programming language to solve and analyze physics problems utilizing these methods. Data from cutting edge physics will be analyzed, including particle physics from CERN, gravitational waves from LIGO, and products of cosmic rays. Students will also create simulations of physics events both numerically and visually using VPython. This course is typically offered at the upper undergraduate/graduate at most universities, and requires a strong physics background and at least 12 to 14 hours/week of dedicated time.",
         "meetings": "Spring Semester: Thursday 8:00pm"
     },
