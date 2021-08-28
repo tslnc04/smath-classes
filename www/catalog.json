@@ -1,6 +1,12 @@
 [
     {
         "course_id": "AR4100",
+        "patterns_s1": [
+            "C13L5"
+        ],
+        "patterns_s2": [
+            "D135L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "Art",
@@ -11,6 +17,12 @@
     },
     {
         "course_id": "AR4110",
+        "patterns_s1": [
+            "D135L"
+        ],
+        "patterns_s2": [
+            "E12L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "Art",
@@ -33,6 +45,12 @@
     },
     {
         "course_id": "AR4200",
+        "patterns_s1": [
+            "H24"
+        ],
+        "patterns_s2": [
+            "H24"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "Art",
@@ -63,6 +81,9 @@
     },
     {
         "course_id": "AR4320",
+        "patterns_s2": [
+            "G3L5L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "Art",
@@ -74,6 +95,9 @@
     },
     {
         "course_id": "AR4500",
+        "patterns_s1": [
+            "M123"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "Art",
@@ -86,6 +110,9 @@
     },
     {
         "course_id": "AR4510",
+        "patterns_s1": [
+            "M123"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "Art",
@@ -98,6 +125,9 @@
     },
     {
         "course_id": "AR4520",
+        "patterns_s1": [
+            "M123"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "Art",
@@ -119,6 +149,30 @@
     },
     {
         "course_id": "AS4051",
+        "patterns_s1": [
+            "A12L34",
+            "A12L34",
+            "A12L34",
+            "A12L34",
+            "B124L5",
+            "B124L5",
+            "B124L5",
+            "B124L5",
+            "C13L45",
+            "C13L45",
+            "C13L45",
+            "C13L45",
+            "D1235L",
+            "D1235L",
+            "E12L35",
+            "E12L35",
+            "E12L35",
+            "E12L35",
+            "F134L5",
+            "F134L5",
+            "F134L5",
+            "G13L5L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "English",
@@ -129,6 +183,14 @@
     },
     {
         "course_id": "AS4051W",
+        "patterns_s1": [
+            "A12L34",
+            "A12L34",
+            "B124L5",
+            "C13L45",
+            "C13L45",
+            "F134L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "English",
@@ -140,6 +202,30 @@
     },
     {
         "course_id": "AS4052",
+        "patterns_s2": [
+            "A12L34",
+            "A12L34",
+            "A12L34",
+            "A12L34",
+            "B124L5",
+            "B124L5",
+            "B124L5",
+            "B124L5",
+            "C13L45",
+            "C13L45",
+            "C13L45",
+            "C13L45",
+            "D1235L",
+            "D1235L",
+            "E12L35",
+            "E12L35",
+            "E12L35",
+            "E12L35",
+            "F134L5",
+            "F134L5",
+            "F134L5",
+            "G13L5L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "English",
@@ -152,6 +238,14 @@
     },
     {
         "course_id": "AS4052W",
+        "patterns_s2": [
+            "A12L34",
+            "A12L34",
+            "B124L5",
+            "C13L45",
+            "C13L45",
+            "F134L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "English",
@@ -198,6 +292,9 @@
     },
     {
         "course_id": "BI3560",
+        "patterns_s2": [
+            "A12L34"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Biology",
@@ -208,6 +305,12 @@
     },
     {
         "course_id": "BI3580",
+        "patterns_s1": [
+            "C13L45"
+        ],
+        "patterns_s2": [
+            "C13L45"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Biology",
@@ -218,6 +321,10 @@
     },
     {
         "course_id": "BI3640",
+        "patterns_s1": [
+            "A12L34",
+            "E12L35"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Biology",
@@ -228,6 +335,10 @@
     },
     {
         "course_id": "BI3700",
+        "patterns_s2": [
+            "A12L34",
+            "E12L35"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Biology",
@@ -248,6 +359,15 @@
     },
     {
         "course_id": "BI4010",
+        "patterns_s1": [
+            "B124L5",
+            "F134L5",
+            "D1235L"
+        ],
+        "patterns_s2": [
+            "F134L5",
+            "D1235L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Biology",
@@ -259,6 +379,10 @@
     },
     {
         "course_id": "BI4020",
+        "patterns_s1": [
+            "C13L45",
+            "B124L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Biology",
@@ -269,6 +393,10 @@
     },
     {
         "course_id": "BI4030",
+        "patterns_s2": [
+            "B124L5",
+            "F134L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Biology",
@@ -280,6 +408,10 @@
     },
     {
         "course_id": "BI4040",
+        "patterns_s1": [
+            "A12L34",
+            "E12L35"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Biology",
@@ -302,6 +434,14 @@
     },
     {
         "course_id": "BI4110",
+        "patterns_s1": [
+            "B124L5",
+            "F134L5"
+        ],
+        "patterns_s2": [
+            "F134L5",
+            "D1235L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Biology",
@@ -325,6 +465,9 @@
     },
     {
         "course_id": "BI4130",
+        "patterns_s2": [
+            "D1235L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Biology",
@@ -336,6 +479,14 @@
     },
     {
         "course_id": "BI4140",
+        "patterns_s1": [
+            "C13L45",
+            "E12L35"
+        ],
+        "patterns_s2": [
+            "A12L34",
+            "E12L35"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Biology",
@@ -371,6 +522,10 @@
     },
     {
         "course_id": "BI4160",
+        "patterns_s2": [
+            "A12L34",
+            "E12L35"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Biology",
@@ -394,6 +549,9 @@
     },
     {
         "course_id": "BI4200",
+        "patterns_s2": [
+            "G13L5L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Biology",
@@ -407,6 +565,10 @@
     },
     {
         "course_id": "BI4210",
+        "patterns_s1": [
+            "A12L34",
+            "E12L35"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Biology",
@@ -418,6 +580,10 @@
     },
     {
         "course_id": "BI4211",
+        "patterns_s2": [
+            "A12L34",
+            "E12L35"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Biology",
@@ -462,6 +628,10 @@
     },
     {
         "course_id": "BI4922",
+        "patterns_s1": [
+            "F134L5G13L5L",
+            "F134L5G13L5L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Biology",
@@ -522,6 +692,15 @@
     },
     {
         "course_id": "CH3500",
+        "patterns_s1": [
+            "D1235L",
+            "B124L5",
+            "F134L5"
+        ],
+        "patterns_s2": [
+            "A12L34",
+            "E12L35"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Chemistry",
@@ -544,6 +723,10 @@
     },
     {
         "course_id": "CH4000",
+        "patterns_s2": [
+            "B124L5",
+            "F134L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Chemistry",
@@ -556,6 +739,19 @@
     },
     {
         "course_id": "CH4020",
+        "patterns_s1": [
+            "C13L45",
+            "B124L5",
+            "D1235L",
+            "B124L5",
+            "F134L5",
+            "D1235L",
+            "F134L5",
+            "A12L34",
+            "E12L35",
+            "C13L45",
+            "E12L35"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Chemistry",
@@ -578,6 +774,21 @@
     },
     {
         "course_id": "CH4120",
+        "patterns_s1": [
+            "A12L34"
+        ],
+        "patterns_s2": [
+            "B124L5",
+            "D1235L",
+            "B124L5",
+            "F134L5",
+            "F134L5",
+            "A12L34",
+            "E12L35",
+            "C13L45",
+            "D1235L",
+            "C13L45"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Chemistry",
@@ -590,6 +801,14 @@
     },
     {
         "course_id": "CH4130",
+        "patterns_s1": [
+            "C13L45",
+            "B124L5"
+        ],
+        "patterns_s2": [
+            "B124L5",
+            "F134L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Chemistry",
@@ -601,6 +820,9 @@
     },
     {
         "course_id": "CH4140",
+        "patterns_s2": [
+            "A12L34"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Chemistry",
@@ -637,6 +859,9 @@
     },
     {
         "course_id": "CH4270",
+        "patterns_s2": [
+            "C13L45"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Chemistry",
@@ -648,6 +873,9 @@
     },
     {
         "course_id": "CH4280",
+        "patterns_s1": [
+            "A12L34"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Chemistry",
@@ -661,6 +889,9 @@
     },
     {
         "course_id": "CH4290",
+        "patterns_s2": [
+            "D1235L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Chemistry",
@@ -683,6 +914,9 @@
     },
     {
         "course_id": "CH4911",
+        "patterns_s1": [
+            "G13L5L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Interdisciplinary Electives",
         "credits": "One unit core STEM or core elective credit.",
@@ -717,6 +951,10 @@
     },
     {
         "course_id": "CH4922",
+        "patterns_s1": [
+            "F134L5G13L5L",
+            "F134L5G13L5L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Chemistry",
@@ -729,6 +967,10 @@
     },
     {
         "course_id": "CN3051",
+        "patterns_s1": [
+            "C1345",
+            "D1235"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -739,6 +981,10 @@
     },
     {
         "course_id": "CN3052",
+        "patterns_s2": [
+            "C1345",
+            "D1235"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -751,6 +997,10 @@
     },
     {
         "course_id": "CN3651",
+        "patterns_s1": [
+            "C13L45",
+            "D1235L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -764,6 +1014,10 @@
     },
     {
         "course_id": "CN3652",
+        "patterns_s2": [
+            "C13L45",
+            "D1235L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -776,6 +1030,9 @@
     },
     {
         "course_id": "CN4051",
+        "patterns_s1": [
+            "A1234"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -788,6 +1045,9 @@
     },
     {
         "course_id": "CN4052",
+        "patterns_s2": [
+            "A1234"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -800,6 +1060,9 @@
     },
     {
         "course_id": "CN4060",
+        "patterns_s2": [
+            "A1234"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -811,6 +1074,9 @@
     },
     {
         "course_id": "CN4651",
+        "patterns_s1": [
+            "B1245"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -824,6 +1090,9 @@
     },
     {
         "course_id": "CN4652",
+        "patterns_s2": [
+            "B1245"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -837,6 +1106,9 @@
     },
     {
         "course_id": "CN4851",
+        "patterns_s1": [
+            "B1245"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -849,6 +1121,9 @@
     },
     {
         "course_id": "CN4852",
+        "patterns_s2": [
+            "B1245"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -860,6 +1135,16 @@
     },
     {
         "course_id": "CS4020",
+        "patterns_s1": [
+            "D1235L",
+            "E12L35",
+            "C13L45",
+            "A12L34"
+        ],
+        "patterns_s2": [
+            "C13L45",
+            "D1235L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Engineering and Computer Science",
         "subject": "Computer Science",
@@ -870,6 +1155,10 @@
     },
     {
         "course_id": "CS4040",
+        "patterns_s1": [
+            "A12L34",
+            "E12L35"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Engineering and Computer Science",
         "subject": "Computer Science",
@@ -891,6 +1180,9 @@
     },
     {
         "course_id": "CS4070/AR4070",
+        "patterns_s1": [
+            "G13L5L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Engineering and Computer Science",
         "subject": "Computer Science",
@@ -912,6 +1204,10 @@
     },
     {
         "course_id": "CS4200/MA4200",
+        "patterns_s2": [
+            "E12L35",
+            "D1235L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Engineering and Computer Science",
         "subject": "Computer Science",
@@ -932,6 +1228,14 @@
     },
     {
         "course_id": "CS4240",
+        "patterns_s1": [
+            "B124L5",
+            "F134L5"
+        ],
+        "patterns_s2": [
+            "B124L5",
+            "F134L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Engineering and Computer Science",
         "subject": "Computer Science",
@@ -954,6 +1258,9 @@
     },
     {
         "course_id": "CS4280",
+        "patterns_s2": [
+            "E12L35"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Engineering and Computer Science",
         "subject": "Computer Science",
@@ -966,6 +1273,9 @@
     },
     {
         "course_id": "CS4300",
+        "patterns_s1": [
+            "F134L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Engineering and Computer Science",
         "subject": "Computer Science",
@@ -978,6 +1288,9 @@
     },
     {
         "course_id": "CS4320",
+        "patterns_s2": [
+            "C13L45"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Engineering and Computer Science",
         "subject": "Computer Science",
@@ -989,6 +1302,9 @@
     },
     {
         "course_id": "CS4340",
+        "patterns_s1": [
+            "C13L45"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Engineering and Computer Science",
         "subject": "Computer Science",
@@ -1033,6 +1349,9 @@
     },
     {
         "course_id": "DR4101",
+        "patterns_s1": [
+            "H3"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "Drama",
@@ -1044,6 +1363,9 @@
     },
     {
         "course_id": "DR4102",
+        "patterns_s2": [
+            "H3"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "Drama",
@@ -1065,6 +1387,9 @@
     },
     {
         "course_id": "EE3100",
+        "patterns_s1": [
+            "A12L34"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Engineering and Computer Science",
         "subject": "Engineering",
@@ -1105,6 +1430,10 @@
     },
     {
         "course_id": "EE4000",
+        "patterns_s1": [
+            "B124L5",
+            "F134L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Engineering and Computer Science",
         "subject": "Engineering",
@@ -1115,6 +1444,14 @@
     },
     {
         "course_id": "EE4020",
+        "patterns_s1": [
+            "B124L5",
+            "D1235L"
+        ],
+        "patterns_s2": [
+            "A12L34",
+            "C13L45"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Engineering and Computer Science",
         "subject": "Engineering",
@@ -1125,6 +1462,9 @@
     },
     {
         "course_id": "EE4040",
+        "patterns_s1": [
+            "G13L5L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Engineering and Computer Science",
         "subject": "Engineering",
@@ -1135,6 +1475,10 @@
     },
     {
         "course_id": "EE4080",
+        "patterns_s1": [
+            "A12L34",
+            "C13L45"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Engineering and Computer Science",
         "subject": "Engineering",
@@ -1145,6 +1489,12 @@
     },
     {
         "course_id": "EE4100",
+        "patterns_s1": [
+            "D1235L"
+        ],
+        "patterns_s2": [
+            "D1235L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Engineering and Computer Science",
         "subject": "Engineering",
@@ -1180,6 +1530,10 @@
     },
     {
         "course_id": "EE4180",
+        "patterns_s2": [
+            "F134L5",
+            "B124L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Engineering and Computer Science",
         "subject": "Engineering",
@@ -1213,6 +1567,9 @@
     },
     {
         "course_id": "EE4520",
+        "patterns_s2": [
+            "B124L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Engineering and Computer Science",
         "subject": "Engineering",
@@ -1225,6 +1582,9 @@
     },
     {
         "course_id": "EE4540",
+        "patterns_s2": [
+            "A12L34"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Engineering and Computer Science",
         "subject": "Engineering",
@@ -1237,6 +1597,9 @@
     },
     {
         "course_id": "EE4560",
+        "patterns_s2": [
+            "G13L5L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Engineering and Computer Science",
         "subject": "Engineering",
@@ -1249,6 +1612,9 @@
     },
     {
         "course_id": "EN4000",
+        "patterns_s1": [
+            "C13L5"
+        ],
         "school": "NCSSM Online",
         "dept": "Humanities",
         "subject": "English",
@@ -1316,6 +1682,10 @@
     },
     {
         "course_id": "EN4211",
+        "patterns_s1": [
+            "C13L5",
+            "E12L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "English",
@@ -1328,6 +1698,10 @@
     },
     {
         "course_id": "EN4212",
+        "patterns_s2": [
+            "C13L5",
+            "E12L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "English",
@@ -1396,6 +1770,10 @@
     },
     {
         "course_id": "EN4241",
+        "patterns_s1": [
+            "H13",
+            "I13"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "English",
@@ -1408,6 +1786,9 @@
     },
     {
         "course_id": "EN4242",
+        "patterns_s2": [
+            "H24"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "English",
@@ -1420,6 +1801,9 @@
     },
     {
         "course_id": "EN4251",
+        "patterns_s1": [
+            "D135L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "English",
@@ -1442,6 +1826,10 @@
     },
     {
         "course_id": "EN4400",
+        "patterns_s2": [
+            "C13L5",
+            "E12L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "English",
@@ -1453,6 +1841,9 @@
     },
     {
         "course_id": "EN4410",
+        "patterns_s1": [
+            "F14L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "English",
@@ -1465,6 +1856,9 @@
     },
     {
         "course_id": "EN4420",
+        "patterns_s1": [
+            "G135L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "English",
@@ -1476,6 +1870,9 @@
     },
     {
         "course_id": "EN4430",
+        "patterns_s1": [
+            "H24"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "English",
@@ -1488,6 +1885,10 @@
     },
     {
         "course_id": "EN4440",
+        "patterns_s2": [
+            "H13",
+            "I13"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "English",
@@ -1511,6 +1912,9 @@
     },
     {
         "course_id": "EN4460",
+        "patterns_s1": [
+            "G13L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "English",
@@ -1523,6 +1927,12 @@
     },
     {
         "course_id": "EN4470",
+        "patterns_s1": [
+            "G13L5"
+        ],
+        "patterns_s2": [
+            "G13L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "English",
@@ -1534,6 +1944,9 @@
     },
     {
         "course_id": "EN4481",
+        "patterns_s1": [
+            "D135L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "English",
@@ -1591,6 +2004,10 @@
     },
     {
         "course_id": "EN4600",
+        "patterns_s2": [
+            "H13",
+            "H24"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "English",
@@ -1602,6 +2019,10 @@
     },
     {
         "course_id": "EN4610",
+        "patterns_s1": [
+            "H13",
+            "H24"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "English",
@@ -1614,6 +2035,9 @@
     },
     {
         "course_id": "FR3051",
+        "patterns_s1": [
+            "A1234"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -1624,6 +2048,9 @@
     },
     {
         "course_id": "FR3052",
+        "patterns_s2": [
+            "A1234"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -1636,6 +2063,9 @@
     },
     {
         "course_id": "FR3651",
+        "patterns_s1": [
+            "B1245"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -1648,6 +2078,9 @@
     },
     {
         "course_id": "FR3652",
+        "patterns_s2": [
+            "B1245"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -1659,6 +2092,9 @@
     },
     {
         "course_id": "FR4051",
+        "patterns_s1": [
+            "G13L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -1670,6 +2106,9 @@
     },
     {
         "course_id": "FR4052",
+        "patterns_s2": [
+            "G135L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -1705,6 +2144,9 @@
     },
     {
         "course_id": "HU4000",
+        "patterns_s1": [
+            "H4"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "History & Social Sciences",
@@ -1737,6 +2179,9 @@
     },
     {
         "course_id": "HU4400",
+        "patterns_s2": [
+            "A12L4"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "Humanities Electives",
@@ -1748,6 +2193,12 @@
     },
     {
         "course_id": "HU4410",
+        "patterns_s1": [
+            "E12L5"
+        ],
+        "patterns_s2": [
+            "E12L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "Humanities Electives",
@@ -1759,6 +2210,9 @@
     },
     {
         "course_id": "HU4420",
+        "patterns_s2": [
+            "D135L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "Humanities Electives",
@@ -1781,6 +2235,10 @@
     },
     {
         "course_id": "HU4440",
+        "patterns_s2": [
+            "F14L5",
+            "D135L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "Humanities Electives",
@@ -1803,6 +2261,9 @@
     },
     {
         "course_id": "HU4460",
+        "patterns_s1": [
+            "E12L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "Humanities Electives",
@@ -1814,6 +2275,9 @@
     },
     {
         "course_id": "HU4461",
+        "patterns_s2": [
+            "G13L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "Humanities Electives",
@@ -1825,6 +2289,9 @@
     },
     {
         "course_id": "HU4470",
+        "patterns_s2": [
+            "G13L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "Humanities Electives",
@@ -1847,6 +2314,13 @@
     },
     {
         "course_id": "HU4490",
+        "patterns_s1": [
+            "F14L5"
+        ],
+        "patterns_s2": [
+            "D135L",
+            "F14L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "Humanities Electives",
@@ -1902,6 +2376,9 @@
     },
     {
         "course_id": "JA3051",
+        "patterns_s1": [
+            "C13L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -1912,6 +2389,9 @@
     },
     {
         "course_id": "JA3052",
+        "patterns_s2": [
+            "C13L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -1924,6 +2404,9 @@
     },
     {
         "course_id": "JA3651",
+        "patterns_s1": [
+            "D135L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -1936,6 +2419,9 @@
     },
     {
         "course_id": "JA3652",
+        "patterns_s2": [
+            "D135L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -1948,6 +2434,10 @@
     },
     {
         "course_id": "LA3051",
+        "patterns_s1": [
+            "A12L4",
+            "G13L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -1958,6 +2448,9 @@
     },
     {
         "course_id": "LA3052",
+        "patterns_s2": [
+            "A12L4"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -1969,6 +2462,9 @@
     },
     {
         "course_id": "LA3650",
+        "patterns_s1": [
+            "B14L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -1980,6 +2476,9 @@
     },
     {
         "course_id": "LA4050",
+        "patterns_s2": [
+            "B14L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -1992,6 +2491,9 @@
     },
     {
         "course_id": "LA4651",
+        "patterns_s1": [
+            "D135L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -2004,6 +2506,9 @@
     },
     {
         "course_id": "LA4652",
+        "patterns_s2": [
+            "D135L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -2068,6 +2573,13 @@
     },
     {
         "course_id": "MA4000",
+        "patterns_s1": [
+            "A12L34",
+            "B124L5",
+            "C13L45",
+            "E12L35",
+            "D1235L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Mathematics",
         "title": "MA4000 Precalculus and Modeling I",
@@ -2077,6 +2589,13 @@
     },
     {
         "course_id": "MA4002",
+        "patterns_s2": [
+            "A12L34",
+            "B124L5",
+            "C13L45",
+            "D1235L",
+            "E12L35"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Mathematics",
         "credits": "This course counts towards students' required 5 enrollments per semester. This course meets the following graduation requirements: Math Requirement OR STEM and STEM Interdisciplinary Requirement",
@@ -2099,6 +2618,10 @@
     },
     {
         "course_id": "MA4020",
+        "patterns_s1": [
+            "B124L5",
+            "F134L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Mathematics",
         "credits": "This course counts towards students' required 5 enrollments per semester. This course meets the following graduation requirements: Math Requirement OR STEM and STEM Interdisciplinary Requirement",
@@ -2111,6 +2634,10 @@
     },
     {
         "course_id": "MA4022",
+        "patterns_s2": [
+            "B124L5",
+            "F134L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Mathematics",
         "credits": "This course counts towards students' required 5 enrollments per semester. This course meets the following graduation requirements: Math Requirement OR STEM and STEM Interdisciplinary Requirement",
@@ -2122,6 +2649,18 @@
     },
     {
         "course_id": "MA4030",
+        "patterns_s1": [
+            "A12L34",
+            "B124L5",
+            "B124L5",
+            "C13L45",
+            "C13L45",
+            "D1235L",
+            "E12L35",
+            "E12L35",
+            "F134L5",
+            "F134L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Mathematics",
         "credits": "This course counts towards students' required 5 enrollments per semester. This course meets the following graduation requirements: Math Requirement OR STEM and STEM Interdisciplinary Requirement",
@@ -2133,6 +2672,21 @@
     },
     {
         "course_id": "MA4032",
+        "patterns_s1": [
+            "F134L5"
+        ],
+        "patterns_s2": [
+            "A12L34",
+            "B124L5",
+            "B124L5",
+            "C13L45",
+            "C13L45",
+            "D1235L",
+            "E12L35",
+            "E12L35",
+            "F134L5",
+            "F134L5"
+        ],
         "video": "https://www.youtube.com/embed/2x1lpST-f4o",
         "school": "NCSSM Online",
         "dept": "Mathematics",
@@ -2145,6 +2699,14 @@
     },
     {
         "course_id": "MA4050",
+        "patterns_s1": [
+            "A12L34",
+            "E12L35"
+        ],
+        "patterns_s2": [
+            "E12L5",
+            "F134L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Mathematics",
         "credits": "This course counts towards students' required 5 enrollments per semester. This course meets the following graduation requirements: Math Requirement OR STEM and STEM Interdisciplinary Requirement",
@@ -2156,6 +2718,15 @@
     },
     {
         "course_id": "MA4060",
+        "patterns_s1": [
+            "C13L45",
+            "D1235L",
+            "E12L35"
+        ],
+        "patterns_s2": [
+            "D1235L",
+            "E12L35"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Mathematics",
         "credits": "This course counts towards students' required 5 enrollments per semester. This course meets the following graduation requirements: Math Requirement OR STEM and STEM Interdisciplinary Requirement",
@@ -2193,6 +2764,11 @@
     },
     {
         "course_id": "MA4100",
+        "patterns_s1": [
+            "C13L45",
+            "D1235L",
+            "F134L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Mathematics",
         "credits": "This course counts towards students' required 5 enrollments per semester. This course meets the following graduation requirements: Math Requirement OR STEM and STEM Interdisciplinary Requirement",
@@ -2203,6 +2779,11 @@
     },
     {
         "course_id": "MA4102",
+        "patterns_s2": [
+            "C13L45",
+            "D1235L",
+            "F134L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Mathematics",
         "credits": "This course counts towards students' required 5 enrollments per semester. This course meets the following graduation requirements: Math Requirement OR STEM and STEM Interdisciplinary Requirement",
@@ -2214,6 +2795,14 @@
     },
     {
         "course_id": "MA4110",
+        "patterns_s1": [
+            "A12L34",
+            "D1235L"
+        ],
+        "patterns_s2": [
+            "C13L45",
+            "D1235L"
+        ],
         "school": "NCSSM Online",
         "dept": "Mathematics",
         "terms_currently_offered": "Semester1",
@@ -2224,6 +2813,9 @@
     },
     {
         "course_id": "MA4112",
+        "patterns_s2": [
+            "A12L34"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Mathematics",
         "credits": "This course counts towards students' required 5 enrollments per semester. This course meets the following graduation requirements: Math Requirement OR STEM and STEM Interdisciplinary Requirement",
@@ -2245,6 +2837,9 @@
     },
     {
         "course_id": "MA4210",
+        "patterns_s2": [
+            "G13L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Mathematics",
         "credits": "This course counts towards students' required 5 enrollments per semester. This course meets the following graduation requirements: Math Requirement OR STEM and STEM Interdisciplinary Requirement",
@@ -2257,6 +2852,10 @@
     },
     {
         "course_id": "MA4220",
+        "patterns_s1": [
+            "B124L5",
+            "D1235L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Mathematics",
         "credits": "This course counts towards students' required 5 enrollments per semester. This course meets the following graduation requirements: Math Requirement OR STEM and STEM Interdisciplinary Requirement",
@@ -2267,6 +2866,9 @@
     },
     {
         "course_id": "MA4230",
+        "patterns_s2": [
+            "A12L34"
+        ],
         "school": "NCSSM Online",
         "dept": "Mathematics",
         "terms_currently_offered": "Semester2",
@@ -2278,6 +2880,9 @@
     },
     {
         "course_id": "MA4240",
+        "patterns_s2": [
+            "B124L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Mathematics",
         "credits": "This course counts towards students' required 5 enrollments per semester. This course meets the following graduation requirements: Math Requirement OR STEM and STEM Interdisciplinary Requirement",
@@ -2290,6 +2895,10 @@
     },
     {
         "course_id": "MA4300",
+        "patterns_s2": [
+            "A12L34",
+            "C13L45"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Mathematics",
         "credits": "This course counts towards students' required 5 enrollments per semester. This course meets the following graduation requirements: Math Requirement OR STEM and STEM Interdisciplinary Requirement",
@@ -2300,6 +2909,9 @@
     },
     {
         "course_id": "MA4310",
+        "patterns_s2": [
+            "A12L34"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Mathematics",
         "credits": "This course counts towards students' required 5 enrollments per semester. This course meets the following graduation requirements: Math Requirement OR STEM and STEM Interdisciplinary Requirement",
@@ -2311,6 +2923,13 @@
     },
     {
         "course_id": "MA4500",
+        "patterns_s1": [
+            "A12L34",
+            "E12L35"
+        ],
+        "patterns_s2": [
+            "E12L35"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Mathematics",
         "credits": "This course counts towards students' required 5 enrollments per semester. This course meets the following graduation requirements: Math Requirement OR STEM and STEM Interdisciplinary Requirement",
@@ -2409,6 +3028,15 @@
     },
     {
         "course_id": "MU3500",
+        "patterns_s1": [
+            "E135",
+            "G135",
+            "D135"
+        ],
+        "patterns_s2": [
+            "E135",
+            "G135"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "Music",
@@ -2419,6 +3047,12 @@
     },
     {
         "course_id": "MU4100",
+        "patterns_s1": [
+            "H13"
+        ],
+        "patterns_s2": [
+            "H13"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "Music",
@@ -2429,6 +3063,14 @@
     },
     {
         "course_id": "MU4110",
+        "patterns_s1": [
+            "H24",
+            "M12345"
+        ],
+        "patterns_s2": [
+            "H24",
+            "M12345"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "Music",
@@ -2439,6 +3081,12 @@
     },
     {
         "course_id": "MU4120",
+        "patterns_s1": [
+            "C13L5"
+        ],
+        "patterns_s2": [
+            "C13L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "Music",
@@ -2449,6 +3097,16 @@
     },
     {
         "course_id": "MU4130",
+        "patterns_s1": [
+            "H2C3L5",
+            "H2F35",
+            "M12345"
+        ],
+        "patterns_s2": [
+            "H2C3L5",
+            "H2F35",
+            "M12345"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "Music",
@@ -2469,6 +3127,9 @@
     },
     {
         "course_id": "MU4300",
+        "patterns_s1": [
+            "M1"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "Music",
@@ -2479,6 +3140,9 @@
     },
     {
         "course_id": "MU4310",
+        "patterns_s2": [
+            "M1"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "Music",
@@ -2511,6 +3175,9 @@
     },
     {
         "course_id": "MU4400",
+        "patterns_s2": [
+            "I2"
+        ],
         "school": "NCSSM Online",
         "dept": "Humanities",
         "terms_currently_offered": "Semester2",
@@ -2552,6 +3219,13 @@
     },
     {
         "course_id": "PA1000",
+        "patterns_s1": [
+            "A2L"
+        ],
+        "patterns_s2": [
+            "A2L",
+            "E2L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Physical Activity & Wellness",
         "credits": "This course does not count towards you required 5 enrollments per trimester.\u00a0\u00a0This course meets the\u00a0following graduation requirements:\u00a0Physical Activity Requirement.",
@@ -2563,6 +3237,9 @@
     },
     {
         "course_id": "PA1001",
+        "patterns_s1": [
+            "E2L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Physical Activity & Wellness",
         "credits": "This course does not count towards you required 5 enrollments per trimester.\u00a0\u00a0This course meets the\u00a0following graduation requirements:\u00a0Physical Activity Requirement.",
@@ -2585,6 +3262,13 @@
     },
     {
         "course_id": "PA1003",
+        "patterns_s1": [
+            "C3L",
+            "C3L"
+        ],
+        "patterns_s2": [
+            "B4L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Physical Activity & Wellness",
         "credits": "This course does not count towards you required 5 enrollments per trimester.\u00a0\u00a0This course meets the\u00a0following graduation requirements:\u00a0Physical Activity Requirement.",
@@ -2596,6 +3280,10 @@
     },
     {
         "course_id": "PA1004",
+        "patterns_s1": [
+            "B4L",
+            "F4L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Physical Activity & Wellness",
         "terms_currently_offered": "Trimester1",
@@ -2608,6 +3296,17 @@
     },
     {
         "course_id": "PA1005",
+        "patterns_s1": [
+            "G3L"
+        ],
+        "patterns_s2": [
+            "C3L",
+            "C3L",
+            "G3L",
+            "G3L",
+            "F4L",
+            "F4L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Physical Activity & Wellness",
         "credits": "This course does not count towards you required 5 enrollments per trimester.\u00a0\u00a0This course meets the\u00a0following graduation requirements:\u00a0Physical Activity Requirement.",
@@ -2619,6 +3318,16 @@
     },
     {
         "course_id": "PA1006",
+        "patterns_s1": [
+            "D5L",
+            "G5L"
+        ],
+        "patterns_s2": [
+            "G5L",
+            "G5L",
+            "D5L",
+            "D5L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Physical Activity & Wellness",
         "credits": "This course does not count towards you required 5 enrollments per trimester.\u00a0\u00a0This course meets the\u00a0following graduation requirements:\u00a0Physical Activity Requirement.",
@@ -2630,6 +3339,16 @@
     },
     {
         "course_id": "PA1007",
+        "patterns_s1": [
+            "A2L",
+            "E2L"
+        ],
+        "patterns_s2": [
+            "A2L",
+            "A2L",
+            "E2L",
+            "E2L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Physical Activity & Wellness",
         "credits": "This course does not count towards you required 5 enrollments per trimester.\u00a0\u00a0This course meets the\u00a0following graduation requirements:\u00a0Physical Activity Requirement.",
@@ -2641,6 +3360,13 @@
     },
     {
         "course_id": "PA1008",
+        "patterns_s1": [
+            "C3L"
+        ],
+        "patterns_s2": [
+            "C3L",
+            "C3L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Physical Activity & Wellness",
         "credits": "This course does not count towards you required 5 enrollments per trimester.\u00a0\u00a0This course meets the\u00a0following graduation requirements:\u00a0Physical Activity Requirement.",
@@ -2652,6 +3378,12 @@
     },
     {
         "course_id": "PA1009",
+        "patterns_s1": [
+            "A2L"
+        ],
+        "patterns_s2": [
+            "A2L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Physical Activity & Wellness",
         "credits": "This course does not count towards you required 5 enrollments per trimester.\u00a0\u00a0This course meets the\u00a0following graduation requirements:\u00a0Physical Activity Requirement.",
@@ -2697,6 +3429,18 @@
     },
     {
         "course_id": "PH3500",
+        "patterns_s1": [
+            "A12L34",
+            "E12L35",
+            "C13L45",
+            "D1235L",
+            "B124L5",
+            "F134L5"
+        ],
+        "patterns_s2": [
+            "B124L5",
+            "F134L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Physics",
@@ -2719,6 +3463,11 @@
     },
     {
         "course_id": "PH3920",
+        "patterns_s2": [
+            "C13L45",
+            "B124L5",
+            "F134L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Physics",
@@ -2730,6 +3479,14 @@
     },
     {
         "course_id": "PH4000",
+        "patterns_s1": [
+            "F134L5"
+        ],
+        "patterns_s2": [
+            "A12L34",
+            "E12L35",
+            "C13L45"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Physics",
@@ -2741,6 +3498,19 @@
     },
     {
         "course_id": "PH4020",
+        "patterns_s1": [
+            "C13L45",
+            "B124L5",
+            "F134L5",
+            "A12L34",
+            "E12L35",
+            "D1235L",
+            "E12L35"
+        ],
+        "patterns_s2": [
+            "D1235L",
+            "E12L35"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Physics",
@@ -2752,6 +3522,17 @@
     },
     {
         "course_id": "PH4120",
+        "patterns_s1": [
+            "C13L45",
+            "B124L5"
+        ],
+        "patterns_s2": [
+            "C13L45",
+            "B124L5",
+            "A12L34",
+            "E12L35",
+            "F134L5"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Physics",
@@ -2763,6 +3544,12 @@
     },
     {
         "course_id": "PH4130",
+        "patterns_s1": [
+            "C13L45"
+        ],
+        "patterns_s2": [
+            "C13L45"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Physics",
@@ -2775,6 +3562,13 @@
     },
     {
         "course_id": "PH4180",
+        "patterns_s1": [
+            "D1235L"
+        ],
+        "patterns_s2": [
+            "B124L5",
+            "D1235L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Physics",
@@ -2797,6 +3591,9 @@
     },
     {
         "course_id": "PH4240",
+        "patterns_s1": [
+            "A12L34"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Physics",
@@ -2809,6 +3606,9 @@
     },
     {
         "course_id": "PH4241",
+        "patterns_s2": [
+            "A12L34"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Physics",
@@ -2821,6 +3621,9 @@
     },
     {
         "course_id": "PH4250",
+        "patterns_s1": [
+            "D1235L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Physics",
@@ -2877,6 +3680,9 @@
     },
     {
         "course_id": "PH4922",
+        "patterns_s1": [
+            "F134L5G13L5L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Science",
         "subject": "Physics",
@@ -2888,6 +3694,26 @@
     },
     {
         "course_id": "RE1002",
+        "patterns_s1": [
+            "A2",
+            "A3",
+            "A4",
+            "B4",
+            "B4",
+            "C3",
+            "C3",
+            "C4",
+            "D2",
+            "D3",
+            "E2",
+            "E3",
+            "F3",
+            "F4",
+            "G3",
+            "B2",
+            "F3",
+            "G3"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Student Life",
         "credits": "One unit residential education credit",
@@ -2898,6 +3724,14 @@
     },
     {
         "course_id": "RE1010",
+        "patterns_s1": [
+            "A2",
+            "E3"
+        ],
+        "patterns_s2": [
+            "A2",
+            "G3"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Student Life",
         "credits": "One unit residential education credit",
@@ -2909,6 +3743,14 @@
     },
     {
         "course_id": "RE1012",
+        "patterns_s1": [
+            "C3",
+            "E2"
+        ],
+        "patterns_s2": [
+            "A2",
+            "G3"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Student Life",
         "credits": "One unit residential education credit",
@@ -2931,6 +3773,13 @@
     },
     {
         "course_id": "RE1018",
+        "patterns_s1": [
+            "G3"
+        ],
+        "patterns_s2": [
+            "F3",
+            "A4"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Student Life",
         "credits": "One unit residential education credit",
@@ -2943,6 +3792,17 @@
     },
     {
         "course_id": "RE1020",
+        "patterns_s1": [
+            "A4",
+            "B2",
+            "D3",
+            "F3",
+            "G3"
+        ],
+        "patterns_s2": [
+            "B2",
+            "E3"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Student Life",
         "credits": "One unit residential education credit",
@@ -2954,6 +3814,25 @@
     },
     {
         "course_id": "RE1022",
+        "patterns_s2": [
+            "A2",
+            "A2",
+            "A3",
+            "A4",
+            "B2",
+            "B4",
+            "C3",
+            "C4",
+            "C4",
+            "D2",
+            "D3",
+            "E2",
+            "E3",
+            "F3",
+            "F3",
+            "F4",
+            "G3"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Student Life",
         "credits": "One unit residential education credit",
@@ -2965,6 +3844,13 @@
     },
     {
         "course_id": "SE4001",
+        "patterns_s1": [
+            "B124L"
+        ],
+        "patterns_s2": [
+            "B124L",
+            "B124L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Physical Activity & Wellness",
         "credits": "This course counts towards your required 5 enrollments per semester and carries general elective credit.",
@@ -2976,6 +3862,10 @@
     },
     {
         "course_id": "SP3051",
+        "patterns_s1": [
+            "D1235",
+            "E1235"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -2986,6 +3876,11 @@
     },
     {
         "course_id": "SP3052",
+        "patterns_s2": [
+            "B1245",
+            "E1235",
+            "D1235"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -2998,6 +3893,9 @@
     },
     {
         "course_id": "SP3250",
+        "patterns_s2": [
+            "B1245"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -3009,6 +3907,12 @@
     },
     {
         "course_id": "SP3651",
+        "patterns_s1": [
+            "B1245",
+            "E1235",
+            "D1235",
+            "B1245"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -3020,6 +3924,10 @@
     },
     {
         "course_id": "SP3652",
+        "patterns_s2": [
+            "B1245",
+            "D1235"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -3031,6 +3939,9 @@
     },
     {
         "course_id": "SP3850",
+        "patterns_s2": [
+            "E1235"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -3042,6 +3953,10 @@
     },
     {
         "course_id": "SP4051",
+        "patterns_s1": [
+            "C1345",
+            "A1234"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -3054,6 +3969,10 @@
     },
     {
         "course_id": "SP4052",
+        "patterns_s2": [
+            "C1345",
+            "A1234"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -3066,6 +3985,9 @@
     },
     {
         "course_id": "SP4651",
+        "patterns_s1": [
+            "G135L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -3077,6 +3999,9 @@
     },
     {
         "course_id": "SP4652",
+        "patterns_s2": [
+            "G135L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "World Languages",
@@ -3110,6 +4035,9 @@
     },
     {
         "course_id": "SS4000",
+        "patterns_s1": [
+            "D135"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "History & Social Sciences",
@@ -3132,6 +4060,9 @@
     },
     {
         "course_id": "SS4020",
+        "patterns_s1": [
+            "B124"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "History & Social Sciences",
@@ -3142,6 +4073,12 @@
     },
     {
         "course_id": "SS4030",
+        "patterns_s1": [
+            "E135"
+        ],
+        "patterns_s2": [
+            "B124"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "History & Social Sciences",
@@ -3152,6 +4089,9 @@
     },
     {
         "course_id": "SS4040",
+        "patterns_s2": [
+            "E135"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "History & Social Sciences",
@@ -3162,6 +4102,12 @@
     },
     {
         "course_id": "SS4050",
+        "patterns_s1": [
+            "D1235"
+        ],
+        "patterns_s2": [
+            "D1235"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "History & Social Sciences",
@@ -3172,6 +4118,9 @@
     },
     {
         "course_id": "SS4060",
+        "patterns_s1": [
+            "G135L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "History & Social Sciences",
@@ -3182,6 +4131,10 @@
     },
     {
         "course_id": "SS4070",
+        "patterns_s2": [
+            "G135L",
+            "G135L"
+        ],
         "school": "NCSSM Residential (Durham)",
         "dept": "Humanities",
         "subject": "History & Social Sciences",

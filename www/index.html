@@ -14,7 +14,7 @@
     <h1>(Unofficial) NCSSM Course Catalog</h1>
   </header>
 
-  <nav>
+  <nav id="search-menu">
     <h2>Search</h2>
     <label for="school">Program</label>
     <select id="school">
@@ -68,8 +68,36 @@
     <label for="keyword">Keywords</label>
     <input type="text" id="keyword" />
 
-    <button id="search">Search</button>
-    <button id="reset">Reset</button>
+    <button id="search-search">Search</button>
+    <button id="search-reset">Reset</button>
+  </nav>
+
+  <nav id="offerings-menu">
+    <h2>Offerings</h2>
+    <label for="semester">Offered</label>
+    <select id="semester">
+      <option value="Any">Any Time</option>
+      <option value="Never">Never</option>
+      <option value="Year">This Year</option>
+      <option value="Semester1">1st Semester</option>
+      <option value="Semester2">2nd Semester</option>
+    </select>
+    <label for="block">Block</label>
+    <select id="block" disabled="true">
+      <option value="Any">Any</option>
+      <option value="A">A</option>
+      <option value="B">B</option>
+      <option value="C">C</option>
+      <option value="D">D</option>
+      <option value="E">E</option>
+      <option value="F">F</option>
+      <option value="G">G</option>
+      <option value="H">H</option>
+      <option value="I">I</option>
+    </select>
+
+    <button id="offer-filter">Filter</button>
+    <button id="offer-reset">Reset</button>
   </nav>
 
   <main>

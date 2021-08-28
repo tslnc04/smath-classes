@@ -28,7 +28,7 @@ h2 {
 }
 
 select,
-input {
+input:not([type='checkbox']) {
   display: block;
   margin-bottom: 1rem;
   font-size: 1.1rem;
@@ -38,7 +38,7 @@ select {
   width: 100%;
 }
 
-input {
+input:not([type='checkbox']) {
   width: 85%;
 }
 
@@ -138,11 +138,27 @@ footer a {
   font-weight: bold;
 }
 
+/*
+
++----------+--------------------+ 1
+|          Header               | auto
++----------+--------------------+ 2
+|  Search  |                    | auto
++----------+                    + 3
+|  Offer   |      Results       | auto
++----------+                    + 4
+|          |                    | auto
++----------+--------------------+ 5
+|          Footer               | auto
++----------+--------------------+ 6
+
+*/
+
 @media screen and (min-width: 768px) {
   body {
     display: grid;
     grid-template-columns: 1fr 2fr;
-    grid-template-rows: auto auto 1fr auto;
+    grid-template-rows: auto auto auto auto auto;
   }
 
   header {
@@ -150,11 +166,19 @@ footer a {
   }
 
   nav {
-    grid-row-end: 3;
+    grid-column-end: 2;
+  }
+
+  nav#search-menu {
+    grid-row-end: 2 / 3;
+  }
+
+  nav#offerings-menu {
+    grid-row: 3 / 4;
   }
 
   main {
-    grid-row: 2 / 4;
+    grid-row: 2 / 5;
   }
 
   footer {
