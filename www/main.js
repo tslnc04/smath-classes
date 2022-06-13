@@ -57,12 +57,11 @@ const toTitleCase = (str) => {
 // How conditional hiding and showing works
 // ----------
 //
-// Based on the school/program: The "school-online" class is added to the
-// department and subject select elements when the online program is selected,
-// otherwise there is no classes present on these select elements. The
-// residential-only subjects and departments have the "school-residential" class
-// on the option elements. CSS is then used to hide these elements when the
-// parent has the "school-online class".
+// Based on the school/program: A class corresponding to the school is added to
+// the select element for the department and subject. If a certain department or
+// subject is not displayed for that school, it also has this class. CSS is used
+// to hide the option elements for when it and the select element has the same
+// class.
 //
 // Based on the department: A class prefixed with "dept-" is added to the
 // subject select element and all others are removed based on the chosen
@@ -76,27 +75,31 @@ const toTitleCase = (str) => {
 // Hide departments and subjects like physical activity when the online program
 // is selected
 school.addEventListener("input", () => {
-  if (school.value === "NCSSM Online") {
-    dept.classList.add("school-online");
-    subject.classList.add("school-online");
-  } else {
-    dept.classList.remove("school-online");
-    subject.classList.remove("school-online");
-  }
+  const schoolClasses = {
+    "NCSSM Connect": "school-connect",
+    "NCSSM Durham": "school-durham",
+    "NCSSM Morganton": "school-morganton",
+    "NCSSM Online": "school-online",
+  };
+
+  // Reset the classList
+  dept.classList.remove(...Object.values(schoolClasses));
+  subject.classList.remove(...Object.values(schoolClasses));
+
+  // Add the class corresponding to the current school selected
+  dept.classList.add(schoolClasses[school.value]);
+  subject.classList.add(schoolClasses[school.value]);
 });
 
-// Reset the subject when the department is changed and hide the subjects that
-// don't match with the department
 dept.addEventListener("input", () => {
-  // Don't reset the subject if the department is being set to all since any
-  // subject is valid for when the department is all
+  // Reset subject if department changes to value other than all
   if (dept.value !== "All") {
     subject.value = "All";
   }
 
-  const dept_classes = {
+  const deptClasses = {
     All: "dept-all",
-    "Engineering and Computer Science": "dept-ecs",
+    "Engineering & Computer Science": "dept-ecs",
     Humanities: "dept-hum",
     Science: "dept-sci",
     Mathematics: "dept-math",
@@ -105,8 +108,8 @@ dept.addEventListener("input", () => {
     "Student Life": "dept-life",
   };
 
-  subject.classList.remove(...Object.values(dept_classes));
-  subject.classList.add(dept_classes[dept.value]);
+  subject.classList.remove(...Object.values(deptClasses));
+  subject.classList.add(deptClasses[dept.value]);
 });
 
 semester.addEventListener("input", () => {
@@ -134,12 +137,15 @@ const resetSearch = () => {
   // even after resetting.
   dept.className = "";
   subject.className = "dept-all";
+  selectedCourses = [];
+  filteredCourses = [];
 };
 
 const resetOffer = () => {
   semester.value = "Any";
   block.value = "Any";
   block.disabled = true;
+  filteredCourses = [];
 };
 
 const updateResults = () => {
@@ -154,7 +160,6 @@ const updateResults = () => {
           k !== "course_id" &&
           k !== "title" &&
           k !== "description" &&
-          k !== "meetings" &&
           k !== "video" &&
           k !== "patterns_s1" &&
           k !== "patterns_s2"
@@ -168,7 +173,6 @@ const updateResults = () => {
     }
 
     drowndown_html += `<p>${c.description}</p> <br>`;
-    drowndown_html += `<strong>Meetings:</strong> ${c.meetings} <br>`;
 
     if (c.hasOwnProperty("patterns_s1")) {
       drowndown_html += `<strong>1st Semester Meeting Patterns: </strong> ${c.patterns_s1.join(
@@ -227,14 +231,23 @@ const filterCourses = () => {
       }
     })
     .filter((c) => {
+      // Since Any is first, this is true even if multiple blocks are selected
       if (block.value === "Any") {
         return true;
       }
 
+      const selectedBlocks = [...block.options]
+        .filter((option) => option.selected)
+        .map((option) => option.value);
+
       if (semester.value === "Year") {
         return (
-          (c.hasOwnProperty("patterns_s1") && c.patterns_s1.some((p) => p.includes(block.value))) ||
-          (c.hasOwnProperty("patterns_s2") && c.patterns_s2.some((p) => p.includes(block.value)))
+          (c.hasOwnProperty("patterns_s1") &&
+            c.patterns_s1.some((p) =>
+              selectedBlocks.some((blockValue) => p.includes(blockValue))
+            )) ||
+          (c.hasOwnProperty("patterns_s2") &&
+            c.patterns_s2.some((p) => selectedBlocks.some((blockValue) => p.includes(blockValue))))
         );
       } else if (semester.value === "Semester1") {
         return c.patterns_s1.some((p) => p.includes(block.value));
@@ -267,7 +280,15 @@ searchReset.addEventListener("click", () => {
 });
 
 offerReset.addEventListener("click", () => {
+  const doUpdate = results.firstChild !== null;
   resetOffer();
-  filterCourses();
-  updateResults();
+  resetResults();
+
+  // Only add courses if there's already something there. Otherwise hitting
+  // reset will clear search results. But when the search results are blank,
+  // don't add results
+  if (doUpdate) {
+    filterCourses();
+    updateResults();
+  }
 });

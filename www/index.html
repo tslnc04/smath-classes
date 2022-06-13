@@ -19,51 +19,53 @@
     <label for="school">Program</label>
     <select id="school">
       <option value="All" selected>All</option>
-      <option value="NCSSM Online">Online</option>
-      <option value="NCSSM Residential (Durham)">Residential</option>
+      <option value="NCSSM Durham">NCSSM Durham</option>
+      <option value="NCSSM Morganton">NCSSM Morganton</option>
+      <option value="NCSSM Online">NCSSM Online</option>
+      <option value="NCSSM Connect">NCSSM Connect</option>
     </select>
     <label for="dept">Department</label>
     <select id="dept">
       <option value="All" selected>All</option>
-      <option value="Engineering and Computer Science">
-        Engineering and Computer Science
+      <option value="Engineering & Computer Science">
+        Engineering &amp; Computer Science
       </option>
       <option value="Humanities">Humanities</option>
-      <option value="Science">Science</option>
+      <option value="Science" class="school-connect">Science</option>
       <option value="Mathematics">Mathematics</option>
-      <option value="Interdisciplinary Electives">
+      <option value="Interdisciplinary Electives" class="school-connect">
         Interdisciplinary Electives
       </option>
-      <option value="Physical Activity & Wellness" class="school-residential">
+      <option value="Physical Activity & Wellness" class="school-morganton school-online school-connect">
         Physical Activity &amp; Wellness
       </option>
-      <option value="Student Life" class="school-residential">Student Life</option>
+      <option value="Student Life" class="school-online school-connect">Student Life</option>
     </select>
     <label for="subject">Subject</label>
     <select id="subject" class="dept-all">
       <option value="All" class="dept-all" selected>All</option>
-      <option value="Art" class="school-residential dept-hum dept-all">Art</option>
-      <option value="Biology" class="dept-sci dept-all">Biology</option>
-      <option value="Chemistry" class="dept-sci dept-all">Chemistry</option>
-      <option value="Computer Science" class="dept-ecs dept-all">Computer Science</option>
-      <option value="Drama" class="school-residential dept-hum dept-all">Drama</option>
-      <option value="Engineering" class="dept-ecs dept-all">Engineering</option>
-      <option value="English" class="dept-hum dept-all">English</option>
-      <option value="History & Social Sciences" class="dept-hum dept-all">
+      <option value="Art" class="dept-all dept-hum school-online school-connect">Art</option>
+      <option value="Biology" class="dept-all dept-sci school-connect">Biology</option>
+      <option value="Chemistry" class="dept-all dept-sci school-connect">Chemistry</option>
+      <option value="Computer Science" class="dept-all dept-ecs">Computer Science</option>
+      <option value="Drama" class="dept-all dept-hum school-online school-connect">Drama</option>
+      <option value="Engineering" class="dept-all dept-ecs">Engineering</option>
+      <option value="English" class="dept-all dept-hum school-connect">English</option>
+      <option value="History & Social Sciences" class="dept-all dept-hum school-morganton">
         History &amp; Social Sciences
       </option>
-      <option value="Humanities Electives" class="school-residential dept-hum dept-all">Humanities Electives</option>
-      <option value="Interdisciplinary Electives" class="dept-inter dept-all">
+      <option value="Humanities Electives" class="dept-all dept-hum school-online school-connect">Humanities Electives</option>
+      <option value="Interdisciplinary Electives" class="dept-all dept-inter school-connect">
         Interdisciplinary Electives
       </option>
-      <option value="Mathematics" class="dept-math dept-all">Mathematics</option>
-      <option value="Music" class="school-residential dept-hum dept-all">Music</option>
-      <option value="Physical Activity & Wellness" class="school-residential dept-paw dept-all">
+      <option value="Mathematics" class="dept-all dept-math">Mathematics</option>
+      <option value="Music" class="dept-all dept-hum school-connect">Music</option>
+      <option value="Physical Activity & Wellness" class="dept-all dept-paw school-morganton school-online school-connect">
         Physical Activity &amp; Wellness
       </option>
-      <option value="Physics" class="dept-sci dept-all">Physics</option>
-      <option value="Student Life" class="school-residential dept-life dept-all">Student Life</option>
-      <option value="World Languages" class="school-residential dept-hum dept-all">World Languages</option>
+      <option value="Physics" class="dept-all dept-sci school-connect">Physics</option>
+      <option value="Student Life" class="dept-all dept-life school-online school-connect">Student Life</option>
+      <option value="World Languages" class="dept-all dept-hum school-online school-connect">World Languages</option>
     </select>
     <label for="keyword">Keywords</label>
     <input type="text" id="keyword" />
@@ -83,8 +85,8 @@
       <option value="Semester2">2nd Semester</option>
     </select>
     <label for="block">Block</label>
-    <select id="block" disabled="true">
-      <option value="Any">Any</option>
+    <select id="block" disabled="true" multiple>
+      <option value="Any" selected>Any</option>
       <option value="A">A</option>
       <option value="B">B</option>
       <option value="C">C</option>
@@ -106,7 +108,7 @@
   </main>
 
   <footer>
-    Copyright 2021 Timothy Laskoski. Source available <a
+    Copyright 2022 Timothy Laskoski. Source available <a
       href="https://github.com/tslnc04/smath-classes">@tslnc04/smath-classes</a> on GitHub.
   </footer>
 

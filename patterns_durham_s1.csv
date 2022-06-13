@@ -1,0 +1,255 @@
+Term,Section,Course Number and Title,Meeting Pattern
+Fall,1,AR4100 Drawing,C13L5
+Fall,1,AR4110 Painting,D135L
+Fall,1,AR4310 Digital Photography,H24
+Fall,1,AR4520 Advanced Studio Art,M123
+Fall,1,AS4051 American Studies I,A12L45
+Fall,2,AS4051 American Studies I,A12L45
+Fall,16,AS4051 American Studies I,A12L45
+Fall,6,AS4051 American Studies I,B134L5
+Fall,7,AS4051 American Studies I,B134L5
+Fall,14,AS4051 American Studies I,B134L5
+Fall,3,AS4051 American Studies I,C13L45
+Fall,4,AS4051 American Studies I,C13L45
+Fall,18,AS4051 American Studies I,C13L45
+Fall,24,AS4051 American Studies I,C13L45
+Fall,10,AS4051 American Studies I,D1235L
+Fall,11,AS4051 American Studies I,D1235L
+Fall,20,AS4051 American Studies I,B134L5
+Fall,22,AS4051 American Studies I,D1235L
+Fall,8,AS4051 American Studies I,E123L5
+Fall,9,AS4051 American Studies I,E123L5
+Fall,15,AS4051 American Studies I,E123L5
+Fall,12,AS4051 American Studies I,F1234L
+Fall,13,AS4051 American Studies I,F1234L
+Fall,21,AS4051 American Studies I,E123L5
+Fall,23,AS4051 American Studies I,F1234L
+Fall,5,AS4051 American Studies I,G12L34
+Fall,17,AS4051 American Studies I,G12L34
+Fall,19,AS4051 American Studies I,G12L34
+Fall,25,AS4051 American Studies I,G12L34
+Fall,1,BI3640 Developmental Biology (*R*),A12L45
+Fall,2,BI3640 Developmental Biology (*R*),C13L45
+Fall,1,BI4010 Anatomy & Physiology,B134L5
+Fall,3,BI4010 Anatomy & Physiology,D1235L
+Fall,2,BI4010 Anatomy & Physiology,F1234L
+Fall,1,BI4020 Ecology (*R*),C13L45
+Fall,2,BI4020 Ecology (*R*),E123L5
+Fall,1,BI4040 Climate Change Biology,A12L45
+Fall,2,BI4040 Climate Change Biology,G12L34
+Fall,1,BI4110 Molecular Genetics (*R*),B134L5
+Fall,2,BI4110 Molecular Genetics (*R*),F1234L
+Fall,1,BI4140 Molecular & Cellular Biol,A12L45
+Fall,2,BI4140 Molecular & Cellular Biol,G12L34
+Fall,1,BI4210 AP Biology (I) (*R*),A12L45
+Fall,2,BI4210 AP Biology (I) (*R*),C13L45
+Fall,1,BI4922 Research in Biology III (*R*),F1234LG12L34
+Fall,2,BI4922 Research in Biology III (*R*),F1234LG12L34
+Fall,1,CH3500 Chemistry Core - Atoms & Molecules,B134L5
+Fall,3,CH3500 Chemistry Core - Atoms & Molecules,D1235L
+Fall,2,CH3500 Chemistry Core - Atoms & Molecules,F1234L
+Fall,1,CH4020 AP Chemistry (I): Atoms & Molecules (*M*),A12L45
+Fall,5,CH4020 AP Chemistry (I): Atoms & Molecules (*M*),B134L5
+Fall,3,CH4020 AP Chemistry (I): Atoms & Molecules (*M*),C13L45
+Fall,8,CH4020 AP Chemistry (I): Atoms & Molecules (*M*),C13L45
+Fall,7,CH4020 AP Chemistry (I): Atoms & Molecules (*M*),D1235L
+Fall,4,CH4020 AP Chemistry (I): Atoms & Molecules (*M*),E123L5
+Fall,9,CH4020 AP Chemistry (I): Atoms & Molecules (*M*),E123L5
+Fall,6,CH4020 AP Chemistry (I): Atoms & Molecules (*M*),F1234L
+Fall,2,CH4020 AP Chemistry (I): Atoms & Molecules (*M*),G12L34
+Fall,10,CH4020 AP Chemistry (I): Atoms & Molecules (*M*),G12L34
+Fall,1,CH4120 AP Chemistry (II): Kinetics & Energy,D1235L
+Fall,1,CH4130 Organic Chemistry,B134L5
+Fall,2,CH4130 Organic Chemistry,F1234L
+Fall,1,CH4140 Environmental Chem (*R*),A12L45
+Fall,1,CH4270 Analytical Chemistry,D1235L
+Fall,1,CH4911 Research Computational Sci II,G12L34
+Fall,1,CH4922 Research Chem III (*R*),F1234LG12L34
+Fall,2,CH4922 Research Chem III (*R*),F1234LG12L34
+Fall,1,CN3051 Journeys into Chinese I,C1345
+Fall,2,CN3051 Journeys into Chinese I,D1235
+Fall,1,CN3651 Navigating in Chinese + Global Understanding I,C13L45
+Fall,2,CN3651 Navigating in Chinese + Global Understanding I,D1235L
+Fall,1,CN4051 Advanced Chinese I,A1245
+Fall,1,CN4060 Explorations in Chinese for Heritage Speakers,A1245
+Fall,1,CN4851 AP Chinese Language and Culture I,B1345
+Fall,1,CN4951 Advanced Readings in Chinese with Topics I,B1345
+Fall ,1,CS4020 Web Development,C13L45
+Fall ,2,CS4020 Web Development,E123L5
+Fall ,1,CS4040 Game Design and Simulation,A12L45
+Fall ,2,CS4040 Game Design and Simulation,G12L34
+Fall,1,"CS4070/AR4070 Art, Technology, and Computing",E13L5L
+Fall ,1,"CS4070/AR4070 Art, Technology, and Computing",E13L5L
+Fall ,1,CS4120 Computing for Everyone,D1235L
+Fall ,1,CS4240 Procedural and Object-Oriented Programming,B134L5
+Fall ,2,CS4240 Procedural and Object-Oriented Programming,F1234L
+Fall ,1,CS4300 Topics in Computer Science- Cybersecurity,H13
+Fall ,1,CS4340 Data Structures with C,B134L5
+Fall,1,DR4101 Theater Performance Workshop: Movement and Scene Study,H3
+Fall ,1,EE3100 CAD/CAM,A12L45
+Fall ,1,EE4000 Mechanical Engineering,A12L45
+Fall ,2,EE4000 Mechanical Engineering,G12L34
+Fall ,1,EE4020 Electrical Engineering,D1235L
+Fall ,2,EE4020 Electrical Engineering,F1234L
+Fall ,1,EE4040 Architecture,G12L34
+Fall ,1,EE4080 Biomedical Engineering,A12L45
+Fall ,2,EE4080 Biomedical Engineering,C13L45
+Fall ,1,EE4100 Introductory Robotics,D1235L
+Fall,2,EN4200 African Studies: Pre-Colonial Africa,F134L
+Fall,1,EN4200 African Studies: Pre-Colonial Africa ,D135L
+Fall,1,EN4211 East Asian Studies I ,C13L5
+Fall,2,EN4211 East Asian Studies I ,E13L5
+Fall,3,EN4211 East Asian Studies I ,G12L4
+Fall,2,EN4241 Western European Cultural Studies I,I13
+Fall,1,EN4241 Western European Cultural Studies I ,H13
+Fall,1,EN4300 Creative Writing,A12L4
+Fall,1,EN4400  AI in Science Fiction ,E13L5
+Fall,2,EN4400 AI in Science Fiction,G12L4
+Fall,1,EN4410 British Literature and Culture,C13L5
+Fall,2,EN4420 Classical Myth: Epic and Tragedy,B14L5
+Fall,1,EN4430 Modern World Fiction,H24
+Fall,1,EN4460 Southern Studies ,B14L5
+Fall,1,EN4470 STEM and the Stage,D135L
+Fall,3,EN4610 Research in the Humanities,E13L5
+Fall,1,EN4610 Research in the Humanities,H13
+Fall,2,EN4610 Research in the Humanities ,H24
+Fall,1,FR3051 Journeys into French I,A1245
+Fall,1,FR3651 Navigating in French I,B1345
+Fall,1,FR4051 Advanced French for Global Applications,E13L5
+Fall,1,HU4000 Entrepreneurship,H4
+Fall,1,HU440 Black Studies,B14L5
+Fall,1,HU4410 Critical Race Theory ,D135L
+Fall,1,"HU4490 Women's, Gender, and Sexuality Studies",A12L4
+Fall,2,"HU4490 Women's, Gender, and Sexuality Studies ",F124L
+Fall,1,JA3051 Journeys into Japanese I,C13L5
+Fall,1,JA3651 Navigating in Japanese I,D135L
+Fall,1,LA3051 Latin Elements I,A12L4
+Fall,1,LA3650 Latin Boot Camp,B14L5
+Fall,1,LA4661 Ovid's Metamorphoses I,D135L
+Fall,3,MA4000 Precalculus & Modeling w/ Advanced Topics I,C13L45
+Fall,1,MA4000 Precalculus & Modeling w/ Advanced Topics I,D1235L
+Fall,4,MA4000 Precalculus & Modeling w/ Advanced Topics I,E123L5
+Fall,5,MA4000 Precalculus & Modeling w/ Advanced Topics I,F1234L
+Fall,2,MA4000 Precalculus & Modeling w/ Advanced Topics I,G12L34
+Fall,1,MA4020 AP Calculus AB w/ Advanced Topics I,D1235L
+Fall,2,MA4020 AP Calculus AB w/ Advanced Topics I,E123L5
+Fall,1,MA4030 AP Calculus BC w/ Advanced Topics I,A12L45
+Fall,8,MA4030 AP Calculus BC w/ Advanced Topics I,A12L45
+Fall,2,MA4030 AP Calculus BC w/ Advanced Topics I,B134L5
+Fall,3,MA4030 AP Calculus BC w/ Advanced Topics I,C13L45
+Fall,9,MA4030 AP Calculus BC w/ Advanced Topics I,C13L45
+Fall,4,MA4030 AP Calculus BC w/ Advanced Topics I,D1235L
+Fall,5,MA4030 AP Calculus BC w/ Advanced Topics I,E123L5
+Fall,6,MA4030 AP Calculus BC w/ Advanced Topics I,F1234L
+Fall,7,MA4030 AP Calculus BC w/ Advanced Topics I,G12L34
+Fall,1,MA4032 AP Calculus BC w/ Advanced Topics II,G12L34
+Fall,1,MA4050 Modeling with Differential Equations,A12L45
+Fall,2,MA4050 Modeling with Differential Equations,C13L45
+Fall,1,MA4060 Multivariable Calculus,A12L45
+Fall,2,MA4060 Multivariable Calculus,B134L5
+Fall,2,MA4060 Multivariable Calculus,C13L45
+Fall,2,MA4100 AP Statistics w/ Advanced Topics I,B134L5
+Fall,1,MA4100 AP Statistics w/ Advanced Topics I,D1235L
+Fall,3,MA4100 AP Statistics w/ Advanced Topics I,F1234L
+Fall,4,MA4100 AP Statistics w/ Advanced Topics I,G12L34
+Fall,5,MA4100 AP Statistics w/ Advanced Topics I,B134L5
+Fall,1,MA4110 Foundations of Data Science,A12L45
+Fall,2,MA4110 Foundations of Data Science,F1234L
+Fall,1,MA4220 Mathematical Modeling,B134L5
+Fall,2,MA4220 Mathematical Modeling,F1234L
+Fall,1,MA4320 Linear Algebra with Applications,A12L45
+Fall,2,MA4500 Graph Theory with REX Math,D1235L
+Fall,1,MA4500 Graph Theory with REX Math,E123L5
+Fall,1,MU3500 Classical Piano and Guitar,A145
+Fall,2,MU3500 Classical Piano and Guitar,C145
+Fall,3,MU3500 Classical Piano and Guitar,G234
+Fall,1,MU4100 Chorale,E13L5L
+Fall,2,MU4100 Chorale,M12345
+Fall,1,MU4110 Wind Ensemble,H24
+Fall,2,MU4110 Wind Ensemble,M12345
+Fall,1,MU4120 Jazz Performance Workshop,E13L5
+Fall,1,MU4130 Orchestra,H24
+Fall,2,MU4130 Orchestra,M12345
+Fall,1,MU4300 Music Theory and Composition,M1 + asynchronous
+Fall,1,PA1000 Racquet Sports I,A2L
+Fall,1,PA1001 Racquet Sports II,G2L
+Fall,1,PA1003 Disc Sports,C3L
+Fall,1,PA1004 Archery,B4L
+Fall,2,PA1004 Archery,F4L
+Fall,1,PA1005 Weight Trng/Sprts & Fitness,E3L
+Fall,1,PA1006 Team Sports,D5L
+Fall,2,PA1006 Team Sports,E5L
+Fall,1,PA1007 Pilates & Yoga,A2L
+Fall,2,PA1007 Pilates & Yoga,G2L
+Fall,1,PA1008 Self Defense,C3L
+Fall,1,PA1009 Hiking,A2L
+Fall ,1,PH3040 Astronomy ,F1234L
+Fall ,1,PH3500 Physics Core: Mechanics,A12L45
+Fall ,3,PH3500 Physics Core: Mechanics,C13L45
+Fall ,4,PH3500 Physics Core: Mechanics,E123L5
+Fall ,2,PH3500 Physics Core: Mechanics,G12L34
+Fall ,2,PH4000 Physics Core: E&M,B134L5
+Fall ,1,PH4000 Physics Core: E&M,F1234L
+Fall ,1,PH4020 Physics Core: Mechanics (Math Intensive) (*M*),A12L45
+Fall ,5,PH4020 Physics Core: Mechanics (Math Intensive) (*M*),B134L5
+Fall ,3,PH4020 Physics Core: Mechanics (Math Intensive) (*M*),C13L45
+Fall ,7,PH4020 Physics Core: Mechanics (Math Intensive) (*M*),D1235L
+Fall ,4,PH4020 Physics Core: Mechanics (Math Intensive) (*M*),E123L5
+Fall ,6,PH4020 Physics Core: Mechanics (Math Intensive) (*M*),F1234L
+Fall ,2,PH4020 Physics Core: Mechanics (Math Intensive) (*M*),G12L34
+Fall ,1,PH4120 Physics Core: E&M (Math Intensive) (*M*),C13L45
+Fall ,3,PH4120 Physics Core: E&M (Math Intensive) (*M*),D1235L
+Fall ,2,PH4120 Physics Core: E&M (Math Intensive) (*M*),E123L5
+Fall ,1,PH4130 Computational Physics,G12L34
+Fall,1,"PH4170/CH4170 Electrochemistry: Batteries, Fuel Cells and Solar Cells",E123L5
+Fall ,1,PH4180 Astrophysics (*R*),A12L45
+Fall ,2,PH4180 Astrophysics (*R*),G12L34
+Fall ,1,PH4240 AP Physics C: Mechanics,D1235L
+Fall ,1,PH4250 Modern Physics,B134L5
+Fall ,1,PH4922 Research in Physics III (*R*),F1234LG12L34
+Fall,1,RE1010 Exploring Multicultural America,B4L
+Fall,2,RE1010 Exploring Multicultural America,E3L
+Fall,1,RE1012 Public Speaking,C4
+Fall,2,RE1012 Public Speaking,E2
+Fall,3,RE1012 Public Speaking,G3
+Fall,4,RE1012 Public Speaking,D3
+Fall,2,RE1016 Marketing You,E3
+Fall,3,RE1016 Marketing You,F3
+Fall,1,RE1002 Cornerstone,A2
+Fall,2,RE1002 Cornerstone,A4
+Fall,3,RE1002 Cornerstone,B3
+Fall,4,RE1002 Cornerstone,B4
+Fall,5,RE1002 Cornerstone,C3
+Fall,6,RE1002 Cornerstone,C4
+Fall,7,RE1002 Cornerstone,D2
+Fall,8,RE1002 Cornerstone,D3
+Fall,9,RE1002 Cornerstone,E2
+Fall,10,RE1002 Cornerstone,E2
+Fall,11,RE1002 Cornerstone,E3
+Fall,12,RE1002 Cornerstone,F2
+Fall,13,RE1002 Cornerstone,F3
+Fall,14,RE1002 Cornerstone,F4
+Fall,15,RE1002 Cornerstone,G3
+Fall,16,RE1002 Cornerstone,G4
+Fall,1,RE1020 Financial Planning,A4
+Fall,2,RE1020 Financial Planning,C3
+Fall,3,RE1020 Financial Planning,D2
+Fall,4,RE1020 Financial Planning,F3
+Fall,5,RE1020 Financial Planning,G3
+Fall,1,SE4001 Emergency Care,B134L 
+Fall,1,SEM002 Precalculus Corequisite,G24
+Fall,1,SEM004 Calculus Corequisite,E13L
+Fall,2,SEM004 Calculus Corequisite,F14L
+Fall,1,SP3051 Journeys into Spanish I,B1345
+Fall,2,SP3051 Journeys into Spanish I,F1234
+Fall,1,SP3250 Breakthroughs in Spanish ,A1245
+Fall,1,SP3651 Navigating in Spanish I,A1245
+Fall,2,SP3651 Navigating in Spanish I,C1345
+Fall,3,SP3651 Navigating in Spanish I,G1234
+Fall,1,SP3850 Explorations in Spanish with Topics,D1235
+Fall,1,SP4251 Topics in Advanced Spanish I: Sports and Culture in the Hispanosphere,D1235
+Fall,2,SP4251 Topics in Advanced Spanish I: Sports and Culture in the Hispanosphere,G1234
+Fall,1,SS4020 Sociology,D135
+Fall,1,SS4030 Medical Sociology ,B145
+Fall,1,SS4050 AP Psychology,G1234
+Fall,1,SS4060 AP Microeconomics,E13L5

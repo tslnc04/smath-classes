@@ -1,5 +1,5 @@
 # Remove the content from the site itself, hopefully dealing with copyright
 # concerns
+catalog_*
 catalog.html
-meeting_patterns_s1.csv
-meeting_patterns_s2.csv
+meeting_patterns_*

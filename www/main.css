@@ -72,10 +72,7 @@ summary {
   padding: 0.75rem;
 }
 
-.school-online > .school-residential {
-  display: none;
-}
-
+/* Opt-in model: subjects only get displayed when a given department is selected */
 option.dept-all,
 option.dept-ecs,
 option.dept-hum,
@@ -87,37 +84,25 @@ option.dept-life {
   display: none;
 }
 
-.dept-all > .dept-all {
-  display: block;
-}
-
-.dept-ecs > .dept-ecs {
-  display: block;
-}
-
-.dept-hum > .dept-hum {
-  display: block;
-}
-
-.dept-sci > .dept-sci {
-  display: block;
-}
-
-.dept-math > .dept-math {
-  display: block;
-}
-
-.dept-inter > .dept-inter {
-  display: block;
-}
-
-.dept-paw > .dept-paw {
-  display: block;
-}
-
+.dept-all > .dept-all,
+.dept-ecs > .dept-ecs,
+.dept-hum > .dept-hum,
+.dept-sci > .dept-sci,
+.dept-math > .dept-math,
+.dept-inter > .dept-inter,
+.dept-paw > .dept-paw,
 .dept-life > .dept-life {
   display: block;
 }
+
+/* Opt-out model: subjects and departments are excluded when a given school is selected */
+.school-connect > .school-connect,
+.school-durham > .school-durham,
+.school-morganton > .school-morganton,
+.school-online > .school-online {
+  display: none;
+}
+
 
 details[open] {
   border-bottom: 1px solid #eceff1;

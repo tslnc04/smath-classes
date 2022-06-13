@@ -1,0 +1,258 @@
+Term,Section,Course Number and Title,Meeting Pattern
+Spring,2,AR4100 Drawing,C13L5
+Spring,3,AR4100 Drawing,E13L5
+Spring,2,AR4110 Painting,D135L
+Spring,2,AR4310 Digital Photography,H24
+Spring,2,AR4520 Advanced Studio Art,M123
+Spring,1,AS4052 American Studies II,A12L45
+Spring,2,AS4052 American Studies II,A12L45
+Spring,3,AS4052 American Studies II,C13L45
+Spring,4,AS4052 American Studies II,C13L45
+Spring,5,AS4052 American Studies II,G12L34
+Spring,6,AS4052 American Studies II,B134L5
+Spring,7,AS4052 American Studies II,C13L45
+Spring,8,AS4052 American Studies II,E123L5
+Spring,9,AS4052 American Studies II,E1235L
+Spring,10,AS4052 American Studies II,D1235L
+Spring,11,AS4052 American Studies II,D1235L
+Spring,12,AS4052 American Studies II,F1234L
+Spring,13,AS4052 American Studies II,F1234L
+Spring,14,AS4052 American Studies II,B134L5
+Spring,15,AS4052 American Studies II,E123L5
+Spring,16,AS4052 American Studies II,A12L45
+Spring,17,AS4052 American Studies II,G12L34
+Spring,18,AS4052 American Studies II,E123L5
+Spring,19,AS4052 American Studies II,B134L5
+Spring,20,AS4052 American Studies II,D1235L
+Spring,21,AS4052 American Studies II,F1234L
+Spring,22,AS4052 American Studies II,D1235L
+Spring,23,AS4052 American Studies II,E1235L
+Spring,24,AS4052 American Studies II,C13L45
+Spring,25,AS4052 American Studies II,G12L34
+Spring ,1,BI3560 Sports Kinesiology ,A12L45
+Spring ,1,BI3580 Classical Genetics (*M*),C13L45
+Spring ,2,BI3700 Evolution,G12L34
+Spring ,1,BI4010 Anatomy & Physiology,B134L5
+Spring ,2,BI4010 Anatomy & Physiology,F1234L
+Spring ,1,BI4030 Environmental Science (*R*),D1235L
+Spring ,1,BI4110 Molecular Genetics (*R*),B134L5
+Spring ,1,BI4110 Molecular Genetics (*R*),A12L45
+Spring ,2,BI4110 Molecular Genetics (*R*),F1234L
+Spring ,1,BI4140 Molecular & Cellular Biol,B134L5
+Spring ,2,BI4140 Molecular & Cellular Biol,F1234L
+Spring ,2,BI4140 Molecular & Cellular Biol,G12L34
+Spring ,1,BI4160 Neuroscience (*R*),A12L45
+Spring ,2,BI4160 Neuroscience (*R*),C13L45
+Spring ,1,BI4200 Immunology (*R*),C13L45
+Spring ,2,BI4200 Immunology (*R*),E123L5
+Spring ,1,BI4211 AP Biology (II) (*R*),A12L45
+Spring ,2,BI4211 AP Biology (II) (*R*),C13L45
+Spring ,1,BI4921 Research in Biology II (*R*),F1234LG12L34
+Spring ,2,BI4921 Research in Biology II (*R*),F1234LG12L34
+Spring,1,CH3500 Chemistry Core - Atoms & Molecules,A12L45
+Spring,2,CH3500 Chemistry Core - Atoms & Molecules,G12L34
+Spring,1,CH4000 Chemistry Core - Reactions & Energy,B134L5
+Spring,2,CH4000 Chemistry Core - Reactions & Energy,F1234L
+Spring,1,CH4020 AP Chemistry (I): Atoms & Molecules (*M*),B134L5
+Spring,2,CH4020 AP Chemistry (I): Atoms & Molecules (*M*),F1234L
+Spring,1,CH4120 AP Chemistry (II): Kinetics & Energy,A12L45
+Spring,2,CH4120 AP Chemistry (II): Kinetics & Energy,G12L34
+Spring,3,CH4120 AP Chemistry (II): Kinetics & Energy,C13L45
+Spring,4,CH4120 AP Chemistry (II): Kinetics & Energy,E123L5
+Spring,5,CH4120 AP Chemistry (II): Kinetics & Energy,B134L5
+Spring,6,CH4120 AP Chemistry (II): Kinetics & Energy,F1234L
+Spring,7,CH4120 AP Chemistry (II): Kinetics & Energy,D1235L
+Spring,8,CH4120 AP Chemistry (II): Kinetics & Energy,C13L45
+Spring,9,CH4120 AP Chemistry (II): Kinetics & Energy,E123L5
+Spring,1,CH4130 Organic Chemistry,B134L5
+Spring,2,CH4130 Organic Chemistry,F1234L
+Spring,1,CH4280 Materials Chemistry (*R*),C13L45
+Spring,1,CH4290 Biochemistry (*R*),D1235L
+Spring,1,CH4910 Research Computational Sci I,G12L34
+Spring,1,CH4921 Research Chem II (*R*),F1234LG12L34
+Spring,2,CH4921 Research Chem II (*R*),F1234LG12L34
+Spring,1,CN3052 Journeys into Chinese II,C1345
+Spring,2,CN3052 Journeys into Chinese II,D1235
+Spring,1,CN3652 Navigating in Chinese + Global Understanding II,C13L45
+Spring,2,CN3652 Navigating in Chinese + Global Understanding II,D1235L
+Spring,1,CN4052 Advanced Chinese II,A1245
+Spring,1,CN4652 Readings in Chinese with Topics,B1345
+Spring,1,CN4852 AP Chinese Language and Culture II,B1345
+Spring,1,CN4952 Advanced Readings in Chinese with Topics II,B1345
+Spring,3,CS4020 Web Development,C13L45
+Spring,1,CS4120 Computing for Everyone,D1235L
+Spring,1,CS4200/MA4200 Cryptography,B134L5
+Spring,2,CS4200/MA4200 Cryptography,C13L45
+Spring,3,CS4240 Procedural and Object-Oriented Programming,B134L5
+Spring,4,CS4240 Procedural and Object-Oriented Programming,F1234L
+Spring,1,CS4280 Advanced Java,E13L5L
+Spring,1,CS4320 Machine Learning,E13L5L
+Spring,1,CS4380 Algorithms,B134L5
+Spring,1,DR4102 Theater Performance Workshop: Voice and Scene Study,H3
+Spring,1,EE4020 Electrical Engineering,A12L45
+Spring,2,EE4020 Electrical Engineering,G12L34
+Spring,3,EE4020 Electrical Engineering,A12L45
+Spring,4,EE4020 Electrical Engineering,C13L45
+Spring,2,EE4100 Introductory Robotics,D1235L
+Spring,1,EE4160 Civil Engineering ,G2L4
+Spring,1,EE4300 Topics in Engineering- Robotics Design,H24
+Spring,1,EE4520 Biomedical Instrumentation,B134L5
+Spring,1,EE4540 Statics,A12L45
+Spring,1,EE4560 Circuits,D1235L
+Spring,1,EN4210 African Studies: Modern Africa,D135L
+Spring,2,EN4210 African Studies: Modern Africa,F134L
+Spring,1,EN4212 East Asian Studies II,C13L5
+Spring,2,EN4212 East Asian Studies II,G12L4
+Spring,1,EN4220 African Studies: North Africa and the Middle East,A12L4
+Spring,1,EN4234 Modern Latin American Literature in Translation,B14L5
+Spring,1,EN4242 Western European Cultural Studies II,H24
+Spring,1,EN4300 Creative Writing,A12L4
+Spring,2,EN4300 Creative Writing,B14L5
+Spring,1,EN4420 Classical Myth: Epic and Tragedy,E13L5
+Spring,1,EN4440 Philosophy and Literature in the Twentieth Century,H13
+Spring,2,EN4440 Philosophy and Literature in the Twentieth Century,I13
+Spring,1,EN4450 Shakespeare Now,C13L5
+Spring,2,EN4470 STEM and the Stage,D135L
+Spring,1,EN4482 Topics in Literature II: Literature of the American West,E13L5
+Spring,1,EN4600 Research Experience in the Humanities,H13
+Spring,2,EN4600 Research Experience in the Humanities,H24
+Spring,3,EN4600 Research Experience in the Humanities,F124L
+Spring,4,EN4600 Research Experience in the Humanities,G12L4
+Spring,1,FR3052 Journeys into French II,A1245
+Spring,1,FR3652 Navigating in French II,B1345
+Spring,1,FR4652 Modern French Readings/Media,E13L5
+Spring,1,HU4010 Applications in Entrepreneurship,C3H1
+Spring,1,"HU4300 Whose America? Immigrant Experiences, 1910-present ",B14L5
+Spring,2,HU440 Black Studies,C13L5
+Spring,2,HU4410 Critical Race Theory,C13L5
+Spring,1,HU4420 Digital Humanities,D135L
+Spring,1,HU4440 Film Studies,F124L
+Spring,2,HU4440 Film Studies,E13L5
+Spring,1,HU4461 Topics in Humanities II: Mind as Maker of AI,E13L5
+Spring,1,HU4470 Topics in the Study of Religion,A12L4
+Spring,1,"HU4490 Women's, Gender, and Sexuality Studies ",B13L5
+Spring,1,JA3052 Journeys into Japanese II,C13L5
+Spring,1,JA3652 Navigating in Japanese II,D135L
+Spring,1,LA3052 Latin Elements II,A12L4
+Spring,1,LA4050 Caesar in Gaul and Britannia,B14L5
+Spring,1,LA4662 Ovid's Metamorphoses II,D135L
+Spring,1,MA4002 Precalculus & Modeling w/ Advanced Topics II,D1235L
+Spring,2,MA4002 Precalculus & Modeling w/ Advanced Topics II,G12L34
+Spring,3,MA4002 Precalculus & Modeling w/ Advanced Topics II,C13L45
+Spring,4,MA4002 Precalculus & Modeling w/ Advanced Topics II,E123L5
+Spring,5,MA4002 Precalculus & Modeling w/ Advanced Topics II,F1234L
+Spring,1,MA4022 AP Calculus AB w/ Advanced Topics II,D1235L
+Spring,2,MA4022 AP Calculus AB w/ Advanced Topics II,E123L5
+Spring,2,MA4032 AP Calculus BC w/ Advanced Topics II,A12L45
+Spring,3,MA4032 AP Calculus BC w/ Advanced Topics II,B134L5
+Spring,4,MA4032 AP Calculus BC w/ Advanced Topics II,C13L45
+Spring,5,MA4032 AP Calculus BC w/ Advanced Topics II,D1235L
+Spring,6,MA4032 AP Calculus BC w/ Advanced Topics II,E123L5
+Spring,7,MA4032 AP Calculus BC w/ Advanced Topics II,F1234L
+Spring,8,MA4032 AP Calculus BC w/ Advanced Topics II,G12L34
+Spring,9,MA4032 AP Calculus BC w/ Advanced Topics II,A12L45
+Spring,10,MA4032 AP Calculus BC w/ Advanced Topics II,C13L45
+Spring,3,MA4050 Modeling with Differential Equations,C13L45
+Spring,4,MA4050 Modeling with Differential Equations,E123L5
+Spring,4,MA4060 Multivariable Calculus,D1235L
+Spring,5,MA4060 Multivariable Calculus,A12L45
+Spring,1,MA4102 AP Statistics w/ Advanced Topics II,D1235L
+Spring,2,MA4102 AP Statistics w/ Advanced Topics II,B134L5
+Spring,3,MA4102 AP Statistics w/ Advanced Topics II,F1234L
+Spring,4,MA4102 AP Statistics w/ Advanced Topics II,G12L34
+Spring,5,MA4102 AP Statistics w/ Advanced Topics II,B134L5
+Spring,3,MA4110 Foundations of Data Science,E13L5L
+Spring,4,MA4110 Foundations of Data Science,A12L45
+Spring,1,MA4112 Advanced Data Science,F1234L
+Spring,5,MA4210 Topics in Civic Mathematics,E13L5L
+Spring,1,MA4230 Complex Systems and Modern Networks,B134L5
+Spring,1,MA4240 Numerical Analysis,C13L45
+Spring,1,MA4300 Combinatorics and Game Theory,B134L
+Spring,2,MA4300 Combinatorics and Game Theory,A12L4
+Spring,1,MA4310 Topics in Theoretical Mathematics,F1234L
+Spring,3,MA4500 Graph Theory with REX Math,G12L34
+Spring,1,MA4510 Research in Math,G12L34
+Spring,1,MU3500 Classical Piano and Guitar,C145
+Spring,2,MU3500 Classical Piano and Guitar,G234
+Spring,1,MU4100 Chorale,E13L5L
+Spring,2,MU4100 Chorale,M12345
+Spring,1,MU4110 Wind Ensemble,H24
+Spring,2,MU4110 Wind Ensemble,M12345
+Spring,2,MU4120 Jazz Performance Workshop,E13L5
+Spring,1,MU4130 Orchestra,H24
+Spring,2,MU4130 Orchestra,M12345
+Spring,1,MU4310 AP Music Theory,M12 + asynchronous
+Spring,2,PA1000 Racquet Sports I,A2L
+Spring,3,PA1000 Racquet Sports I,G2L
+Spring,2,PA1003 Disc Sports,B4L
+Spring,2,PA1005 Weight Trng/Sprts & Fitness,C3L
+Spring,3,PA1005 Weight Trng/Sprts & Fitness,E3 Lab
+Spring,4,PA1005 Weight Trng/Sprts & Fitness,F4L
+Spring,3,PA1006 Team Sports,D5L
+Spring,4,PA1006 Team Sports,E5L
+Spring,3,PA1007 Pilates & Yoga,A2L
+Spring,4,PA1007 Pilates & Yoga,G2L
+Spring,2,PA1008 Self Defense,C3L
+Spring,2,PA1009 Hiking,A2L
+Spring ,1,PH3500 Physics Core: Mechanics,F1234L
+Spring ,1,"PH3920 Waves Sound, and Optics",B134L5
+Spring ,2,"PH3920 Waves Sound, and Optics",F1234L
+Spring ,3,"PH3920 Waves Sound, and Optics",D1235L
+Spring ,1,PH4000 Physics Core: E&M,A12L45
+Spring ,2,PH4000 Physics Core: E&M,G12L34
+Spring ,3,PH4000 Physics Core: E&M,C13L45
+Spring ,1,PH4020 Physics Core: Mechanics (Math Intensive) (*M*),E123L5
+Spring ,2,PH4020 Physics Core: Mechanics (Math Intensive) (*M*),B134L5
+Spring ,3,PH4020 Physics Core: Mechanics (Math Intensive) (*M*),F1234L
+Spring ,4,PH4020 Physics Core: Mechanics (Math Intensive) (*M*),D1235L
+Spring ,1,PH4120 Physics Core: E&M (Math Intensive) (*M*),A12L45
+Spring ,2,PH4120 Physics Core: E&M (Math Intensive) (*M*),G12L34
+Spring ,3,PH4120 Physics Core: E&M (Math Intensive) (*M*),C13L45
+Spring ,4,PH4120 Physics Core: E&M (Math Intensive) (*M*),E123L5
+Spring,1,PH4130 Computational Physics,G12L34
+Spring ,1,PH4150/EE4150 Elements of Satellite Design,F1234L
+Spring ,1,PH4180 Astrophysics (*R*),B134L5
+Spring,2,PH4180 Astrophysics (*R*),E123L5
+Spring ,1,PH4241 AP Physics C: E&M,D1235L
+Spring ,1,PH4260 Quantum Physics,C13L45
+Spring ,1,PH4921 Research in Physics II (*R*),F1234LG12L34
+Spring,4,RE1012 Public Speaking,A4
+Spring,5,RE1012 Public Speaking,E3
+Spring,6,RE1012 Public Speaking,G3
+Spring,7,RE1012 Public Speaking,C3
+Spring,1,RE1018 Excellence in Leadership,C4
+Spring,2,RE1018 Excellence in Leadership,E2
+Spring,3,RE1018 Excellence in Leadership,F3
+Spring,6,Financial Planning,B2
+Spring,7,Financial Planning,E3
+Spring,8,Financial Planning,G3
+Spring ,1,College and Career Planning,A2
+Spring ,2,College and Career Planning,A4
+Spring,3,College and Career Planning,B3
+Spring,4,College and Career Planning,B4
+Spring,5,College and Career Planning,C3
+Spring,6,College and Career Planning,C4
+Spring,7,College and Career Planning,D2
+Spring,8,College and Career Planning,D3
+Spring,9,College and Career Planning,E2
+Spring,10,College and Career Planning,E2
+Spring,11,College and Career Planning,E3
+Spring,12,College and Career Planning,F2
+Spring,13,College and Career Planning,F3
+Spring,14,College and Career Planning,F4
+Spring,15,College and Career Planning,G3
+Spring,16,College and Career Planning,G4
+Spring,2,SE4001 Emergency Care,B134L 
+Spring,1,SP3052 Journeys in Spanish II,B1345
+Spring,2,SP3052 Journeys in Spanish II,F1234
+Spring,1,SP3652 Navigating in Spanish II,A1245
+Spring,2,SP3652 Navigating in Spanish II,E1235
+Spring,3,SP3652 Navigating in Spanish II,G1234
+Spring,4,SP3652 Navigating in Spanish II,B1345
+Spring,1,SP4051 Spanish for Heritage Speakers,D1235
+Spring,1,SP4252 Topics in Advanced Spanish II,D1235
+Spring,2,SP4252 Topics in Advanced Spanish II,A1245
+Spring,2,SS4030 Medical Sociology,B145
+Spring,3,SS4050 AP Psychology,A1245
+Spring,2,SS4050 AP Psychology,D1235
+Spring,1,SS4070 AP Macroeconomics,E13L5
