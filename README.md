@@ -22,6 +22,6 @@ To scrape new data, simply run `./preprocess.py`. Otherwise, the `www` directory
 
 ## License
 
-Copyright 2022 Timothy Laskoski
+Copyright 2022 Kirsten Laskoski
 
 Licensed under [MIT](https://github.com/tslnc04/smath-classes/blob/main/LICENSE).
